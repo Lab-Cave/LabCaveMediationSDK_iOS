@@ -1,0 +1,6 @@
+framework module LabCaveMediationAdMob {
+  umbrella header "LabCaveMediationAdMob.h"
+
+  export *
+  module * { export * }
+}

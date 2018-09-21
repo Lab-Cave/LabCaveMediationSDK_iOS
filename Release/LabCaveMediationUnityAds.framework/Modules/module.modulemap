@@ -1,0 +1,6 @@
+framework module LabCaveMediationUnityAds {
+  umbrella header "LabCaveMediationUnityAds.h"
+
+  export *
+  module * { export * }
+}

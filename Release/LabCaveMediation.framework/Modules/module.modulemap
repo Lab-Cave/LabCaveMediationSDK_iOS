@@ -1,0 +1,6 @@
+framework module LabCaveMediation {
+  umbrella header "LabCaveMediation.h"
+
+  export *
+  module * { export * }
+}

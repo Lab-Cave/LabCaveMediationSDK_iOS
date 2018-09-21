@@ -1,0 +1,6 @@
+framework module LabCaveMediationIronsource {
+  umbrella header "LabCaveMediationIronsource.h"
+
+  export *
+  module * { export * }
+}

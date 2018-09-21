@@ -1,0 +1,6 @@
+framework module LabCaveMediationChartboost {
+  umbrella header "LabCaveMediationChartboost.h"
+
+  export *
+  module * { export * }
+}

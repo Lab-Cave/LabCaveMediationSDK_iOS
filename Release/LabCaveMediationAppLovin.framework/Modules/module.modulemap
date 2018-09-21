@@ -1,0 +1,6 @@
+framework module LabCaveMediationAppLovin {
+  umbrella header "LabCaveMediationAppLovin.h"
+
+  export *
+  module * { export * }
+}

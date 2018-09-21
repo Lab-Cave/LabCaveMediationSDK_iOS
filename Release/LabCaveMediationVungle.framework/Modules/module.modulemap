@@ -1,0 +1,6 @@
+framework module LabCaveMediationVungle {
+  umbrella header "LabCaveMediationVungle.h"
+
+  export *
+  module * { export * }
+}
