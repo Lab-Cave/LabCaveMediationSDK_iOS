@@ -79,7 +79,7 @@ The sdk offers a delegate where you can receive the events of the ads.
 
 ```objectivec
 // When the sdk is already initialized, if everything is ok, state will be true.
-- (void)LabCaveMediationInitialized:(BOOL)state
+- (void)labCaveMediationInitialized:(BOOL)state
 {
 }
 // Will be called when any ad is loaded, it will tell you the type MMLType.MMLBannerFormat, MMLType.MMLInterstitialFormat and MMLType.MMLRewardedVideoFormat
@@ -129,7 +129,7 @@ The sdk offers a delegate where you can receive the events of the ads.
 
 // Swift
  // When the sdk is already initialized, if everything is ok, state will be true.
-  func LabCaveMediationInitialized(_ state: Bool) {
+  func labCaveMediationInitialized(_ state: Bool) {
 
     }
  // Will be called when any ad is loaded, it will tell you the type MMLType.MMLBannerFormat, MMLType.MMLInterstitialFormat and MMLType.MMLRewardedVideoFormat
