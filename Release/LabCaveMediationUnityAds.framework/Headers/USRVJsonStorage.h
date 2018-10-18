@@ -1,4 +1,4 @@
-@interface UADSJsonStorage : NSObject
+@interface USRVJsonStorage : NSObject
 
 @property (nonatomic, strong) NSMutableDictionary *storageContents;
 

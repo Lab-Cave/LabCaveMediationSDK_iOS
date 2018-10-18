@@ -8,13 +8,13 @@
 		<data>
 		Qkw+1GVVCrOyiWDpBreoroeEdQw=
 		</data>
+		<key>Headers/UADSBanner.h</key>
+		<data>
+		7kCjXs7KIVfBwLod2y++bE+W7bQ=
+		</data>
 		<key>Headers/UADSInAppPurchaseMetaData.h</key>
 		<data>
 		Suc3+JOZ7HJfRP6hO4xNR1DcWVo=
-		</data>
-		<key>Headers/UADSJsonStorage.h</key>
-		<data>
-		zUJYPlZHe2QXB11AVRUNvro2hDE=
 		</data>
 		<key>Headers/UADSMediationMetaData.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/UADSMetaData.h</key>
 		<data>
-		ifHfrYnZoqO515rxaupsk2WNrfA=
+		JUsvL1pidOJaNPB4MoOZKu76hto=
 		</data>
 		<key>Headers/UADSPlayerMetaData.h</key>
 		<data>
@@ -32,13 +32,109 @@
 		<data>
 		1rNXlc4RlOpPTL4FzuaZ2NkAF/Y=
 		</data>
+		<key>Headers/UANAApiAnalytics.h</key>
+		<data>
+		s6OPTI33WK2f0SjLbSg7yjZnT+E=
+		</data>
+		<key>Headers/UMONCustomEvent.h</key>
+		<data>
+		7GDHID8QfrHnrNGviEuV7vG9HYU=
+		</data>
+		<key>Headers/UMONItem.h</key>
+		<data>
+		gQOYp1VLEw4HZxwyR5RXbUBeHxI=
+		</data>
+		<key>Headers/UMONNativePromoAdapter.h</key>
+		<data>
+		qeihGPjm9pfW8d02hhHsbRITpnM=
+		</data>
+		<key>Headers/UMONPlacementContent.h</key>
+		<data>
+		HVKB3WUuvwoWM/WzFYkcv+i+zfQ=
+		</data>
+		<key>Headers/UMONPromoAdPlacementContent.h</key>
+		<data>
+		+MvulcsQ5RqRBdKIRGsc5U36oW4=
+		</data>
+		<key>Headers/UMONPromoMetaData.h</key>
+		<data>
+		11vySlcfIu69YzTY0kcvnufOn7c=
+		</data>
+		<key>Headers/UMONRewardablePlacementContent.h</key>
+		<data>
+		NhHbp7WpZk8qbfMZlswx5J0R1Ng=
+		</data>
+		<key>Headers/UMONShowAdPlacementContent.h</key>
+		<data>
+		v0vkzXBLR+L7pxzTASznbwPlERA=
+		</data>
+		<key>Headers/UPURProduct.h</key>
+		<data>
+		I7+CgBK+fs3KQDSuCpkFrdaqyCg=
+		</data>
+		<key>Headers/UPURStore.h</key>
+		<data>
+		gi5YXBlyaJHVN5ZioeRnVkQnVe8=
+		</data>
+		<key>Headers/UPURTransactionDetails.h</key>
+		<data>
+		l/Z0wXRobnKfh0m0LdbTf7NFDLg=
+		</data>
+		<key>Headers/UPURTransactionError.h</key>
+		<data>
+		8/oMZWQUQGMUrFjx/OZQDW5QiTs=
+		</data>
+		<key>Headers/UPURTransactionErrorDetails.h</key>
+		<data>
+		ujkkG6x0Pz2r/RzuHp4O4io7jl8=
+		</data>
+		<key>Headers/USRVJsonStorage.h</key>
+		<data>
+		LcFHrrc9qvGWTMPFcOt/0vyocGo=
+		</data>
+		<key>Headers/USRVUnityPurchasing.h</key>
+		<data>
+		ENZh1+v0MxaaCIBMEcnuGnmZCuU=
+		</data>
+		<key>Headers/USRVUnityPurchasingDelegate.h</key>
+		<data>
+		R/ZN3aZutmLcpniP9F1BdVNalwk=
+		</data>
 		<key>Headers/UnityAds.h</key>
 		<data>
-		SimAo9Zh7PXZ2Cj/363L9Iwvvus=
+		rThG6P1tkzxQ7u0y/b9juUVMUO8=
 		</data>
 		<key>Headers/UnityAdsExtended.h</key>
 		<data>
 		AlK1PZmetrt1lC/LRqnZVSR6lKU=
+		</data>
+		<key>Headers/UnityAdsFinishState.h</key>
+		<data>
+		E4r5QngahmfQuDhxiSI52KsdOvo=
+		</data>
+		<key>Headers/UnityAnalytics.h</key>
+		<data>
+		WW7nFpKwQKeLd4xomXfHifYuucU=
+		</data>
+		<key>Headers/UnityAnalyticsAcquisitionType.h</key>
+		<data>
+		6dNNso8HgSc4j7vbVbJtCCG3It0=
+		</data>
+		<key>Headers/UnityMonetization.h</key>
+		<data>
+		JasZJVNXFVxtAQcnclvdbUpVgGA=
+		</data>
+		<key>Headers/UnityMonetizationDelegate.h</key>
+		<data>
+		c6TfZMKX8xL6HIpJik/qWywsDIs=
+		</data>
+		<key>Headers/UnityMonetizationPlacementContentState.h</key>
+		<data>
+		98kP5C4jYjp5bkqXV7svleNFnm8=
+		</data>
+		<key>Headers/UnityServices.h</key>
+		<data>
+		Xr7CLX2ieoCM+mf/WWA7m3w5IAk=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -62,6 +158,17 @@
 			LpJR7ZjcGI8fnlGlRtjXcOVSMZu3EnGykAhLNRv6kN0=
 			</data>
 		</dict>
+		<key>Headers/UADSBanner.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7kCjXs7KIVfBwLod2y++bE+W7bQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			9O0Cps2I+k9mFEohjZ2AdalgUDju5yOUpI8fEdPIggY=
+			</data>
+		</dict>
 		<key>Headers/UADSInAppPurchaseMetaData.h</key>
 		<dict>
 			<key>hash</key>
@@ -71,17 +178,6 @@
 			<key>hash2</key>
 			<data>
 			SoLI8r7kCvqqUu+gS+ttrXgNzy9jT8QHOP02deO/l8Y=
-			</data>
-		</dict>
-		<key>Headers/UADSJsonStorage.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zUJYPlZHe2QXB11AVRUNvro2hDE=
-			</data>
-			<key>hash2</key>
-			<data>
-			9mnJJOS2gLo+SybaLFw+bhLx/RnaFXsawbpj8jHNtIg=
 			</data>
 		</dict>
 		<key>Headers/UADSMediationMetaData.h</key>
@@ -99,11 +195,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ifHfrYnZoqO515rxaupsk2WNrfA=
+			JUsvL1pidOJaNPB4MoOZKu76hto=
 			</data>
 			<key>hash2</key>
 			<data>
-			AfE3mDbKn9vdU3BB/TH7peywKgbvDMBYo7k27w7Acts=
+			BXPXX8Ii6+SlPLEpOQbJcpy3ngoNAAWWV7bpPAMphww=
 			</data>
 		</dict>
 		<key>Headers/UADSPlayerMetaData.h</key>
@@ -128,15 +224,202 @@
 			ldK16L4/mxzJhyIVu+1POUQLqliHzsZF6urAXlD5XiE=
 			</data>
 		</dict>
+		<key>Headers/UANAApiAnalytics.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s6OPTI33WK2f0SjLbSg7yjZnT+E=
+			</data>
+			<key>hash2</key>
+			<data>
+			FWNLDygYrdDu0wj/EZpyy1+00yMHY1kjYBdg0fW8rY0=
+			</data>
+		</dict>
+		<key>Headers/UMONCustomEvent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7GDHID8QfrHnrNGviEuV7vG9HYU=
+			</data>
+			<key>hash2</key>
+			<data>
+			qDl07wjQ+NW2RGL11t+OhaGfyvvGwvE53YMumcSBBU0=
+			</data>
+		</dict>
+		<key>Headers/UMONItem.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gQOYp1VLEw4HZxwyR5RXbUBeHxI=
+			</data>
+			<key>hash2</key>
+			<data>
+			Kgsr5bU62J2FIYDPdaRxpqn7OTya1+cQOCUUCYcm+0Q=
+			</data>
+		</dict>
+		<key>Headers/UMONNativePromoAdapter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qeihGPjm9pfW8d02hhHsbRITpnM=
+			</data>
+			<key>hash2</key>
+			<data>
+			+oStd26ZezY81CheszikEoisA1BSWpfb7AivtSKzOzA=
+			</data>
+		</dict>
+		<key>Headers/UMONPlacementContent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HVKB3WUuvwoWM/WzFYkcv+i+zfQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			T8YNSxEDtd13aptreXyxfjbCfNErk7R0vBxgQXbUs/U=
+			</data>
+		</dict>
+		<key>Headers/UMONPromoAdPlacementContent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+MvulcsQ5RqRBdKIRGsc5U36oW4=
+			</data>
+			<key>hash2</key>
+			<data>
+			xSGPnWtiEyzztqBuBzFVa6I/lj0Hvb6/UFDAc0aKdu4=
+			</data>
+		</dict>
+		<key>Headers/UMONPromoMetaData.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			11vySlcfIu69YzTY0kcvnufOn7c=
+			</data>
+			<key>hash2</key>
+			<data>
+			fzbyKzo/UUL7Tm22JugM2e7A9ukMscWPUUc2/WgID6o=
+			</data>
+		</dict>
+		<key>Headers/UMONRewardablePlacementContent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NhHbp7WpZk8qbfMZlswx5J0R1Ng=
+			</data>
+			<key>hash2</key>
+			<data>
+			Kpkkds8Gbyk8PMEho19lKCAj2QYJO1KyNckhSMUbT3w=
+			</data>
+		</dict>
+		<key>Headers/UMONShowAdPlacementContent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			v0vkzXBLR+L7pxzTASznbwPlERA=
+			</data>
+			<key>hash2</key>
+			<data>
+			zOk/qFv9xIZtfWBHB8RIP/QfUyRe0Lxqj2pG3v9cAD8=
+			</data>
+		</dict>
+		<key>Headers/UPURProduct.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			I7+CgBK+fs3KQDSuCpkFrdaqyCg=
+			</data>
+			<key>hash2</key>
+			<data>
+			md6oPh2e6FVC6L3cyoZFlzgU19x6WPkqH3FwJmc+434=
+			</data>
+		</dict>
+		<key>Headers/UPURStore.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gi5YXBlyaJHVN5ZioeRnVkQnVe8=
+			</data>
+			<key>hash2</key>
+			<data>
+			7McNFGS8o7Bnuj+/DI5srRbPJ/1C/jnbAHHkivuuR5U=
+			</data>
+		</dict>
+		<key>Headers/UPURTransactionDetails.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			l/Z0wXRobnKfh0m0LdbTf7NFDLg=
+			</data>
+			<key>hash2</key>
+			<data>
+			67u6zshfnazarUOtNtAE4xOpJiUqBzyXsLFnxQRg3AA=
+			</data>
+		</dict>
+		<key>Headers/UPURTransactionError.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8/oMZWQUQGMUrFjx/OZQDW5QiTs=
+			</data>
+			<key>hash2</key>
+			<data>
+			Eu3RLP7edNGNlHq4U0dUmqNvGy7XteHEAVrPEh9GLq8=
+			</data>
+		</dict>
+		<key>Headers/UPURTransactionErrorDetails.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ujkkG6x0Pz2r/RzuHp4O4io7jl8=
+			</data>
+			<key>hash2</key>
+			<data>
+			po9UXbkQBemDTWs5dUQAfMkyOFAONA1AZ+zeouO24Rk=
+			</data>
+		</dict>
+		<key>Headers/USRVJsonStorage.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LcFHrrc9qvGWTMPFcOt/0vyocGo=
+			</data>
+			<key>hash2</key>
+			<data>
+			jaeouckecameLLF/c2JYlXg7XZf2NGwhi9jaWkQAXdw=
+			</data>
+		</dict>
+		<key>Headers/USRVUnityPurchasing.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ENZh1+v0MxaaCIBMEcnuGnmZCuU=
+			</data>
+			<key>hash2</key>
+			<data>
+			vhqo//NLZtNBXktTGwdqTrQ2qCgNFO0oL667QVdJ/ZU=
+			</data>
+		</dict>
+		<key>Headers/USRVUnityPurchasingDelegate.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R/ZN3aZutmLcpniP9F1BdVNalwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			pxcTsB1ipmxTD3odmirUR+1cwEda8HBDoL8EfzM5T3w=
+			</data>
+		</dict>
 		<key>Headers/UnityAds.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SimAo9Zh7PXZ2Cj/363L9Iwvvus=
+			rThG6P1tkzxQ7u0y/b9juUVMUO8=
 			</data>
 			<key>hash2</key>
 			<data>
-			AaFkIvBktKinoxROQEXUnLjNUV5OKnrjv61e31IcAkM=
+			bL6Z24o/1pGNcIIrjeenUXA8HVTe3SR61ALuJraPQlc=
 			</data>
 		</dict>
 		<key>Headers/UnityAdsExtended.h</key>
@@ -148,6 +431,83 @@
 			<key>hash2</key>
 			<data>
 			7RD9Gs9tRxJY3nDABazrdc/7UD4xEvTk5l2tgYU7URM=
+			</data>
+		</dict>
+		<key>Headers/UnityAdsFinishState.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E4r5QngahmfQuDhxiSI52KsdOvo=
+			</data>
+			<key>hash2</key>
+			<data>
+			hLCnjPZXJhE+ftvQnSTT5XK8wtcHvX7tXzA5Iwh20wg=
+			</data>
+		</dict>
+		<key>Headers/UnityAnalytics.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WW7nFpKwQKeLd4xomXfHifYuucU=
+			</data>
+			<key>hash2</key>
+			<data>
+			U2dtpZkTg28SEEwQh+MtM7u0EZ2cZtWU30BoHL6Dw/U=
+			</data>
+		</dict>
+		<key>Headers/UnityAnalyticsAcquisitionType.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6dNNso8HgSc4j7vbVbJtCCG3It0=
+			</data>
+			<key>hash2</key>
+			<data>
+			aWW/djeY197SgBsHAniO+WWSEpHAI3J4+laQC/orqaQ=
+			</data>
+		</dict>
+		<key>Headers/UnityMonetization.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JasZJVNXFVxtAQcnclvdbUpVgGA=
+			</data>
+			<key>hash2</key>
+			<data>
+			0Jq/jek/xuGyMHjpvBxmw3tI91LaRhO4ITIZysKIrLo=
+			</data>
+		</dict>
+		<key>Headers/UnityMonetizationDelegate.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c6TfZMKX8xL6HIpJik/qWywsDIs=
+			</data>
+			<key>hash2</key>
+			<data>
+			cpNYHlEIT/IU9gvWyXVi2zZtfQ/ZWIpBQzBvE60VESs=
+			</data>
+		</dict>
+		<key>Headers/UnityMonetizationPlacementContentState.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			98kP5C4jYjp5bkqXV7svleNFnm8=
+			</data>
+			<key>hash2</key>
+			<data>
+			faa3cT1YSXuqfL9yl9VJNOo6CgW4wbRMtPhLkqSlCc0=
+			</data>
+		</dict>
+		<key>Headers/UnityServices.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Xr7CLX2ieoCM+mf/WWA7m3w5IAk=
+			</data>
+			<key>hash2</key>
+			<data>
+			057vfYEB1ZR0QsC3k4BvTACRSsBVQmKrnrRE5WwdB8s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

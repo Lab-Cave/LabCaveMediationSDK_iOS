@@ -6,7 +6,11 @@
 	<dict>
 		<key>Headers/ISBannerDelegate.h</key>
 		<data>
-		mYkukT3rYEft0hzPc0OwFmbgOzY=
+		fYm4lOayUc6AwMXJO9kYVdH/rw8=
+		</data>
+		<key>Headers/ISBannerSize.h</key>
+		<data>
+		etTvjDONaWY9Yt6KCkRua60tsxw=
 		</data>
 		<key>Headers/ISBannerView.h</key>
 		<data>
@@ -14,7 +18,7 @@
 		</data>
 		<key>Headers/ISConfigurations.h</key>
 		<data>
-		4DZxfp2eZv3HkN9EfONubgcPhGs=
+		8bTgWwAQi9jCSKD2tcd9Ua+IlX0=
 		</data>
 		<key>Headers/ISDemandOnlyInterstitialDelegate.h</key>
 		<data>
@@ -90,7 +94,7 @@
 		</data>
 		<key>Headers/IronSource.h</key>
 		<data>
-		J16waaim3cjnGtiR7yeihU9TSJ4=
+		7JKusQg30PiUtsXKR1x/5v7DM0w=
 		</data>
 		<key>Headers/LabCaveMediationIronsource.h</key>
 		<data>
@@ -111,11 +115,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mYkukT3rYEft0hzPc0OwFmbgOzY=
+			fYm4lOayUc6AwMXJO9kYVdH/rw8=
 			</data>
 			<key>hash2</key>
 			<data>
-			/AdqV0VzQePMN+Oh72ukMI48E3R443ioZyH55i2JNKk=
+			b0Ln5BxDSQSHVLXYhYkhXf9FFEUeyBmOm4JyIZmWyko=
+			</data>
+		</dict>
+		<key>Headers/ISBannerSize.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			etTvjDONaWY9Yt6KCkRua60tsxw=
+			</data>
+			<key>hash2</key>
+			<data>
+			tSiUhgwafRYAl7x9Vq+jm5iipf1VPC/EqzJIVpMxMdY=
 			</data>
 		</dict>
 		<key>Headers/ISBannerView.h</key>
@@ -133,11 +148,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4DZxfp2eZv3HkN9EfONubgcPhGs=
+			8bTgWwAQi9jCSKD2tcd9Ua+IlX0=
 			</data>
 			<key>hash2</key>
 			<data>
-			3siGfX1ZmQTQEWSmyv8U7l6dOHDn9uLFEK5rzOBiJ1c=
+			Z2DHcT/qGn3CL3tOvKIsJ/5Jwn7w4nsITf9BO9qc6AI=
 			</data>
 		</dict>
 		<key>Headers/ISDemandOnlyInterstitialDelegate.h</key>
@@ -342,11 +357,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			J16waaim3cjnGtiR7yeihU9TSJ4=
+			7JKusQg30PiUtsXKR1x/5v7DM0w=
 			</data>
 			<key>hash2</key>
 			<data>
-			fy5uECRz5mtr1eKRRyuuQ5JdXyW5a+YJIw6VCMD/ERQ=
+			SOq8K3yuJEsrvke3j7vCE84+MZ2BHvV3JNF3mNJtPbQ=
 			</data>
 		</dict>
 		<key>Headers/LabCaveMediationIronsource.h</key>
