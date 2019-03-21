@@ -181,3 +181,16 @@ You can enable loggin to check what is happening
 // Swift
 LabCaveMediation.setLogEnabled(true)
 ```
+
+To check if the integration of each thirparty is correct open the test module, make sure you call the "initWithAppHash" method first and wait till the "labCaveMediationInitialized" delegate method is called for the first time:
+
+*Make sure you remove this test module on your release build.
+
+
+```objectivec
+// Objective-C
+[LabCaveMediation testMediationAds:self appHash:@"YOUR_APP_HASH"];
+
+// Swift
+LabCaveMediation.testMediationAds(self, appHash:"YOUR_APP_HASH")
+```
