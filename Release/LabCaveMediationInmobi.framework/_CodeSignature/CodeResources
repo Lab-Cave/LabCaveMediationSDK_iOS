@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/IMRequestStatus.h</key>
 		<data>
-		+MFeTVIYIoH+KmYJu49gsGMQm7Q=
+		/soekd5GSHLcJP7Ncp92nuzSuVU=
 		</data>
 		<key>Headers/IMSdk.h</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xyZYqeLW7c2tDN5bxWlqzRMntqM=
+		AoPvFmiFRvlSZRjJhi0jUvlyZN8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -140,11 +140,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+MFeTVIYIoH+KmYJu49gsGMQm7Q=
+			/soekd5GSHLcJP7Ncp92nuzSuVU=
 			</data>
 			<key>hash2</key>
 			<data>
-			4EKGzV6LPFhcOGLrUx7qSfDSE447JcTzLNC9ak07zMQ=
+			2HY3+llXbpaAb+mM+30Mgh5Wltsup9pWH/9xAf4ckQ4=
 			</data>
 		</dict>
 		<key>Headers/IMSdk.h</key>
@@ -194,7 +194,7 @@
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -225,24 +225,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -278,13 +266,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>

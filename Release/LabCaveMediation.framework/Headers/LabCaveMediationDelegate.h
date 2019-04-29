@@ -46,7 +46,7 @@ typedef NS_ENUM(NSUInteger, LMLType) {
  *  Mediation Initialized
  *
   */
-- (void)labCaveMediationInitialized:(BOOL)state;
+- (void)mediationInitialized:(BOOL)state;
 
 /**
  *  Advert Loaded
@@ -80,5 +80,4 @@ typedef NS_ENUM(NSUInteger, LMLType) {
  * Reward user
  */
 - (void)rewardUser:(NSString *)provider type:(LMLType)type zone:(NSString *)zoneId;
-
 @end

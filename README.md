@@ -1,6 +1,6 @@
 # LabCaveMediationSDK-iOS
 
-The current version (2.5.1) is tested with Xcode8 or above and is compatible with iOS 8 and above.
+The current version (2.6.0) is tested with Xcode8 or above and is compatible with iOS 8 and above.
 ## Download SDK
 
 Download our sdk, add the LabCaveMediation.framework to your project in General tab Linked Frameworks and Libraries. Now you must add the following frameworks and libs to your project in General tab Linked Frameworks and Libraries. Ensure that the frameworks are linked correctly.

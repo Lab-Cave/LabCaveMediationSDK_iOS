@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/ISConfigurations.h</key>
 		<data>
-		8bTgWwAQi9jCSKD2tcd9Ua+IlX0=
+		OpmpaUTVQQf7O5IyY7YTtqtcjOU=
 		</data>
 		<key>Headers/ISDemandOnlyInterstitialDelegate.h</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Headers/ISProductSettings.h</key>
 		<data>
-		0uzXGkZJ8lcrHkHDlnC3uxUlcVU=
+		p/GsG8NmcUzG5+ZZS0AwwOGLzWA=
 		</data>
 		<key>Headers/ISRewardedInterstitialDelegate.h</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Headers/IronSource.h</key>
 		<data>
-		7JKusQg30PiUtsXKR1x/5v7DM0w=
+		BZGrXCpLTfldIg883cIaNg7tJ3g=
 		</data>
 		<key>Headers/LabCaveMediationIronsource.h</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XBE3aq8XdzRups81mj97VN7R7LA=
+		axeiG2NUW4bsduUPh7TJdTqfsdA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -148,11 +148,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8bTgWwAQi9jCSKD2tcd9Ua+IlX0=
+			OpmpaUTVQQf7O5IyY7YTtqtcjOU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z2DHcT/qGn3CL3tOvKIsJ/5Jwn7w4nsITf9BO9qc6AI=
+			+68shjgJq1RDFTYzHA7i5wEVmDpOQyY7fJL6OEdSlRE=
 			</data>
 		</dict>
 		<key>Headers/ISDemandOnlyInterstitialDelegate.h</key>
@@ -280,11 +280,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0uzXGkZJ8lcrHkHDlnC3uxUlcVU=
+			p/GsG8NmcUzG5+ZZS0AwwOGLzWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qhu8KyUoYXHdTjKcvOIw79IrthdGKmGfw+PR/F+hpS4=
+			IR1etJUzMEP5a3xio1ugnoSrEXgkNYILT9KpTzg5zgs=
 			</data>
 		</dict>
 		<key>Headers/ISRewardedInterstitialDelegate.h</key>
@@ -357,11 +357,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7JKusQg30PiUtsXKR1x/5v7DM0w=
+			BZGrXCpLTfldIg883cIaNg7tJ3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			SOq8K3yuJEsrvke3j7vCE84+MZ2BHvV3JNF3mNJtPbQ=
+			gBQL/PDZXirvW2I4hFRvWSpyxf3UCxhlJpoIwJ4KZZU=
 			</data>
 		</dict>
 		<key>Headers/LabCaveMediationIronsource.h</key>
@@ -389,7 +389,7 @@
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -420,24 +420,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -473,13 +461,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>

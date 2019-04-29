@@ -5,7 +5,7 @@
 //  Created by LabCaveGames on 21/2/17.
 //  Copyright © 2017 Lab Cave Apps S.L. All rights reserved.
 //
-// LabCaveGames SDK 2.5.1
+// LabCaveGames SDK 2.6.0
 
 #import <Foundation/Foundation.h>
 #import <CoreLocation/CoreLocation.h>
@@ -31,8 +31,6 @@
  *  @param viewController The UIViewController that will present the Ad
  */
 + (void)initWithAppHash:(NSString *)appHash delegate:(id<LMLDelegate>)delegate viewController:(UIViewController *)viewController;
-+ (void)initWithAppHash:(NSString *)appHash autoFetch:(BOOL)autoFecth delegate:(id<LMLDelegate>)delegate viewController:(UIViewController *)viewController;
-
 /**
  *  ShowLabCaveGamesMediation
  *  @param delegate will set the delegate that will be called
@@ -46,21 +44,15 @@
 + (void)showRewardedVideoAdWithDelegate:(id<LMLDelegate>)delegate zone:(NSString *)zone viewController:(UIViewController *)viewController;
 
 /**
- *  Fetch LabCaveGames Mediation
+ *  ShowLabCaveGamesMediation
+ *  @param zone string tag the zone of the app the ad will be showed
+ *  @param viewController The UIViewController that will present the Ad
  */
-+ (void)fetchBanner:(id<LMLDelegate>)delegate zone:(NSString *)zone viewController:(UIViewController *)viewController;
++ (void)showBannerAdWitZone:(NSString *)zone viewController:(UIViewController *)viewController;
 
-+ (void)fetchInterstitial:(id<LMLDelegate>)delegate zone:(NSString *)zone viewController:(UIViewController *)viewController;
++ (void)showInterstitialAdWithZone:(NSString *)zone viewController:(UIViewController *)viewController;
 
-+ (void)fetchVideo:(id<LMLDelegate>)delegate zone:(NSString *)zone viewController:(UIViewController *)viewController;
-
-+ (void)fetchRewardedVideo:(id<LMLDelegate>)delegate zone:(NSString *)zone viewController:(UIViewController *)viewController;
-
-+ (void)fetchBannerWithZone:(NSString *)zone viewController:(UIViewController *)viewController;
-
-+ (void)fetchInterstitialWithZone:(NSString *)zone viewController:(UIViewController *)viewController;
-
-+ (void)fetchRewardedVideoWithZone:(NSString *)zone viewController:(UIViewController *)viewController;
++ (void)showRewardedVideoAdWithZone:(NSString *)zone viewController:(UIViewController *)viewController;
 
 /**
  *  Check ad state

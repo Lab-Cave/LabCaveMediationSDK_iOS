@@ -10,15 +10,15 @@
 		</data>
 		<key>Headers/LabCaveMediation.h</key>
 		<data>
-		Xb9+u3znWrOmXSQx+xdCWOcWaK0=
+		3h0DBlR1RPXGkRaH4imhPlVCcSo=
 		</data>
 		<key>Headers/LabCaveMediationDelegate.h</key>
 		<data>
-		WWoCuGYWFol4UzVFEOm0y8x/494=
+		/L/iwTrOOIHr3fz/8MDgEb8uv+o=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		InB2wrtoB2y77jiA35eF9LTmwW0=
+		Mi92ODrEItMY9zQQMMHbar0umqc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,22 +42,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Xb9+u3znWrOmXSQx+xdCWOcWaK0=
+			3h0DBlR1RPXGkRaH4imhPlVCcSo=
 			</data>
 			<key>hash2</key>
 			<data>
-			sX62BdKjb0TRSYmtY0uzVlD73laruOn8JiW2uFCgCDI=
+			EDQniUPdRJRl+pvnU/VmHOUHmFEu26MoYJOoZGWw9l8=
 			</data>
 		</dict>
 		<key>Headers/LabCaveMediationDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WWoCuGYWFol4UzVFEOm0y8x/494=
+			/L/iwTrOOIHr3fz/8MDgEb8uv+o=
 			</data>
 			<key>hash2</key>
 			<data>
-			PNCRmOMVPGi3LVOQFbEEsfKkN+WFPBIoDofQ5sSC1us=
+			8qou31s3dyhXz+I03DZcG0c2b4hhT2flxXv7O1ntdQs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -74,7 +74,7 @@
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -105,24 +105,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -158,13 +146,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>

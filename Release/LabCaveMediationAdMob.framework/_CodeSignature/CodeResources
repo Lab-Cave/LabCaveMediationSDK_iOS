@@ -6,15 +6,15 @@
 	<dict>
 		<key>Headers/DFPBannerView.h</key>
 		<data>
-		TtalCyEsNeaqIyi5TtIRTYp7ogA=
+		l70LAXGSiNbxEva0z3uWrvNkwho=
 		</data>
 		<key>Headers/DFPBannerViewOptions.h</key>
 		<data>
-		DelWpelxp1gwCnyPaqXyzZOesSg=
+		w0pbcUM6IAs9QpdcSDnuEipM5kA=
 		</data>
 		<key>Headers/DFPCustomRenderedAd.h</key>
 		<data>
-		b7Zh+D1ceIETjvTt+I9crO/auSc=
+		ScJ5sqfbwM3n+StVPIG3viikAs4=
 		</data>
 		<key>Headers/DFPCustomRenderedBannerViewDelegate.h</key>
 		<data>
@@ -26,19 +26,19 @@
 		</data>
 		<key>Headers/DFPInterstitial.h</key>
 		<data>
-		TV2Iyg1mmYqnIo+h5wECsuskggA=
+		HnOhBt2h8eJNpcgndLpqXf+TIW0=
 		</data>
 		<key>Headers/DFPRequest.h</key>
 		<data>
-		ugbkebD1K3zUswPtVHYP230zFO0=
+		9KC1STSkgpinoTR2yho/HOjpQeE=
 		</data>
 		<key>Headers/GADAdChoicesView.h</key>
 		<data>
-		YGaazvhaGxRFZ4JcvqEjhA8FXc8=
+		3LvJKM0Z4sDIuSpD97ZCAm+yTrQ=
 		</data>
 		<key>Headers/GADAdLoader.h</key>
 		<data>
-		5FCj6cfvW/6A5RDVvO7AoMBBM9Y=
+		5bDchp8U6U3SJWa6WWvnMHLeBP4=
 		</data>
 		<key>Headers/GADAdLoaderAdTypes.h</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Headers/GADAdReward.h</key>
 		<data>
-		P+UC1H33dak15MIpHlyhPVSu22E=
+		SBiSyjyq08DzsOTH4hidDRjkYks=
 		</data>
 		<key>Headers/GADAdSize.h</key>
 		<data>
-		ASA2qLTtS3X4g6nrqukTvOT2jxY=
+		TcDUVz8elCMAJ62aGyzPUlfAPKY=
 		</data>
 		<key>Headers/GADAdSizeDelegate.h</key>
 		<data>
@@ -70,15 +70,15 @@
 		</data>
 		<key>Headers/GADAudioVideoManager.h</key>
 		<data>
-		4rq2ghtbK4MVzymiyZPta4TPEt0=
+		wBVqZ9GhbD4GBpq6EN4S7fXfvS8=
 		</data>
 		<key>Headers/GADAudioVideoManagerDelegate.h</key>
 		<data>
-		Uf8ADa44k7UGIFX3srn2Kvf1KqA=
+		fBQjhhhWZ4qWsrFZIcuS0qPpvm4=
 		</data>
 		<key>Headers/GADBannerView.h</key>
 		<data>
-		6iSxndF9UStnALP+pV1KtwIJ3n8=
+		7LSU504munD8aNGFe6m5BcY1HwA=
 		</data>
 		<key>Headers/GADBannerViewDelegate.h</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Headers/GADCorrelator.h</key>
 		<data>
-		iIkyCmDXHddue2VdMdvq0/tYo/8=
+		OZw5x2e2o+RvzTIiXxcqY5aeP+8=
 		</data>
 		<key>Headers/GADCorrelatorAdLoaderOptions.h</key>
 		<data>
-		emDt/LCAMQEStMmk8zFvpli5KMs=
+		zcKGwDfkqYmRncacWXPbYafGJog=
 		</data>
 		<key>Headers/GADCustomEventBanner.h</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Headers/GADCustomEventExtras.h</key>
 		<data>
-		kAa+OVKI/ZAfJBJUzYQ+jYwUtaY=
+		F7ycAQ9beJQ2vPyz8R0PSydhSoY=
 		</data>
 		<key>Headers/GADCustomEventInterstitial.h</key>
 		<data>
@@ -126,23 +126,23 @@
 		</data>
 		<key>Headers/GADCustomEventRequest.h</key>
 		<data>
-		WigA9L36IXy1i5bbY8mvCGs+UQs=
+		Bez+KlH1hHeZDKFx1fDemSZsnXQ=
 		</data>
 		<key>Headers/GADDebugOptionsViewController.h</key>
 		<data>
-		Et0uURUA2DEzlDuiv/AcrHwyIMc=
+		nzYfUaTrB/0ir/oQyX76E6YswLg=
 		</data>
 		<key>Headers/GADDynamicHeightSearchRequest.h</key>
 		<data>
-		xqkZGkBQDsPojnNDjoEoxQ4LIFs=
+		A9dZFWc2sxPgG/rpUkY+PbTKLlA=
 		</data>
 		<key>Headers/GADExtras.h</key>
 		<data>
-		5hE/vUOqFgAqZsTNjT6mdr4T7/A=
+		aSODSZHWGEFpWG8/E9p+f8G5GP0=
 		</data>
 		<key>Headers/GADInAppPurchase.h</key>
 		<data>
-		0flPCcpb1lnRiPOfvMFyIusrg4c=
+		fbz0G3NNddGTiPijWEBweSPHyGo=
 		</data>
 		<key>Headers/GADInAppPurchaseDelegate.h</key>
 		<data>
@@ -150,31 +150,35 @@
 		</data>
 		<key>Headers/GADInterstitial.h</key>
 		<data>
-		LcmzaVlJXhq/czFA88vLkMgRqfY=
+		lQ5Xs+L/dodpm4zToy0TjBfse6k=
 		</data>
 		<key>Headers/GADInterstitialDelegate.h</key>
 		<data>
 		3JriOAB5iQ2OqwX6TE2zbc/7vQk=
 		</data>
+		<key>Headers/GADMediaContent.h</key>
+		<data>
+		Ix8l63l4r3eoG1nf6tvmEYgjOLQ=
+		</data>
 		<key>Headers/GADMediaView.h</key>
 		<data>
-		xM1ASV9/tP6rDvUIfCrkTYO2SIE=
+		snp9RAO2yS5NujJWa1RJhI7AiqU=
 		</data>
 		<key>Headers/GADMobileAds.h</key>
 		<data>
-		iprLaQfOWdSF0hdEjmOCddZLQHc=
+		dyNJkcdTPW8uhduDRsYiqBuNeoE=
 		</data>
 		<key>Headers/GADMultipleAdsAdLoaderOptions.h</key>
 		<data>
-		5ACBQF7ZV5fUK2Xyhp7X0phty88=
+		N4gAuZJ2lPsML4vHb2arI42MtY4=
 		</data>
 		<key>Headers/GADMuteThisAdReason.h</key>
 		<data>
-		ONsCtHEIivSpAM0SOFvlGQG/l3Y=
+		dWSIxbqLaM267/HQBRFchZ1HXmk=
 		</data>
 		<key>Headers/GADNativeAd.h</key>
 		<data>
-		8HlUxD25sxpkh+hZZk0wfTAIPAE=
+		FNAlSt7lJ3sEWtUHrtzUNvNXBLI=
 		</data>
 		<key>Headers/GADNativeAdDelegate.h</key>
 		<data>
@@ -186,19 +190,19 @@
 		</data>
 		<key>Headers/GADNativeAdImage.h</key>
 		<data>
-		03RznaDJLhMZ5UKWL3J76Lgp30w=
+		XbNMv8ykxIyQa5nN8u48QM3tBL4=
 		</data>
 		<key>Headers/GADNativeAdImageAdLoaderOptions.h</key>
 		<data>
-		6zZxPqfJ8ruIxjIyUI/L0CgAcZQ=
+		U/80giTjy39hnf9aavFHVod52Zo=
 		</data>
 		<key>Headers/GADNativeAdViewAdOptions.h</key>
 		<data>
-		iTL133+WiDzvanOGv13pU4kOamk=
+		hAE52E06MBiIj8KCGDThrDwgvBQ=
 		</data>
 		<key>Headers/GADNativeAppInstallAd.h</key>
 		<data>
-		3UtTTHxeQWvvcw0WHhKolORoplI=
+		IbB3tgMQ0Ne/S4VtxovgeqXYySc=
 		</data>
 		<key>Headers/GADNativeAppInstallAdAssetIDs.h</key>
 		<data>
@@ -206,7 +210,7 @@
 		</data>
 		<key>Headers/GADNativeContentAd.h</key>
 		<data>
-		6J9FIbn/qKWRXElSmFZuLx56x3A=
+		8BlrLC9oxPCbnguL+k+duOVm8Ik=
 		</data>
 		<key>Headers/GADNativeContentAdAssetIDs.h</key>
 		<data>
@@ -214,11 +218,11 @@
 		</data>
 		<key>Headers/GADNativeCustomTemplateAd.h</key>
 		<data>
-		v9Cns9ZHG85wSJMpKRrZR2ksacI=
+		wKQmUbbcx1Gq8NmHuN5Mybb7+/M=
 		</data>
 		<key>Headers/GADNativeExpressAdView.h</key>
 		<data>
-		aNuhfyhO2i3d05rWnvi1mslC24M=
+		VBAfAKfkGB2srm2e/bitKMlliTg=
 		</data>
 		<key>Headers/GADNativeExpressAdViewDelegate.h</key>
 		<data>
@@ -226,35 +230,35 @@
 		</data>
 		<key>Headers/GADNativeMuteThisAdLoaderOptions.h</key>
 		<data>
-		FbLxRVyKyDsuG3L5JBwTv8XUJjU=
+		R6vUbYMemOfyB2qBUfQcC72odx0=
 		</data>
 		<key>Headers/GADRequest.h</key>
 		<data>
-		yv5ma5QQfMHlwJq7u3+9jkOwi60=
+		PJ/swFkp6JNHBAxnJ7nEcKtGxe8=
 		</data>
 		<key>Headers/GADRequestConfiguration.h</key>
 		<data>
-		kPca6C9FnugZ+mon2wdFl00wGzw=
+		B5rlyEbfxNFulXJnUQ2A4gOrY9Q=
 		</data>
 		<key>Headers/GADRequestError.h</key>
 		<data>
-		JQMQfEqcA9p1ktRDzSbx3G/5LnU=
+		EzkZXkOlhomvQsNAwnxp1UAhoEY=
 		</data>
 		<key>Headers/GADRewardBasedVideoAd.h</key>
 		<data>
-		FoBxzCvFGuWp3hhVpNDi7RWppc4=
+		CXANpu25flfJSGG/KE1u8wLRv7M=
 		</data>
 		<key>Headers/GADRewardBasedVideoAdDelegate.h</key>
 		<data>
-		ALEmX3iXsi6pu/YXdMdkkQjp/f8=
+		4+yudzjyf8WGVztM3CdaTH7L5VM=
 		</data>
 		<key>Headers/GADSearchBannerView.h</key>
 		<data>
-		8U/W5i8piS16gQfUfnVxEKcLstY=
+		yBWXtS+q+RcL2da1mGmf1lXN+7c=
 		</data>
 		<key>Headers/GADSearchRequest.h</key>
 		<data>
-		OLBUiXSBjfYuxzvcDSusK4DM4lM=
+		Ftpzw8Zxy0ceiQgl50QO1Oxuxb0=
 		</data>
 		<key>Headers/GADUnifiedNativeAd+ConfirmationClick.h</key>
 		<data>
@@ -262,11 +266,11 @@
 		</data>
 		<key>Headers/GADUnifiedNativeAd+CustomClickGesture.h</key>
 		<data>
-		3lT3NRRGS7wfSd32mqHA6+OSOgo=
+		69cN6Ax6RWZifohEqw8KY2osMFw=
 		</data>
 		<key>Headers/GADUnifiedNativeAd.h</key>
 		<data>
-		udKc4L9p4G/ob6NagNVpbaETs40=
+		5SQQHOAPL1M1laXWMZOUQTvXcwA=
 		</data>
 		<key>Headers/GADUnifiedNativeAdAssetIdentifiers.h</key>
 		<data>
@@ -278,27 +282,27 @@
 		</data>
 		<key>Headers/GADUnifiedNativeAdUnconfirmedClickDelegate.h</key>
 		<data>
-		VVpoug3e5I5h9g1XFQ4cmSegkmg=
+		+X9tsNOgiR2KyuQkUxez41/UYF8=
 		</data>
 		<key>Headers/GADVideoController.h</key>
 		<data>
-		AT9eHFlH2F15bWD7L8B0w0rzdG0=
+		45IJw2w9/GpdROPC4lObcomA/do=
 		</data>
 		<key>Headers/GADVideoControllerDelegate.h</key>
 		<data>
-		qDT/WP4wf2BAsEp0RjdbzIKPZEg=
+		jAGWP7JDpjODGl4WM4xdhO0lEQQ=
 		</data>
 		<key>Headers/GADVideoOptions.h</key>
 		<data>
-		Tbgte4Q4kpjDpjovzFR4hqtHjD4=
+		VMkJvMmG/2qRMSPPylQBAc1uqW0=
 		</data>
 		<key>Headers/GoogleMobileAds.h</key>
 		<data>
-		FyKZ/CLb6I/+/bFJCVOyJwYd7xM=
+		H0uF0gcGc1/Ix8qX6EThToLOeGM=
 		</data>
 		<key>Headers/GoogleMobileAdsDefines.h</key>
 		<data>
-		fEuZO5qRxamsUvktR6eux9a5FAw=
+		/69fyvjtfsLc4BY4eF0ICuZW7Yo=
 		</data>
 		<key>Headers/LabCaveMediationAdMob.h</key>
 		<data>
@@ -310,7 +314,7 @@
 		</data>
 		<key>Headers/Mediation/GADMAdNetworkConnectorProtocol.h</key>
 		<data>
-		hnuIXEyZ6b1zmNsn1g2y+Ovvngw=
+		Ccr4S+4bdwMg/mPEIMQMp9aKlEs=
 		</data>
 		<key>Headers/Mediation/GADMEnums.h</key>
 		<data>
@@ -334,31 +338,35 @@
 		</data>
 		<key>Headers/Mediation/GADMediatedNativeAdNotificationSource.h</key>
 		<data>
-		JZuCBl0NUr2cKACBZlVJ4G4MaxQ=
+		fJthPRFX09zHBywZ2yUvXqGvj8c=
 		</data>
 		<key>Headers/Mediation/GADMediatedNativeAppInstallAd.h</key>
 		<data>
-		7liH2Gz1Iih+r45BnBNLZTnvdWY=
+		8pgeLGfyHcR0a5iGZlNhZ5/UMyE=
 		</data>
 		<key>Headers/Mediation/GADMediatedNativeContentAd.h</key>
 		<data>
-		vHETMC67zvyM6exbKJQYnZN9BcQ=
+		rF1NRfjLffRlUw4iM74FSvZ4jrg=
 		</data>
 		<key>Headers/Mediation/GADMediatedUnifiedNativeAd.h</key>
 		<data>
-		8ZGv9t6sF8PbGu/V8S0gOKD9M3o=
+		3Sg6Kd0iEudGCHXL/WCbsQa0+PM=
 		</data>
 		<key>Headers/Mediation/GADMediatedUnifiedNativeAdNotificationSource.h</key>
 		<data>
-		mt53bu7xrL11CbhlB9YAH051GN4=
+		OXaPvdEbr48vSHziG9770KJ7+0I=
 		</data>
 		<key>Headers/Mediation/GADMediationAdRequest.h</key>
 		<data>
 		2ZxcUAn1xLmPy5NB9ATzCNHGPTs=
 		</data>
+		<key>Headers/Mediation/GADMediationAdSize.h</key>
+		<data>
+		dJTJ8R3m4X19OLGeWB4cL9AVrX0=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		r60TTPvmybQ5BuUTee+P5JK0Yzc=
+		Mzk565Ue44ElGshqZ3evUcMbt+c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -371,33 +379,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TtalCyEsNeaqIyi5TtIRTYp7ogA=
+			l70LAXGSiNbxEva0z3uWrvNkwho=
 			</data>
 			<key>hash2</key>
 			<data>
-			SUXJFwvbJRRpCwQeNMTh01yrz/N4lyp9wCwendW0/Bg=
+			Za3/yHnpA42BO9CVDsZkeLFJwnxCMc/RR44LmnKSDH8=
 			</data>
 		</dict>
 		<key>Headers/DFPBannerViewOptions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DelWpelxp1gwCnyPaqXyzZOesSg=
+			w0pbcUM6IAs9QpdcSDnuEipM5kA=
 			</data>
 			<key>hash2</key>
 			<data>
-			DH58Mt9l32EVHQoz78c+Qkk6u0EL1J+KAe0IP/74b+E=
+			5wAXW1mrncCRKRlbWPsHojwZASP2m0bH1TnUrQ9n3Hw=
 			</data>
 		</dict>
 		<key>Headers/DFPCustomRenderedAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			b7Zh+D1ceIETjvTt+I9crO/auSc=
+			ScJ5sqfbwM3n+StVPIG3viikAs4=
 			</data>
 			<key>hash2</key>
 			<data>
-			mPwlHGibJx1O3w1LSRI0Ca7BokZ94/y9sw1Hffd2AJ4=
+			10ZtBTn03MBJkT5eIvpyfwlgUioESBkiyd6P9cv00EM=
 			</data>
 		</dict>
 		<key>Headers/DFPCustomRenderedBannerViewDelegate.h</key>
@@ -426,44 +434,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TV2Iyg1mmYqnIo+h5wECsuskggA=
+			HnOhBt2h8eJNpcgndLpqXf+TIW0=
 			</data>
 			<key>hash2</key>
 			<data>
-			oR7awmykyTb4QNEcp940Kb5a+HLkP6a/6oMQtXsLMXU=
+			cjmK4FMH/OPsCPIymbGWIlAKoA0sZN0QH0caXlBWRa8=
 			</data>
 		</dict>
 		<key>Headers/DFPRequest.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ugbkebD1K3zUswPtVHYP230zFO0=
+			9KC1STSkgpinoTR2yho/HOjpQeE=
 			</data>
 			<key>hash2</key>
 			<data>
-			vSr7vWJqKh3dCEWKpuX0NbkHL3ymPhiTqpYjNJjNOAw=
+			JJtXO4OxZqCM3q9vbTrefyjnN/fzRd0cyTyiDwUIHWQ=
 			</data>
 		</dict>
 		<key>Headers/GADAdChoicesView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YGaazvhaGxRFZ4JcvqEjhA8FXc8=
+			3LvJKM0Z4sDIuSpD97ZCAm+yTrQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			jOOrBx4b1hOIdHyEZlo5NVAxm4UFMiphTXp6lNJPHsI=
+			yDiUKlm44af3DqbgCA2gWzLYtVlhuAJFCKtrTW3E9ck=
 			</data>
 		</dict>
 		<key>Headers/GADAdLoader.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5FCj6cfvW/6A5RDVvO7AoMBBM9Y=
+			5bDchp8U6U3SJWa6WWvnMHLeBP4=
 			</data>
 			<key>hash2</key>
 			<data>
-			PZG9B7NOgLk8ZQrbYfYC43tbB4lngSdgbp5MFFzmT5o=
+			rNI+54INWZ99IIx147rlKvpNuiFDVAPRgpr/WP8J3Hw=
 			</data>
 		</dict>
 		<key>Headers/GADAdLoaderAdTypes.h</key>
@@ -503,22 +511,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P+UC1H33dak15MIpHlyhPVSu22E=
+			SBiSyjyq08DzsOTH4hidDRjkYks=
 			</data>
 			<key>hash2</key>
 			<data>
-			7/QxCw6i0MFhHCpdqWq1KCGcyvytpEIAVGzKi9s0Lvo=
+			GeHm0U5ET87XVZzy03dnCET4Ofbvbm4MgtWrDErhPiY=
 			</data>
 		</dict>
 		<key>Headers/GADAdSize.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ASA2qLTtS3X4g6nrqukTvOT2jxY=
+			TcDUVz8elCMAJ62aGyzPUlfAPKY=
 			</data>
 			<key>hash2</key>
 			<data>
-			wlZStNSEfr7zFAa5QH7nqg6EidoRDauCIA1Bbdfd+i8=
+			YITm4YsP52QQhuqB7dXonlgKYRASQekRYsZ5UzWG2Es=
 			</data>
 		</dict>
 		<key>Headers/GADAdSizeDelegate.h</key>
@@ -547,33 +555,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4rq2ghtbK4MVzymiyZPta4TPEt0=
+			wBVqZ9GhbD4GBpq6EN4S7fXfvS8=
 			</data>
 			<key>hash2</key>
 			<data>
-			U3pofAZGPYVywOtE2CDw1SRY/X3kFVENoYwNmNteGaY=
+			ICcldlZSB9TahDKJNvoNrxZkIVgMTPcPirNpgdGi62s=
 			</data>
 		</dict>
 		<key>Headers/GADAudioVideoManagerDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Uf8ADa44k7UGIFX3srn2Kvf1KqA=
+			fBQjhhhWZ4qWsrFZIcuS0qPpvm4=
 			</data>
 			<key>hash2</key>
 			<data>
-			h0OMP3A15HzI398j5BPrWbu4AncNJx52JMMoFvx1WTo=
+			oIHWPfpZ+B89KLUWlVGtZ8Y6GkbLlw1R9mnzqBzQ1jc=
 			</data>
 		</dict>
 		<key>Headers/GADBannerView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6iSxndF9UStnALP+pV1KtwIJ3n8=
+			7LSU504munD8aNGFe6m5BcY1HwA=
 			</data>
 			<key>hash2</key>
 			<data>
-			a+GbqlEgNWDyJxijIvXugjX+xyMmdaDdoSccZwpaTt4=
+			2wTblMusZAg+3lowuiehANJ7dwAu5D80NrhbGlwRWLc=
 			</data>
 		</dict>
 		<key>Headers/GADBannerViewDelegate.h</key>
@@ -591,22 +599,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iIkyCmDXHddue2VdMdvq0/tYo/8=
+			OZw5x2e2o+RvzTIiXxcqY5aeP+8=
 			</data>
 			<key>hash2</key>
 			<data>
-			soiNDjBziIDYzfWOI9G5UfqQ3SbryXfyR9qtowS5hCU=
+			I5v6qPyz8IZhYJmLdbh3h/8BS5DZ1BaMpv1X+oB3Lhg=
 			</data>
 		</dict>
 		<key>Headers/GADCorrelatorAdLoaderOptions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			emDt/LCAMQEStMmk8zFvpli5KMs=
+			zcKGwDfkqYmRncacWXPbYafGJog=
 			</data>
 			<key>hash2</key>
 			<data>
-			qqwI71n3/enE1LhGvjknU/pMVLRxqzdkW8YV4UTit6g=
+			FGBFG4+JclypMVxft4NQ/bjIlFR+nY51bJKsHVXO6/k=
 			</data>
 		</dict>
 		<key>Headers/GADCustomEventBanner.h</key>
@@ -635,11 +643,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kAa+OVKI/ZAfJBJUzYQ+jYwUtaY=
+			F7ycAQ9beJQ2vPyz8R0PSydhSoY=
 			</data>
 			<key>hash2</key>
 			<data>
-			mCxiwtySQwSRzR8ScbMesTS6+Wc9vd0EiJWV/Of7jRg=
+			oU1HKrGb9pO+/oKCWSPu+DRmWSi0GfTElLGE57Lmf4E=
 			</data>
 		</dict>
 		<key>Headers/GADCustomEventInterstitial.h</key>
@@ -701,55 +709,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WigA9L36IXy1i5bbY8mvCGs+UQs=
+			Bez+KlH1hHeZDKFx1fDemSZsnXQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			YfstPcNLD9yXeolJbEZ7mDuYFbzyHsk3tzRTzKxStyo=
+			dN+9rWSCWz23Vt71BaxlDg6bhArYQ5iKu0alY1aNf+4=
 			</data>
 		</dict>
 		<key>Headers/GADDebugOptionsViewController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Et0uURUA2DEzlDuiv/AcrHwyIMc=
+			nzYfUaTrB/0ir/oQyX76E6YswLg=
 			</data>
 			<key>hash2</key>
 			<data>
-			lWigAUTvD+khbF/CzbCELYNJoYlAcnQOGDAzA19CTjc=
+			Ca4cFqYvNNz2vW9iDvr1iklb3qYvpb/0MQ/oL5oDhxI=
 			</data>
 		</dict>
 		<key>Headers/GADDynamicHeightSearchRequest.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xqkZGkBQDsPojnNDjoEoxQ4LIFs=
+			A9dZFWc2sxPgG/rpUkY+PbTKLlA=
 			</data>
 			<key>hash2</key>
 			<data>
-			QW3mCGkghoB5XGg3CdxErQ7g/7p2UEF71T8aBAd5zUw=
+			h4yo8AL9c8aEw1MpVpcm2VP26PDdl4UaRynaGKFmlyw=
 			</data>
 		</dict>
 		<key>Headers/GADExtras.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5hE/vUOqFgAqZsTNjT6mdr4T7/A=
+			aSODSZHWGEFpWG8/E9p+f8G5GP0=
 			</data>
 			<key>hash2</key>
 			<data>
-			8/1Kc5rCUpl9XClxLmlAYNEB22R2r0HrpTp38T4Tgio=
+			gywdd+/LIeN0I9uW/eDzB+xCNiS9J1RmH9gbsw3X+vM=
 			</data>
 		</dict>
 		<key>Headers/GADInAppPurchase.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0flPCcpb1lnRiPOfvMFyIusrg4c=
+			fbz0G3NNddGTiPijWEBweSPHyGo=
 			</data>
 			<key>hash2</key>
 			<data>
-			xlmhH51yT+sFqFhskRTnZX6IQ4J6i2ynO+Cbdj4ZZ/c=
+			SDg6iTb2PjvCbrrqXraPGXLmcw8c5V0NvpakhtVUg1k=
 			</data>
 		</dict>
 		<key>Headers/GADInAppPurchaseDelegate.h</key>
@@ -767,11 +775,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LcmzaVlJXhq/czFA88vLkMgRqfY=
+			lQ5Xs+L/dodpm4zToy0TjBfse6k=
 			</data>
 			<key>hash2</key>
 			<data>
-			8qY+6gzzTUYVRXsCb8qSTSJmbV7HuskfDjlAD5gvedg=
+			HGax6/EQ+o5y38WYV4p/KYw/8jCHbRs4zEBBcs3DuWM=
 			</data>
 		</dict>
 		<key>Headers/GADInterstitialDelegate.h</key>
@@ -785,59 +793,70 @@
 			qR2ImdRC5D3OoqYEv/g9k0f0VrZl6NeHSawcTHwPhTM=
 			</data>
 		</dict>
+		<key>Headers/GADMediaContent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ix8l63l4r3eoG1nf6tvmEYgjOLQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			fVeEt8ayhfjZe54M0qmH4JwFYr5nTsCRsndimSuFdbY=
+			</data>
+		</dict>
 		<key>Headers/GADMediaView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xM1ASV9/tP6rDvUIfCrkTYO2SIE=
+			snp9RAO2yS5NujJWa1RJhI7AiqU=
 			</data>
 			<key>hash2</key>
 			<data>
-			CLClh+PIOGmyTFStBRnMpcEZgIwUqz26GCGwFeuqARE=
+			VH9Heewebi+cc2VGIbI+cdNyZfPceBL+k6UkLHs/Hg0=
 			</data>
 		</dict>
 		<key>Headers/GADMobileAds.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iprLaQfOWdSF0hdEjmOCddZLQHc=
+			dyNJkcdTPW8uhduDRsYiqBuNeoE=
 			</data>
 			<key>hash2</key>
 			<data>
-			C+StYuHN61yPSHQvZm+KPXAJU/HHks7RLwPE/rhllDs=
+			jPqcj8S/x/RxZD5kkYAIf4UTRxmW9p6N/7saTEYPE2E=
 			</data>
 		</dict>
 		<key>Headers/GADMultipleAdsAdLoaderOptions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5ACBQF7ZV5fUK2Xyhp7X0phty88=
+			N4gAuZJ2lPsML4vHb2arI42MtY4=
 			</data>
 			<key>hash2</key>
 			<data>
-			lQDaMS6066MccPws5gNMYUhjQqyTUMUK7C6AsmrXuxM=
+			909+//YCs1KQoHHlKyWlozeG2hD9paEADatgQ8pQfHs=
 			</data>
 		</dict>
 		<key>Headers/GADMuteThisAdReason.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ONsCtHEIivSpAM0SOFvlGQG/l3Y=
+			dWSIxbqLaM267/HQBRFchZ1HXmk=
 			</data>
 			<key>hash2</key>
 			<data>
-			eyY2Wzrat1nEnCTuDLUZ8gHV7e9nd6MyKoIw959XvQk=
+			9As2z5BO9wcJVIbJvz/8lC9EzD4+eWYqPkHRIYVA6+Q=
 			</data>
 		</dict>
 		<key>Headers/GADNativeAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8HlUxD25sxpkh+hZZk0wfTAIPAE=
+			FNAlSt7lJ3sEWtUHrtzUNvNXBLI=
 			</data>
 			<key>hash2</key>
 			<data>
-			zDPANl1NqD1FwcrYr+c8i8fTGZojUJJUZrzkw8srCNM=
+			JTJ1vTZ58IXvHD1oPNCkxRuusz3cODfyA6SS4qWH1qk=
 			</data>
 		</dict>
 		<key>Headers/GADNativeAdDelegate.h</key>
@@ -866,44 +885,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			03RznaDJLhMZ5UKWL3J76Lgp30w=
+			XbNMv8ykxIyQa5nN8u48QM3tBL4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vsk090eDWUJD3omtvikICG/5YQuwEv2pM8p1GOCEHYY=
+			JhV0GAkYCf0sSDIJ8opitL3BDnVeVcejLY5rF97Gv4A=
 			</data>
 		</dict>
 		<key>Headers/GADNativeAdImageAdLoaderOptions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6zZxPqfJ8ruIxjIyUI/L0CgAcZQ=
+			U/80giTjy39hnf9aavFHVod52Zo=
 			</data>
 			<key>hash2</key>
 			<data>
-			pdD610kUXeJFARQ4hh++B6k89fEw+y+bizURv8TG3sc=
+			8AmQwpSRc0YvGc3jztHfhMkxmsV83HmgJyL9c8ZYBa8=
 			</data>
 		</dict>
 		<key>Headers/GADNativeAdViewAdOptions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iTL133+WiDzvanOGv13pU4kOamk=
+			hAE52E06MBiIj8KCGDThrDwgvBQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			BzudtmnS9bhhsnyX7BkxTH+AKNxNg1C6g1cuWt4A6Ps=
+			wGnVaUr4XtbmFSwS7mZ5DmcReTPVKHQYNUanrErrEHA=
 			</data>
 		</dict>
 		<key>Headers/GADNativeAppInstallAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3UtTTHxeQWvvcw0WHhKolORoplI=
+			IbB3tgMQ0Ne/S4VtxovgeqXYySc=
 			</data>
 			<key>hash2</key>
 			<data>
-			z+jnpiBjrVBiYOvdubt8rKLGVLyEN1BpLeKhH3MLuQ0=
+			vC3yXCMo4ukEOFN3Zs5VAvP9vCFi+oXxmGK9ZALdwfY=
 			</data>
 		</dict>
 		<key>Headers/GADNativeAppInstallAdAssetIDs.h</key>
@@ -921,11 +940,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6J9FIbn/qKWRXElSmFZuLx56x3A=
+			8BlrLC9oxPCbnguL+k+duOVm8Ik=
 			</data>
 			<key>hash2</key>
 			<data>
-			SBF0WH+bqokU12fL8md1pBI4DMD6XB0TsDq4++czr/E=
+			/KhYEAcRw5m1riRJZLxw8b6nOnsGaUbgOOkYQ5ncAic=
 			</data>
 		</dict>
 		<key>Headers/GADNativeContentAdAssetIDs.h</key>
@@ -943,22 +962,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			v9Cns9ZHG85wSJMpKRrZR2ksacI=
+			wKQmUbbcx1Gq8NmHuN5Mybb7+/M=
 			</data>
 			<key>hash2</key>
 			<data>
-			h9msrJDoPahG+dugGfPWT8ppkurzwhgzBxiMrMWYzbw=
+			8QRBHvTngAOCKkydG39oR7N8zvylZc02wXfaKOt12ak=
 			</data>
 		</dict>
 		<key>Headers/GADNativeExpressAdView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aNuhfyhO2i3d05rWnvi1mslC24M=
+			VBAfAKfkGB2srm2e/bitKMlliTg=
 			</data>
 			<key>hash2</key>
 			<data>
-			2auEsnUecHL+qHdLxjU5CkhjVq1ekVp1iu36wWejasU=
+			mUYcVjPurfL0kgtbHnodxy8Q7YOP1eD9VR3Fwjkq+Rc=
 			</data>
 		</dict>
 		<key>Headers/GADNativeExpressAdViewDelegate.h</key>
@@ -976,88 +995,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FbLxRVyKyDsuG3L5JBwTv8XUJjU=
+			R6vUbYMemOfyB2qBUfQcC72odx0=
 			</data>
 			<key>hash2</key>
 			<data>
-			bLoBs6wGZBVqiz7ZV6F7MeI/lxT1XaTa3OVpW3X+zb0=
+			DPsqXOTBob6ZGbm4LSqHoNz6T6eyW07QTajC64qHs7o=
 			</data>
 		</dict>
 		<key>Headers/GADRequest.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yv5ma5QQfMHlwJq7u3+9jkOwi60=
+			PJ/swFkp6JNHBAxnJ7nEcKtGxe8=
 			</data>
 			<key>hash2</key>
 			<data>
-			M9VZm0E4k7LKd8Gn3YUBuO7PPPsH+zoL9aB+bOEKSns=
+			GxMwkSqtCxypy7Ymh5El0qTYMRSK8dz2YLngYUESmnQ=
 			</data>
 		</dict>
 		<key>Headers/GADRequestConfiguration.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kPca6C9FnugZ+mon2wdFl00wGzw=
+			B5rlyEbfxNFulXJnUQ2A4gOrY9Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			m8kKT7iEmyqi0sCXad/UPiI9GkhYQCcyoAxYGXh0RSQ=
+			870gjy3TdAEqoZMOLkeMqUWGwy1e9ecmaAF4ahG/gDc=
 			</data>
 		</dict>
 		<key>Headers/GADRequestError.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JQMQfEqcA9p1ktRDzSbx3G/5LnU=
+			EzkZXkOlhomvQsNAwnxp1UAhoEY=
 			</data>
 			<key>hash2</key>
 			<data>
-			CZjv+2iW0QsPo0IHSaYC0AsV2qPNi6NtgxtGXzZs3SM=
+			HVR77VKhJ5zenEw+TiZRIcI6jpU6Fp1VPSRhhTp+KEk=
 			</data>
 		</dict>
 		<key>Headers/GADRewardBasedVideoAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FoBxzCvFGuWp3hhVpNDi7RWppc4=
+			CXANpu25flfJSGG/KE1u8wLRv7M=
 			</data>
 			<key>hash2</key>
 			<data>
-			TW05NJzYJpvpq4X9pqDpgcUc+6mKnGJ9DEH2mvFyCKU=
+			zjyqrZV0mT21LUdHmFxwI/WjyPOna7dyXnqFrhjzo0I=
 			</data>
 		</dict>
 		<key>Headers/GADRewardBasedVideoAdDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ALEmX3iXsi6pu/YXdMdkkQjp/f8=
+			4+yudzjyf8WGVztM3CdaTH7L5VM=
 			</data>
 			<key>hash2</key>
 			<data>
-			XiUmgTq9cpWQnpDpfffkZjtnwc98iprHFeKsnpNrelg=
+			q8HcsmaVK9UktXYMNLCv7Tvnk1PDyVFgQYcnyCwgUzA=
 			</data>
 		</dict>
 		<key>Headers/GADSearchBannerView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8U/W5i8piS16gQfUfnVxEKcLstY=
+			yBWXtS+q+RcL2da1mGmf1lXN+7c=
 			</data>
 			<key>hash2</key>
 			<data>
-			pDrPIvMcxyPg2jVyKPfKgIwhRKhxrokM4EB+G5+8Qcs=
+			SMnIEig+iQ8R6W+BFy8/UGtaSqRfI4WBEpUuIOAIMnQ=
 			</data>
 		</dict>
 		<key>Headers/GADSearchRequest.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OLBUiXSBjfYuxzvcDSusK4DM4lM=
+			Ftpzw8Zxy0ceiQgl50QO1Oxuxb0=
 			</data>
 			<key>hash2</key>
 			<data>
-			bX7AHwibuVIuHdzXWI4A+luLENkK0bHVkbltxeaR2g4=
+			wrJtJ2ogXlDOrNja8eAwjvp/OZsphbdvVwrdwq6/uec=
 			</data>
 		</dict>
 		<key>Headers/GADUnifiedNativeAd+ConfirmationClick.h</key>
@@ -1075,22 +1094,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3lT3NRRGS7wfSd32mqHA6+OSOgo=
+			69cN6Ax6RWZifohEqw8KY2osMFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			GNEmrXVwwFXKymZ0Nfoxe0zUNkkBHAzJ5JNGWVtAwxs=
+			LSpzKCgWjbMk8fcXYks3qMiryPvlD6nwKfdrlIkgwWw=
 			</data>
 		</dict>
 		<key>Headers/GADUnifiedNativeAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			udKc4L9p4G/ob6NagNVpbaETs40=
+			5SQQHOAPL1M1laXWMZOUQTvXcwA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Bgk8Cmk8OjhTVHnJNGCPFtpKb6MDBk5DoniBXGh9drw=
+			kl4sFY4sEkde5+UzUWtUz7O3lx59JMGrvp4malVmw3Y=
 			</data>
 		</dict>
 		<key>Headers/GADUnifiedNativeAdAssetIdentifiers.h</key>
@@ -1119,66 +1138,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VVpoug3e5I5h9g1XFQ4cmSegkmg=
+			+X9tsNOgiR2KyuQkUxez41/UYF8=
 			</data>
 			<key>hash2</key>
 			<data>
-			7SuBmzP20Q5olfhbY2/EbphmVbovtnl1FQadFgkyOFk=
+			L9Frjjz8NyYKwaRyG8zJZEQZcy0z3RZIpJAbBAOItT4=
 			</data>
 		</dict>
 		<key>Headers/GADVideoController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AT9eHFlH2F15bWD7L8B0w0rzdG0=
+			45IJw2w9/GpdROPC4lObcomA/do=
 			</data>
 			<key>hash2</key>
 			<data>
-			5iK3B/bYE9d0TJZa/WDDOPHL/OWy99DZwc6754bSbKA=
+			bCRh6Z/4GdtGhd9m0jR2m4QZU0EEFiRal0dU3NKduMc=
 			</data>
 		</dict>
 		<key>Headers/GADVideoControllerDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qDT/WP4wf2BAsEp0RjdbzIKPZEg=
+			jAGWP7JDpjODGl4WM4xdhO0lEQQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			FavyGlmNEbz7qfcKO1ewDk3y/ABR6r/4uRgM++m9YtY=
+			Kx9ypp24lZ+OO9xrhSTbublE0CqeO+rBP6fKSrE+g2w=
 			</data>
 		</dict>
 		<key>Headers/GADVideoOptions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Tbgte4Q4kpjDpjovzFR4hqtHjD4=
+			VMkJvMmG/2qRMSPPylQBAc1uqW0=
 			</data>
 			<key>hash2</key>
 			<data>
-			kkFAhB3E6xgviyy4HqXFBjbxzPekvNU7/6HZ/Ya+5wA=
+			kBpqdkoZqNfYLxzJgVYqrGvjKu+MPVvyprlLLsdwACw=
 			</data>
 		</dict>
 		<key>Headers/GoogleMobileAds.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FyKZ/CLb6I/+/bFJCVOyJwYd7xM=
+			H0uF0gcGc1/Ix8qX6EThToLOeGM=
 			</data>
 			<key>hash2</key>
 			<data>
-			EfSaS20ZpZJH3rEVMCGq2L7p1OWgbj5/AaTTI68V0Yc=
+			pNpZ+frB8hJ/+5KgZEATVhH0h4smbEPkCVY6sbF6Jk4=
 			</data>
 		</dict>
 		<key>Headers/GoogleMobileAdsDefines.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fEuZO5qRxamsUvktR6eux9a5FAw=
+			/69fyvjtfsLc4BY4eF0ICuZW7Yo=
 			</data>
 			<key>hash2</key>
 			<data>
-			qELDAvl0lG7p4zbhW7p4Rwu5matE0zIYytldX8UQhHs=
+			hMpzeyqIaytcntYBPRRx+uOF2uIn6X1mEkqXhjjFnt4=
 			</data>
 		</dict>
 		<key>Headers/LabCaveMediationAdMob.h</key>
@@ -1207,11 +1226,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hnuIXEyZ6b1zmNsn1g2y+Ovvngw=
+			Ccr4S+4bdwMg/mPEIMQMp9aKlEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			DOMVCAReKTwafRd+loxTc/0EWmFDRZz631PCqDuggpY=
+			P1V62dexIDXSSdxVdhz1WLHZmQzqX7suikgZpKtemj4=
 			</data>
 		</dict>
 		<key>Headers/Mediation/GADMEnums.h</key>
@@ -1273,55 +1292,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JZuCBl0NUr2cKACBZlVJ4G4MaxQ=
+			fJthPRFX09zHBywZ2yUvXqGvj8c=
 			</data>
 			<key>hash2</key>
 			<data>
-			4q9R45dKIQwG34wsqcJi5QyWneecHIO+XaTws+QECRI=
+			McAEc68raEQ8+A65MuZ4Lbbfv6A0ezg9+tu71x9aK/g=
 			</data>
 		</dict>
 		<key>Headers/Mediation/GADMediatedNativeAppInstallAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7liH2Gz1Iih+r45BnBNLZTnvdWY=
+			8pgeLGfyHcR0a5iGZlNhZ5/UMyE=
 			</data>
 			<key>hash2</key>
 			<data>
-			/7HKf5BDRAEBUCiPaI+gfNY1rwyjpUuVl0cPZA7sxPQ=
+			z8l/Bw6HWpQwjDdjGgavDyVEZThpHxHbfA5ZaXdf2Co=
 			</data>
 		</dict>
 		<key>Headers/Mediation/GADMediatedNativeContentAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vHETMC67zvyM6exbKJQYnZN9BcQ=
+			rF1NRfjLffRlUw4iM74FSvZ4jrg=
 			</data>
 			<key>hash2</key>
 			<data>
-			iiDazi9CMX4QZR5CV1wfKCp2FXTIZbJ8L6R/UDH3VVk=
+			J5aeinpg3TTp7EApaRfNyCp0tqbB5070RSUMQaMKJQI=
 			</data>
 		</dict>
 		<key>Headers/Mediation/GADMediatedUnifiedNativeAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8ZGv9t6sF8PbGu/V8S0gOKD9M3o=
+			3Sg6Kd0iEudGCHXL/WCbsQa0+PM=
 			</data>
 			<key>hash2</key>
 			<data>
-			9GqzOUiMIFTLYPdJvzkOymc9deXjJ6ShIhWA5STEVjg=
+			ElOAGWFjQdJ+UoMiG61LOXg4HsnAAJAo45DrpG4TVfM=
 			</data>
 		</dict>
 		<key>Headers/Mediation/GADMediatedUnifiedNativeAdNotificationSource.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mt53bu7xrL11CbhlB9YAH051GN4=
+			OXaPvdEbr48vSHziG9770KJ7+0I=
 			</data>
 			<key>hash2</key>
 			<data>
-			/A/Q4wkb2jQN61fOo+J/VI+jqrnKQI3xfNJ0GxEGfqo=
+			YdrMqmXebtdkBMzEB7js4qvviF++01+NbLkzv5CtOEw=
 			</data>
 		</dict>
 		<key>Headers/Mediation/GADMediationAdRequest.h</key>
@@ -1333,6 +1352,17 @@
 			<key>hash2</key>
 			<data>
 			nqdW7iWYuO0nx/rTuMIMiuvmluOrTL07oDChIzzXDPI=
+			</data>
+		</dict>
+		<key>Headers/Mediation/GADMediationAdSize.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dJTJ8R3m4X19OLGeWB4cL9AVrX0=
+			</data>
+			<key>hash2</key>
+			<data>
+			SONOSyqL1z0+3M3PSZyXKiXt7Ir2lcMhoTsNd+VsN2U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1349,7 +1379,7 @@
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -1380,24 +1410,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -1433,13 +1451,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>

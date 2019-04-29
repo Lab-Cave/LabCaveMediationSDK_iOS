@@ -10,51 +10,51 @@
 		</data>
 		<key>Headers/STAAbstractAd.h</key>
 		<data>
-		sP4oe0fogwJU1CokTT1kk05NMzU=
+		YmQ1zp6461DzFIqOq7hg94z3LWs=
 		</data>
 		<key>Headers/STAAdPreferences.h</key>
 		<data>
-		nDFp1zRaAObkXNZJgY28zPMyxxY=
+		I5zHLxL6JgHJtzkBCU7DcSB8BDk=
 		</data>
 		<key>Headers/STABannerSize.h</key>
 		<data>
-		H7ub7SXvGPmaQKmezDLrw8vC/Lo=
+		NA0UJc3PVXu3Ls2dMGCZOpkjcnY=
 		</data>
 		<key>Headers/STABannerView.h</key>
 		<data>
-		pNFovQEuwFNjK+iPWXdvI63BxP8=
+		oSx6sDdIKunX4ioi+cZsdZn2Y8U=
 		</data>
 		<key>Headers/STANativeAdDetails.h</key>
 		<data>
-		TUxibuL6FLf6tNtj/sqzdyidPPI=
+		CRuC89fP+lAQtTWE1vqXRtmL9r8=
 		</data>
 		<key>Headers/STASplashPreferences.h</key>
 		<data>
-		qZjdi7UUp4QbRXl3AukHq7sgOe8=
+		GNio//uWtJkqMrDwK0+5aVA50kc=
 		</data>
 		<key>Headers/STAStartAppAd.h</key>
 		<data>
-		qH2/DvToiFnhnT6BRrxTAzFz0L8=
+		HP79lftCSSh6XoNpg34pjM4lzr4=
 		</data>
 		<key>Headers/STAStartAppAdBasic.h</key>
 		<data>
-		LlfDIzRl263U54MvNqYIS0aIEjs=
+		Z5yjooKs5ePa2tWRIOJXR5Vw8L8=
 		</data>
 		<key>Headers/STAStartAppNativeAd.h</key>
 		<data>
-		DkXEXcIY7t9y08RWhFe3XMi1J2k=
+		PPutXGQFS33Vh6iuskjuTD2do8g=
 		</data>
 		<key>Headers/STAStartAppSDK.h</key>
 		<data>
-		/zK654+xhojNDH6P3mgAwKiBCu8=
+		PAlXN90TCbcMpQLDcEnRaKwgeTQ=
 		</data>
 		<key>Headers/StartApp.h</key>
 		<data>
-		wMWQERW5sfzWxCV7I6qaGG2t6kY=
+		kcbgjZ//dDCF8/ZlWJhEh6IZ2+8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		j5bdX+qmE+i6bWKZT8NEWvv2f9I=
+		j9SQpLPZt5nPcdx1KLxeESbkPX8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,121 +78,121 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sP4oe0fogwJU1CokTT1kk05NMzU=
+			YmQ1zp6461DzFIqOq7hg94z3LWs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jo/nBW+RHy/POM5dVsv6RMR6rlgs32dOe23jxItL2RE=
+			59xml3Bc43QLyTKev4SIE7ZtoX/IKbAIC+iUkLRMqHk=
 			</data>
 		</dict>
 		<key>Headers/STAAdPreferences.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nDFp1zRaAObkXNZJgY28zPMyxxY=
+			I5zHLxL6JgHJtzkBCU7DcSB8BDk=
 			</data>
 			<key>hash2</key>
 			<data>
-			VnhASuE+YSQ6w0UXYJ1ZHPHs1bh7nv7nbCgApvDYWMI=
+			i0ccxntyi+qy8oP4L9k9dl6M2UpDH3SGJ3lMGT3wFvA=
 			</data>
 		</dict>
 		<key>Headers/STABannerSize.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			H7ub7SXvGPmaQKmezDLrw8vC/Lo=
+			NA0UJc3PVXu3Ls2dMGCZOpkjcnY=
 			</data>
 			<key>hash2</key>
 			<data>
-			rTQudb31+l6RvWmOygHGkw1aEeSciplDKzNQ7amRE3M=
+			/o30rdbqoFZzCg8m9pE/MvJu3l7p+bLTYFddbOrMBSI=
 			</data>
 		</dict>
 		<key>Headers/STABannerView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pNFovQEuwFNjK+iPWXdvI63BxP8=
+			oSx6sDdIKunX4ioi+cZsdZn2Y8U=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ga9xbBb0mCfOqsBySL9wqKlO5xKw+daUoqgpL9X0N6M=
+			+9hFMErsyLPK/qMrkvWHgMPW7E4/9YHpeG0h8GK01TU=
 			</data>
 		</dict>
 		<key>Headers/STANativeAdDetails.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TUxibuL6FLf6tNtj/sqzdyidPPI=
+			CRuC89fP+lAQtTWE1vqXRtmL9r8=
 			</data>
 			<key>hash2</key>
 			<data>
-			prichSPQwme+sxWbo0oNN8d4F9z/fgeTQje+yfjgBLw=
+			oh1Ppa23xNMCT6pBaNfLH3PzTEsMsXxGPkU/E3sZNIM=
 			</data>
 		</dict>
 		<key>Headers/STASplashPreferences.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qZjdi7UUp4QbRXl3AukHq7sgOe8=
+			GNio//uWtJkqMrDwK0+5aVA50kc=
 			</data>
 			<key>hash2</key>
 			<data>
-			a7I6MK8UjWKKBDDzWOZDgMso4/KcQf0g2GorM8399Po=
+			ZfkJwwoj3zafrZlcy5OyQl/v99moZaRwAWnkZamL2g4=
 			</data>
 		</dict>
 		<key>Headers/STAStartAppAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qH2/DvToiFnhnT6BRrxTAzFz0L8=
+			HP79lftCSSh6XoNpg34pjM4lzr4=
 			</data>
 			<key>hash2</key>
 			<data>
-			9J6cSta4A9kA6HimVicB4CEalP75pUdmj7ikX2e+1ko=
+			EEYk24nckkbwdNE38femCsNPv3swi9Cy1o8r2ShPRAA=
 			</data>
 		</dict>
 		<key>Headers/STAStartAppAdBasic.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LlfDIzRl263U54MvNqYIS0aIEjs=
+			Z5yjooKs5ePa2tWRIOJXR5Vw8L8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xo1QvGtrPPNIWrrMUfWPcuWiziH9DAQYBfj27nVxxVI=
+			sUstMLOjopHqjgTfehOFPzqwCS6HP7D+Ylka2D+AwyM=
 			</data>
 		</dict>
 		<key>Headers/STAStartAppNativeAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DkXEXcIY7t9y08RWhFe3XMi1J2k=
+			PPutXGQFS33Vh6iuskjuTD2do8g=
 			</data>
 			<key>hash2</key>
 			<data>
-			cDi6vswapKQcPcsjYUYnCUJBmmzM1YQ4xkva06ieh54=
+			qgu6lJF6PcEcHGfJatJwmiKSQT+2plbCkjQ9Qjr6A/k=
 			</data>
 		</dict>
 		<key>Headers/STAStartAppSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/zK654+xhojNDH6P3mgAwKiBCu8=
+			PAlXN90TCbcMpQLDcEnRaKwgeTQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			XmjJQg1tZQdrYSPHhHz4HT5bAEWQ1Ahq/0ZL2O1sn9c=
+			gRU9K6gMN2UinYF2J3D/mXa1oUEpJvP3w5dZdnoR2aM=
 			</data>
 		</dict>
 		<key>Headers/StartApp.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wMWQERW5sfzWxCV7I6qaGG2t6kY=
+			kcbgjZ//dDCF8/ZlWJhEh6IZ2+8=
 			</data>
 			<key>hash2</key>
 			<data>
-			HQQAbWvDajBUSX07kY+0mtpztZ+fSwjbBK00FBMmqvA=
+			5jWRg0cB5/rb/mUix5BN9PXuqw3LkqEdUmritHQLw0Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -209,7 +209,7 @@
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -240,24 +240,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -293,13 +281,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>

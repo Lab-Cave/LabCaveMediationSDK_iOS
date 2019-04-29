@@ -6,47 +6,51 @@
 	<dict>
 		<key>Headers/AdColony.h</key>
 		<data>
-		FZAa3P5h9dW8EW+R0GczB6Jq494=
+		gz9T7WvUiLVoidnCwsY27H3jvME=
 		</data>
 		<key>Headers/AdColonyAdOptions.h</key>
 		<data>
-		1xWDByh7JIQd8gZoXbRd8J9zskU=
+		8kQRzPoz0WaxucGcXFUkrEuzGIw=
 		</data>
 		<key>Headers/AdColonyAdRequestError.h</key>
 		<data>
-		KCkSlHdVBX4MVmKM6uEwjv2ebA4=
+		F8Ai9mqBNfy+vOOwuED0f4Wx1fY=
 		</data>
 		<key>Headers/AdColonyAppOptions.h</key>
 		<data>
-		hN+elatsTGQRSgR7yEh1BBeaiHY=
+		KIA+TULFmgGgwq3opa01ZafUVeA=
 		</data>
 		<key>Headers/AdColonyEventTracker.h</key>
 		<data>
-		pFlObGQ3RIEXmgUq4OiQCPXuM3Q=
+		jdG2KIaEy9NZLABBzDtbBVh4uTU=
 		</data>
 		<key>Headers/AdColonyInterstitial.h</key>
 		<data>
-		jVa30wKzC3LGbtJ+nbir3SEY4PY=
+		dmNB0HIr/acFBy8WoqvOvqjuKWg=
 		</data>
 		<key>Headers/AdColonyNativeAdView.h</key>
 		<data>
-		dlGACq/i5eDnFvKjAgdg96jX2Wg=
+		EmF7iXkIghkzVa1s+EMW4Zx0Qcc=
 		</data>
 		<key>Headers/AdColonyOptions.h</key>
 		<data>
-		GldUV4aPMvJ3rIj/fxHQ1Ij4SF4=
+		ALtuAMnwfEcYsceps89hudTWCw0=
+		</data>
+		<key>Headers/AdColonyPublic.h</key>
+		<data>
+		D5b/HmkDLQCCN9lT6It1Tqef/go=
 		</data>
 		<key>Headers/AdColonyTypes.h</key>
 		<data>
-		fME6eW0z5yip5PANzHsHmA79fAc=
+		g2b6bp/Hmz7y6cgM54YKD12rtyk=
 		</data>
 		<key>Headers/AdColonyUserMetadata.h</key>
 		<data>
-		ttM9f14U8nMRJIkkJXszIQOSUzQ=
+		hPdnZ+vdmvabHSNc/hGgfbXfACM=
 		</data>
 		<key>Headers/AdColonyZone.h</key>
 		<data>
-		zsJ4gM9hcly48phMci7SNbGLJLA=
+		whcvyF6xXys2gAd8dHFEbdC5fZ4=
 		</data>
 		<key>Headers/LabCaveMediationAdColony.h</key>
 		<data>
@@ -54,7 +58,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ouqUEkHelIUwAGz/0cI7t+yVE8k=
+		zghBLkYc3RX9MuTqx0+Wux2uGoA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,121 +71,132 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FZAa3P5h9dW8EW+R0GczB6Jq494=
+			gz9T7WvUiLVoidnCwsY27H3jvME=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nzb2WQfiZhP85ctkuog+xSMEV0FRTqgqmYYPkai92AQ=
+			HjJBG+SWgaYynjdcjnPAE311zRvx8dR3nmYv+6wSYdQ=
 			</data>
 		</dict>
 		<key>Headers/AdColonyAdOptions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1xWDByh7JIQd8gZoXbRd8J9zskU=
+			8kQRzPoz0WaxucGcXFUkrEuzGIw=
 			</data>
 			<key>hash2</key>
 			<data>
-			s45cdTL0TS8KvAuSwOFwynW+wK6hY07oHqkEgK4DDCU=
+			P0vrqcy7Y9Y5qRc9CHJIgt9JIa2wswD9EZitVKlLmFk=
 			</data>
 		</dict>
 		<key>Headers/AdColonyAdRequestError.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KCkSlHdVBX4MVmKM6uEwjv2ebA4=
+			F8Ai9mqBNfy+vOOwuED0f4Wx1fY=
 			</data>
 			<key>hash2</key>
 			<data>
-			uyYvK7QoMKzUAo+XRAeNnEYvsaeMDXCq63tRqCFyCHU=
+			Z0aCL9rFPhnn4st4etDhPSwvGTIZa5hdQoL0AVc/bV0=
 			</data>
 		</dict>
 		<key>Headers/AdColonyAppOptions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hN+elatsTGQRSgR7yEh1BBeaiHY=
+			KIA+TULFmgGgwq3opa01ZafUVeA=
 			</data>
 			<key>hash2</key>
 			<data>
-			+HccLjk1i01MhsLJGgE9YpWd9fnajEi5SJ6ApXBUWcY=
+			eOjeEhaYBWa/Zti1tLNzNZD10wXwrpkFHstcGtSF8DI=
 			</data>
 		</dict>
 		<key>Headers/AdColonyEventTracker.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pFlObGQ3RIEXmgUq4OiQCPXuM3Q=
+			jdG2KIaEy9NZLABBzDtbBVh4uTU=
 			</data>
 			<key>hash2</key>
 			<data>
-			qjkWJqZM4x5W8beGt4lh3q5XlvqHVPM25Qdta2Xha/8=
+			t2hw0I0y5/oggdQp5NdjyjmTi951fl0wehkiCsnaos0=
 			</data>
 		</dict>
 		<key>Headers/AdColonyInterstitial.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jVa30wKzC3LGbtJ+nbir3SEY4PY=
+			dmNB0HIr/acFBy8WoqvOvqjuKWg=
 			</data>
 			<key>hash2</key>
 			<data>
-			sDfkfwpgVjqKmxQCt3aES+geZGwNEfGGEY4pLIWO+Pc=
+			inrcvSs9qRWqljgYjCRm1mETh19i8Gy3FWfV+ijLGzk=
 			</data>
 		</dict>
 		<key>Headers/AdColonyNativeAdView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dlGACq/i5eDnFvKjAgdg96jX2Wg=
+			EmF7iXkIghkzVa1s+EMW4Zx0Qcc=
 			</data>
 			<key>hash2</key>
 			<data>
-			JszOGZUdoSaO54VQ+GwOMy44/hQveft9Y09JMSSwmu8=
+			bIdx0K+W5iQ9cF9gyojumRiI9+r0PRWPYYhLmUZF/9I=
 			</data>
 		</dict>
 		<key>Headers/AdColonyOptions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GldUV4aPMvJ3rIj/fxHQ1Ij4SF4=
+			ALtuAMnwfEcYsceps89hudTWCw0=
 			</data>
 			<key>hash2</key>
 			<data>
-			qmwSeCM2jSP2zXJb+Kx7FeT/x1yyXKo1UdapQ1pDgwA=
+			kXgD9CFiLFHaMcT0IpYftZpOPIQSUIbUaAn9znuTtgE=
+			</data>
+		</dict>
+		<key>Headers/AdColonyPublic.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D5b/HmkDLQCCN9lT6It1Tqef/go=
+			</data>
+			<key>hash2</key>
+			<data>
+			TaS4KllJbhKWuX8CXYA0s385CHYekd0mlvaK9U1DL4s=
 			</data>
 		</dict>
 		<key>Headers/AdColonyTypes.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fME6eW0z5yip5PANzHsHmA79fAc=
+			g2b6bp/Hmz7y6cgM54YKD12rtyk=
 			</data>
 			<key>hash2</key>
 			<data>
-			0wa6iBvR3EIwXdD5PpEDSVZIsVldo7CGQ9OdWeP0ufY=
+			cedy4pYQUIrL9as9HBm6PtVX/J7lcU1l0iUQO8DInhk=
 			</data>
 		</dict>
 		<key>Headers/AdColonyUserMetadata.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ttM9f14U8nMRJIkkJXszIQOSUzQ=
+			hPdnZ+vdmvabHSNc/hGgfbXfACM=
 			</data>
 			<key>hash2</key>
 			<data>
-			64m6EkFTATReQaxon4vnGn+G/lOF+259rB/AdyAI7TQ=
+			NMMmV+ucnbH/MbgdzLjye6Lp8FoW/4BotyU/wGJ5LAg=
 			</data>
 		</dict>
 		<key>Headers/AdColonyZone.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zsJ4gM9hcly48phMci7SNbGLJLA=
+			whcvyF6xXys2gAd8dHFEbdC5fZ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			6MoFz29PrZc/ZnWHuU0kI0dQLXKxu2o0ifyt0zU2woQ=
+			E61zj9qxr/KOXSgjOGJPMMa6o42EJzkmnEPyjYctgMA=
 			</data>
 		</dict>
 		<key>Headers/LabCaveMediationAdColony.h</key>
@@ -209,7 +224,7 @@
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -240,24 +255,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -293,13 +296,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
