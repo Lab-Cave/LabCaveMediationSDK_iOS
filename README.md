@@ -1,6 +1,6 @@
 # LabCaveMediationSDK-iOS
 
-The current version (2.6.0) is tested with Xcode8 or above and is compatible with iOS 8 and above.
+The current version (2.8.0) is tested with Xcode8 or above and is compatible with iOS 8 and above.
 ## Download SDK
 
 Download our sdk, add the LabCaveMediation.framework to your project in General tab Linked Frameworks and Libraries. Now you must add the following frameworks and libs to your project in General tab Linked Frameworks and Libraries. Ensure that the frameworks are linked correctly.
@@ -40,7 +40,7 @@ Now in build settings tab in "Swift Compiler - General" in the field "Objective-
 
 ## Integrate SDK
 
-Once you have added all files it's time to initialize the sdk. **Important** you must initialize the sdk and the begining of the execution of your app and **only once**.
+Once you have added all files it's time to initialize the sdk. **Important** you must initialize the sdk and the begining of the execution of your app and **only once**. Important if you use AdMob realize you need to also ad the GoogleAppMeasurement.framework, GoogleUtilities.framework and nanopb.framework.
 
 If you are in Objetive-C import the mediation reference to the SDK.
 
@@ -63,15 +63,17 @@ Below are the following methods of how to request different ad formats, the para
 ```objectivec
 // Objective-C
 [LabCaveMediation showBannerAdWithDelegate:self zone:@"home" viewController:self];
+[LabCaveMediation showBannerAdWitZone:@"demo" bannerSettings:LMLBannerSettings_BANNER_TOP viewController:self];
 [LabCaveMediation showInterstitialAdWithDelegate:self zone:@"home" viewController:self];
 [LabCaveMediation showRewardedVideoAdWithDelegate:self zone:@"home" viewController:self];
 
 //Swift
 LabCaveMediation.showBannerAd(with: self, zone: "home", viewController: self)
+LabCaveMediation.showBannerAd(with: self, zone: "home", bannerSettings: LMLBannerSettings_BANNER_TOP, viewController: self)
 LabCaveMediation.showInterstitialAd(with: self, zone: "home", viewController: self)
 LabCaveMediation.showRewardedVideoAd(with: self, zone: "home", viewController: self)
 ```
-
+For banner yo can set the position and size of it by the param "bannerSettings", there are two values for position (BOTTOM and TOP) for position. For size there are SMART (SCREEN_WIDTHx50) and BANNER (320x50)
 ### Advance integration
 
 The sdk offers a delegate where you can receive the events of the ads.
