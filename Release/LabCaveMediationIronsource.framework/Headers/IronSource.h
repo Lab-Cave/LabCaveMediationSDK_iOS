@@ -2,7 +2,7 @@
 //  Copyright © 2017 IronSource. All rights reserved.
 //
 
-static NSString * const MEDIATION_SDK_VERSION     = @"6.8.1";
+
 
 #ifndef IRONSOURCE_H
 #define IRONSOURCE_H
@@ -35,6 +35,7 @@ NS_ASSUME_NONNULL_BEGIN
 #define IS_OFFERWALL @"offerwall"
 #define IS_BANNER @"banner"
 
+static NSString * const MEDIATION_SDK_VERSION     = @"6.8.3";
 
 @interface IronSource : NSObject
 

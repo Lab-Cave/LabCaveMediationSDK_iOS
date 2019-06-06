@@ -7,6 +7,7 @@
 //
 
 #import "LMLBannerView.h"
+#import "LMLBannerSettings.h"
 #define DEPRECATED_ATTRIBUTE        __attribute__((deprecated))
 #define DEPRECATED_MSG(msg) __attribute((deprecated((msg))))
 /**
@@ -34,7 +35,6 @@ typedef NS_ENUM(NSUInteger, LMLType) {
      */
     LMLRewardedVideoFormat
 };
-
 /**
  * LabCaveGamesDelegate
  */

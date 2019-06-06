@@ -10,15 +10,15 @@
 		</data>
 		<key>Headers/CBInPlay.h</key>
 		<data>
-		1fVwVaNZrleYVtZ9KXgPIurRw70=
+		h3XtShSgsBJ0SeOx0kg+BMGZGtI=
 		</data>
 		<key>Headers/Chartboost.h</key>
 		<data>
-		nUC/DwwJQ71fVqjYoRpvE61KiC8=
+		WXlUoh+2yf7+akKQae6ZuNKPTbs=
 		</data>
 		<key>Headers/ChartboostDelegate.h</key>
 		<data>
-		Wy0tDwVjQaaxdp5aTnMws7vLwW0=
+		AmJl2wBmbOSQlZHLnAPVJsNFmKM=
 		</data>
 		<key>Headers/LabCaveMediationChartboost.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SNv2cwhGp2VpWIgvfEnKmXRDM8s=
+		i9gqB0hAw+4QoY0WKa+614TNfM8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,33 +50,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1fVwVaNZrleYVtZ9KXgPIurRw70=
+			h3XtShSgsBJ0SeOx0kg+BMGZGtI=
 			</data>
 			<key>hash2</key>
 			<data>
-			PVQXrASGUzpOlDgtRCUKHOlp9DmxpplOYh8QxcBAPqo=
+			LTz0f9WD0L4gYcBb5AgYuB/Y7Pe2tMLiUmGsZ/HjHtw=
 			</data>
 		</dict>
 		<key>Headers/Chartboost.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nUC/DwwJQ71fVqjYoRpvE61KiC8=
+			WXlUoh+2yf7+akKQae6ZuNKPTbs=
 			</data>
 			<key>hash2</key>
 			<data>
-			xzz+VXLWqIwHtgj+91zckqEEawVfNOg4cRKLyHLWhj8=
+			nz/A5Rk6c/1w2hcnVaZ6azJK7c/M2A6QpnkZvO7in6A=
 			</data>
 		</dict>
 		<key>Headers/ChartboostDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Wy0tDwVjQaaxdp5aTnMws7vLwW0=
+			AmJl2wBmbOSQlZHLnAPVJsNFmKM=
 			</data>
 			<key>hash2</key>
 			<data>
-			0qBelkcE9Vrk9Gjauyj67Hp+cQarW12HeFvG8ile32E=
+			vP6jKVxbkSTGY8Ef7br0ugs42qHcmGGU2ZqKC+In4R0=
 			</data>
 		</dict>
 		<key>Headers/LabCaveMediationChartboost.h</key>

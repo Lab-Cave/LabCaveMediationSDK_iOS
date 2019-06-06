@@ -1,12 +1,11 @@
 //
 //  ALAdSize.h
-//  sdk
+//  AppLovinSDK
 //
 //  Created by Basil on 2/27/12.
-//  Copyright © 2018 AppLovin Corporation. All rights reserved.
+//  Copyright © 2019 AppLovin Corporation. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
 NS_ASSUME_NONNULL_BEGIN

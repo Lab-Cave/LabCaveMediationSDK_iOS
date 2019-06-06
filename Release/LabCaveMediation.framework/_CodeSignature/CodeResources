@@ -4,21 +4,25 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/LMLBannerSettings.h</key>
+		<data>
+		CE+d+slQTCcFDr2/bu830RGQtf8=
+		</data>
 		<key>Headers/LMLBannerView.h</key>
 		<data>
 		rZkxLGJ1CWihuFE0Pa4yhG5uAS0=
 		</data>
 		<key>Headers/LabCaveMediation.h</key>
 		<data>
-		3h0DBlR1RPXGkRaH4imhPlVCcSo=
+		6+5S48NypOUldxy/kdVo/ikTEBc=
 		</data>
 		<key>Headers/LabCaveMediationDelegate.h</key>
 		<data>
-		/L/iwTrOOIHr3fz/8MDgEb8uv+o=
+		VQyFvhDyqiXv47W+PhSkege7M5U=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Mi92ODrEItMY9zQQMMHbar0umqc=
+		fYSW9ggBRiesbwbK7QgA03LTp+E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -27,6 +31,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/LMLBannerSettings.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CE+d+slQTCcFDr2/bu830RGQtf8=
+			</data>
+			<key>hash2</key>
+			<data>
+			e3/jsd/hp+/F/txQsrRB3XiS/QcLabuDJtgyMfoGE7c=
+			</data>
+		</dict>
 		<key>Headers/LMLBannerView.h</key>
 		<dict>
 			<key>hash</key>
@@ -42,22 +57,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3h0DBlR1RPXGkRaH4imhPlVCcSo=
+			6+5S48NypOUldxy/kdVo/ikTEBc=
 			</data>
 			<key>hash2</key>
 			<data>
-			EDQniUPdRJRl+pvnU/VmHOUHmFEu26MoYJOoZGWw9l8=
+			IoceVgIK6bpjSc/KKuCVw20v6sp/3ciqM+ARofGnc48=
 			</data>
 		</dict>
 		<key>Headers/LabCaveMediationDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/L/iwTrOOIHr3fz/8MDgEb8uv+o=
+			VQyFvhDyqiXv47W+PhSkege7M5U=
 			</data>
 			<key>hash2</key>
 			<data>
-			8qou31s3dyhXz+I03DZcG0c2b4hhT2flxXv7O1ntdQs=
+			hy0dJTvmgWnwyyisLy51d9kKJAoXAbDmtTouWEHr/6M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

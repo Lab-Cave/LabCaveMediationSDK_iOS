@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/UADSBanner.h</key>
 		<data>
-		7kCjXs7KIVfBwLod2y++bE+W7bQ=
+		rwaSwTXRcgORVVN5A9k+YFPkiNM=
 		</data>
 		<key>Headers/UADSInAppPurchaseMetaData.h</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0csWf0glH7BEMMvTWiGdsWmbFZc=
+		a0wuiP7iRsT7tDUvk+ArTbponwY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -162,11 +162,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7kCjXs7KIVfBwLod2y++bE+W7bQ=
+			rwaSwTXRcgORVVN5A9k+YFPkiNM=
 			</data>
 			<key>hash2</key>
 			<data>
-			9O0Cps2I+k9mFEohjZ2AdalgUDju5yOUpI8fEdPIggY=
+			FJW3uoegkyIwA5yVYmQHMFq0qxBK1RBD3XQ6lY4HsMg=
 			</data>
 		</dict>
 		<key>Headers/UADSInAppPurchaseMetaData.h</key>

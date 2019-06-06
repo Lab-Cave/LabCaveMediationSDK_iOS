@@ -1,12 +1,11 @@
 //
 //  ALAdDisplayDelegate.h
-//  sdk
+//  AppLovinSDK
 //
 //  Created by Basil on 3/23/12.
-//  Copyright © 2018 AppLovin Corporation. All rights reserved.
+//  Copyright © 2019 AppLovin Corporation. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
 #import <UIKit/UIView.h>
 #import "ALAd.h"
 

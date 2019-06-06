@@ -1,12 +1,11 @@
 //
 //  ALNativeAdService.h
-//  sdk
+//  AppLovinSDK
 //
 //  Created by Thomas So on 5/21/15.
-//  Copyright © 2018 AppLovin Corporation. All rights reserved.
+//  Copyright © 2019 AppLovin Corporation. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
 #import "ALNativeAdLoadDelegate.h"
 #import "ALNativeAdPrecacheDelegate.h"
 

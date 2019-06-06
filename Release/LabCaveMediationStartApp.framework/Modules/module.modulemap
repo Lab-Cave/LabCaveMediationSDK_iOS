@@ -1,6 +1,0 @@
-framework module LabCaveMediationStartApp {
-  umbrella header "LabCaveMediationStartApp.h"
-
-  export *
-  module * { export * }
-}

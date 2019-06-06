@@ -1,6 +1,0 @@
-framework module LabCaveMediationInmobi {
-  umbrella header "LabCaveMediationInmobi.h"
-
-  export *
-  module * { export * }
-}
