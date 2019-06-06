@@ -40,7 +40,7 @@ Now in build settings tab in "Swift Compiler - General" in the field "Objective-
 
 ## Integrate SDK
 
-Once you have added all files it's time to initialize the sdk. **Important** you must initialize the sdk and the begining of the execution of your app and **only once**. Important if you use AdMob realize you need to also ad the GoogleAppMeasurement.framework, GoogleUtilities.framework and nanopb.framework.
+Once you have added all files it's time to initialize the sdk. **Important** you must initialize the sdk and the begining of the execution of your app and **only once**. Important if you use AdMob realize you need to also ad the GoogleAppMeasurement.framework, GoogleUtilities.framework and nanopb.framework and add the "GADApplicationIdentifier" field to your info.plist with your application Id in their dashboard.
 
 If you are in Objetive-C import the mediation reference to the SDK.
 
