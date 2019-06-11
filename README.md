@@ -84,17 +84,17 @@ The sdk offers a delegate where you can receive the events of the ads.
 - (void)labCaveMediationInitialized:(BOOL)state
 {
 }
-// Will be called when any ad is loaded, it will tell you the type MMLType.MMLBannerFormat, MMLType.MMLInterstitialFormat and MMLType.MMLRewardedVideoFormat
--(void)advertLoaded:(NSString *)provider view:(MMLBannerView *)advert type:(MMLType)type zone:(NSString *)zoneId
+// Will be called when any ad is loaded, it will tell you the type LMLType.LMLBannerFormat, LMLType.LMLInterstitialFormat and LMLType.LMLRewardedVideoFormat
+-(void)advertLoaded:(NSString *)provider view:(LMLBannerView *)advert type:(LMLType)type zone:(NSString *)zoneId
 
 {
     switch (type)
     {
-        case MMLBannerFormat:
+        case LMLBannerFormat:
         break;
-        case MMLInterstitialFormat:
+        case LMLInterstitialFormat:
         break;
-        case MMLRewardedVideoFormat:
+        case LMLRewardedVideoFormat:
         break;
         default:
         break;
@@ -102,27 +102,27 @@ The sdk offers a delegate where you can receive the events of the ads.
 }
 
 // When an ad is clicked
-- (void)advertDidInteract:(NSString *)provider type:(MMLType)type zone:(NSString *)zone;
+- (void)advertDidInteract:(NSString *)provider type:(LMLType)type zone:(NSString *)zone;
 {
       NSLog("INTERACT CONTROLLER LabCave");
 }
 // When an ad is showed 
-- (void)advertDidPresentScreen:(NSString *)provider type:(MMLType)type zone:(NSString *)zone
+- (void)advertDidPresentScreen:(NSString *)provider type:(LMLType)type zone:(NSString *)zone
 {
     NSLog(@"DID PRESENT CONTROLLER LabCave ");
 }
 // When an ad is closed
--(void)advertDidClose:(NSString *)provider type:(MMLType)type zone:(NSString *)zoneId
+-(void)advertDidClose:(NSString *)provider type:(LMLType)type zone:(NSString *)zoneId
 {
     NSLog(@"CLOSE CONTROLLER LabCave ");
 }
 // When we received an error loading or showing an ad
--(void)advertsRequestFail:(NSString *)provider type:(MMLType)type zone:(NSString *)zoneId
+-(void)advertsRequestFail:(NSString *)provider type:(LMLType)type zone:(NSString *)zoneId
 {
     NSLog(@"FAIL CONTROLLER LabCave ");
 }
 // When you must give a reward after a rewarded-video
--(void)rewardUser:(NSString *)provider type:(MMLType)type zone:(NSString *)zoneId
+-(void)rewardUser:(NSString *)provider type:(LMLType)type zone:(NSString *)zoneId
 {
     NSLog(@"REWARD CONTROLLER LabCave ");
 }
@@ -134,8 +134,8 @@ The sdk offers a delegate where you can receive the events of the ads.
   func labCaveMediationInitialized(_ state: Bool) {
 
     }
- // Will be called when any ad is loaded, it will tell you the type MMLType.MMLBannerFormat, MMLType.MMLInterstitialFormat and MMLType.MMLRewardedVideoFormat
- func  advertLoaded(_ provider: String!, view advert: MMLBannerView!, type: MMLType, zone zoneId: String!) {
+ // Will be called when any ad is loaded, it will tell you the type LMLType.LMLBannerFormat, LMLType.LMLInterstitialFormat and LMLType.LMLRewardedVideoFormat
+ func  advertLoaded(_ provider: String!, view advert: LMLBannerView!, type: LMLType, zone zoneId: String!) {
       switch type {
             case .bannerFormat:
                   print("banner")
@@ -153,23 +153,23 @@ The sdk offers a delegate where you can receive the events of the ads.
     }
 
  // When an ad is clicked
- func advertDidInteract(_ provider: String!, type: MMLType, zone: String!) {
+ func advertDidInteract(_ provider: String!, type: LMLType, zone: String!) {
         
     }
  // When an ad is showed
- func advertDidPresentScreen(_ provider: String!, type: MMLType, zone: String!) {
+ func advertDidPresentScreen(_ provider: String!, type: LMLType, zone: String!) {
         
     }
  // When an ad is closed
- func advertWebViewDidClose(_ provider: String!, type: MMLType, zone zoneId: String!) {
+ func advertWebViewDidClose(_ provider: String!, type: LMLType, zone zoneId: String!) {
         
     }
  // When we received an error loading or showing an ad
- func advertsRequestFail(_ provider: String!, type: MMLType, zone zoneId: String!) {
+ func advertsRequestFail(_ provider: String!, type: LMLType, zone zoneId: String!) {
         
     }
  // When you must give a reward after a rewarded-video
- func rewardUser(_ provider: String!, type: MMLType, zone zoneId: String!) {
+ func rewardUser(_ provider: String!, type: LMLType, zone zoneId: String!) {
         
     }
 ```
