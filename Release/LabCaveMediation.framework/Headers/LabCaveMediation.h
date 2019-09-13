@@ -5,7 +5,7 @@
 //  Created by LabCaveGames on 21/2/17.
 //  Copyright © 2017 Lab Cave Apps S.L. All rights reserved.
 //
-// LabCaveGames SDK 2.8.1
+// LabCaveGames SDK 2.9.1
 
 #import <Foundation/Foundation.h>
 #import <CoreLocation/CoreLocation.h>
@@ -17,6 +17,7 @@
 #import <MobileCoreServices/MobileCoreServices.h>
 #import "LabCaveMediationDelegate.h"
 #import <UIKit/UIKit.h>
+
 
 /**
  *  LabCaveGames
@@ -31,60 +32,76 @@
  */
 + (void)initWithAppHash:(NSString *)appHash delegate:(id<LMLDelegate>)delegate viewController:(UIViewController *)viewController;
 /**
- *  Show LabCaveGamesMediation Banner ad
+ *  Init LabCaveGames Mediation
+ *  @param appHash Your application identifier
  *  @param delegate will set the delegate that will be called
- *  @param zone string tag the zone of the app the ad will be showed
- *  @param bannerSettings set banner size
  *  @param viewController The UIViewController that will present the Ad
- */
-+ (void)showBannerAdWithDelegate:(id<LMLDelegate>)delegate zone:(NSString *)zone bannerSettings:(LMLBannerSettings*)bannerSettings viewController:(UIViewController *)viewController;
+ *  @param adFormats Ad formats to initialize
+*/
++ (void)initWithAppHash:(NSString *)appHash delegate:(id<LMLDelegate>)delegate viewController:(UIViewController *)viewController adFormats:(NSArray<NSString *> *)adFormats;
 /**
- *  Show LabCaveGamesMediation Banner ad
- *  @param delegate will set the delegate that will be called
- *  @param zone string tag the zone of the app the ad will be showed
+ *  Init LabCaveGames Mediation
+ *  @param appHash Your application identifier
  *  @param viewController The UIViewController that will present the Ad
+ *  @param adFormats Ad formats to initialize
  */
-+ (void)showBannerAdWithDelegate:(id<LMLDelegate>)delegate zone:(NSString *)zone viewController:(UIViewController *)viewController;
-/**
- *  Show LabCaveGamesMediation Insterstitial ad
- *  @param delegate will set the delegate that will be called
- *  @param zone string tag the zone of the app the ad will be showed
- *  @param viewController The UIViewController that will present the Ad
- */
-+ (void)showInterstitialAdWithDelegate:(id<LMLDelegate>)delegate zone:(NSString *)zone viewController:(UIViewController *)viewController;
-/**
- *  Show LabCaveGamesMediation Rewarded Video ad
- *  @param delegate will set the delegate that will be called
- *  @param zone string tag the zone of the app the ad will be showed
- *  @param viewController The UIViewController that will present the Ad
- */
-+ (void)showRewardedVideoAdWithDelegate:(id<LMLDelegate>)delegate zone:(NSString *)zone viewController:(UIViewController *)viewController;
++ (void)initWithAppHash:(NSString *)appHash viewController:(UIViewController *)viewController adFormats:(NSArray<NSString *> *)adFormats;
 
 /**
  *  Show LabCaveGamesMediation Banner ad
- *  @param zone string tag the zone of the app the ad will be showed
+ *  @param delegate will set the delegate that will be called
+ *  @param adLocation string tag the location of the app the ad will be showed
  *  @param bannerSettings set banner size
  *  @param viewController The UIViewController that will present the Ad
  */
-+ (void)showBannerAdWitZone:(NSString *)zone bannerSettings:(LMLBannerSettings*)bannerSettings viewController:(UIViewController *)viewController;
++ (void)showBannerAdWithDelegate:(id<LMLDelegate>)delegate adLocation:(NSString *)adLocation bannerSettings:(LMLBannerSettings*)bannerSettings viewController:(UIViewController *)viewController;
 /**
  *  Show LabCaveGamesMediation Banner ad
- *  @param zone string tag the zone of the app the ad will be showed
+ *  @param delegate will set the delegate that will be called
+ *  @param adLocation string tag the location of the app the ad will be showed
  *  @param viewController The UIViewController that will present the Ad
  */
-+ (void)showBannerAdWitZone:(NSString *)zone viewController:(UIViewController *)viewController;
++ (void)showBannerAdWithDelegate:(id<LMLDelegate>)delegate adLocation:(NSString *)adLocation viewController:(UIViewController *)viewController;
 /**
  *  Show LabCaveGamesMediation Insterstitial ad
- *  @param zone string tag the zone of the app the ad will be showed
+ *  @param delegate will set the delegate that will be called
+ *  @param adLocation string tag the location of the app the ad will be showed
  *  @param viewController The UIViewController that will present the Ad
  */
-+ (void)showInterstitialAdWithZone:(NSString *)zone viewController:(UIViewController *)viewController;
++ (void)showInterstitialAdWithDelegate:(id<LMLDelegate>)delegate adLocation:(NSString *)adLocation viewController:(UIViewController *)viewController;
 /**
  *  Show LabCaveGamesMediation Rewarded Video ad
- *  @param zone string tag the zone of the app the ad will be showed
+ *  @param delegate will set the delegate that will be called
+ *  @param adLocation string tag the location of the app the ad will be showed
  *  @param viewController The UIViewController that will present the Ad
  */
-+ (void)showRewardedVideoAdWithZone:(NSString *)zone viewController:(UIViewController *)viewController;
++ (void)showRewardedVideoAdWithDelegate:(id<LMLDelegate>)delegate adLocation:(NSString *)adLocation viewController:(UIViewController *)viewController;
+
+/**
+ *  Show LabCaveGamesMediation Banner ad
+ *  @param adLocation string tag the location of the app the ad will be showed
+ *  @param bannerSettings set banner size
+ *  @param viewController The UIViewController that will present the Ad
+ */
++ (void)showBannerAdWitAdLocation:(NSString *)adLocation bannerSettings:(LMLBannerSettings*)bannerSettings viewController:(UIViewController *)viewController;
+/**
+ *  Show LabCaveGamesMediation Banner ad
+ *  @param adLocation string tag the location of the app the ad will be showed
+ *  @param viewController The UIViewController that will present the Ad
+ */
++ (void)showBannerAdWitAdLocation:(NSString *)adLocation viewController:(UIViewController *)viewController;
+/**
+ *  Show LabCaveGamesMediation Insterstitial ad
+ *  @param adLocation string tag the location of the app the ad will be showed
+ *  @param viewController The UIViewController that will present the Ad
+ */
++ (void)showInterstitialAdWithAdLocation:(NSString *)adLocation viewController:(UIViewController *)viewController;
+/**
+ *  Show LabCaveGamesMediation Rewarded Video ad
+ *  @param adLocation string tag the location of the app the ad will be showed
+ *  @param viewController The UIViewController that will present the Ad
+ */
++ (void)showRewardedVideoAdWithAdLocation:(NSString *)adLocation viewController:(UIViewController *)viewController;
 
 /**
  *  Check banner state

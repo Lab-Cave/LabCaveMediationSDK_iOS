@@ -10,6 +10,9 @@
 #import "LMLBannerSettings.h"
 #define DEPRECATED_ATTRIBUTE        __attribute__((deprecated))
 #define DEPRECATED_MSG(msg) __attribute((deprecated((msg))))
+#define LML_REWARDED_VIDEO @"rewardedvideo"
+#define LML_INTERSTITIAL @"interstitial"
+#define LML_BANNER @"banner"
 /**
  *  Advert Type
  */

@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/ALAdView.h</key>
 		<data>
-		luZ53Eo3H6NT90AEioofCuEFHP4=
+		80KSygZXfIlDpAB2ij2GMoNv6i4=
 		</data>
 		<key>Headers/ALAdViewEventDelegate.h</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Headers/ALMediationProvider.h</key>
 		<data>
-		fgE8etv5kA9lBFbpyBjSyMAaJiY=
+		YRMJoZ9Pq2CLkQCUVFkrBthj+/Y=
 		</data>
 		<key>Headers/ALNativeAd.h</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Headers/MAAd.h</key>
 		<data>
-		ZdNuifjubD9+EmbuyJlUFuVqalU=
+		i1/8zYsjf2QvoxcWAnQQ5zFcL5Q=
 		</data>
 		<key>Headers/MAAdDelegate.h</key>
 		<data>
@@ -282,11 +282,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			luZ53Eo3H6NT90AEioofCuEFHP4=
+			80KSygZXfIlDpAB2ij2GMoNv6i4=
 			</data>
 			<key>hash2</key>
 			<data>
-			qg83bZ2kReICanfhixjcttYHWvBQO4Pk6pAKLzvz/5M=
+			AOwMGq7b1hNtVr2Gv//CzpRJ1rKsGjhKmnRMNS+5Exc=
 			</data>
 		</dict>
 		<key>Headers/ALAdViewEventDelegate.h</key>
@@ -359,11 +359,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fgE8etv5kA9lBFbpyBjSyMAaJiY=
+			YRMJoZ9Pq2CLkQCUVFkrBthj+/Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			9F7gpSH8e78jPcmNOK66xmtao/7PbBbm61XIcrRCGsA=
+			Jj/4H3ndq0d/9nyiorvJsIRSf5K59bkyUZwjV8xE1HA=
 			</data>
 		</dict>
 		<key>Headers/ALNativeAd.h</key>
@@ -524,11 +524,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZdNuifjubD9+EmbuyJlUFuVqalU=
+			i1/8zYsjf2QvoxcWAnQQ5zFcL5Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			aqHWYCaEsjcDYBLsO6zNvRm1XxhXkeW+J3iVoXnCqvg=
+			jJGMXJHmi8s05iRMmoKjs8xTgHvd6qC9s2MSWyHKlmw=
 			</data>
 		</dict>
 		<key>Headers/MAAdDelegate.h</key>

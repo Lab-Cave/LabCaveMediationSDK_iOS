@@ -1,96 +1,120 @@
-# LabCaveMediationSDK-iOS
+# LabCave Mediation iOS SDK
 
-The current version (2.8.1) is tested with Xcode8 or above and is compatible with iOS 8 and above.
-## Download SDK
+The current version (2.9.1) is tested with Xcode8 or above and is compatible with iOS 8 and above.
 
-Download our sdk, add the LabCaveMediation.framework to your project in General tab Linked Frameworks and Libraries. Now you must add the following frameworks and libs to your project in General tab Linked Frameworks and Libraries. Ensure that the frameworks are linked correctly.
+## Adding Lab Cave Mediation SDK to your Project
 
-      AdSupport.framework
-      AudioToolbox.framework
-      AVFoundation.framework
-      CFNetwork.framework
-      CoreGraphics.framework
-      CoreMedia.framework
-      EventKit.framework
-      EventKitUI.framework
-      Foundation.framework
-      libz.dylib or libz.tbd
-      libc++.tbd
-      libxml2.2.tbd
-      MediaPlayer.framework
-      QuartzCore.framework
-      StoreKit.framework
-      SystemConfiguration.framework
-      UIKit.framework
-      WebKit.framework
-      WatchConnectivity.framework
+1. Download our sdk, unzip the file and the LabCaveMediation.framework to your project in General tab Linked Frameworks and Libraries.
 
+2. Add the following frameworks and libs to your project in General tab Linked Frameworks and Libraries. Ensure that the frameworks are linked correctly.
 
-Lastly, add the following values to the **Other Linker Flags** in the **Build Settings** tab: 
+```
+AdSupport.framework
+AudioToolbox.framework
+AVFoundation.framework
+CFNetwork.framework
+CoreGraphics.framework
+CoreMedia.framework
+EventKit.framework
+EventKitUI.framework
+Foundation.framework
+libz.dylib or libz.tbd
+libc++.tbd
+libxml2.2.tbd
+MediaPlayer.framework
+QuartzCore.framework
+StoreKit.framework
+SystemConfiguration.framework
+UIKit.framework
+WebKit.framework
+WatchConnectivity.framework
+```
+
+3. Lastly, add the following values to the **Other Linker Flags** in the **Build Settings** tab: 
 
       -ObjC,-fobjc-arc
 
-If your are working in swift you must create a header file (.h) and add to your project, for example called "LabCave-Bridging-Header.h", and add this line of code to it:
+### Swift 
 
-```objectivec
+If your are working in swift you have to create a header file (.h) and add to your project, for example called "LabCave-Bridging-Header.h", and add this line of code to it:
+
+```swift
 #import <LabCaveMediation/LabCaveMediation.h>
 ```
 
 Now in build settings tab in "Swift Compiler - General" in the field "Objective-C Bridging Header" add the file create above. Now you are ready to use the LabCaveMediation with Swift.
 
-## Integrate SDK
+### Integrate Lab Cave Mediation Network Adapters
 
-Once you have added all files it's time to initialize the sdk. **Important** you must initialize the sdk and the begining of the execution of your app and **only once**. 
+Lab Cave Mediation supports Banners, Interstitials and Video Rewarded from various leading ad networks, with advanced functionalities like ads auto-fetching and advanced delivery optimization. Add to your project the frameworks, depending on your selected Ad Networks, as you did in the previous step.
 
 **IMPORTANT IF YOU ARE USING ADMOB**
 
 Realize you need to also ad the GoogleAppMeasurement.framework, GoogleUtilities.framework and nanopb.framework and add a GADApplicationIdentifier key with a string value of your AdMob app ID to your app's Info.plist file. You can find your App ID in the AdMob UI.
 
-````java
+````xml
 <key>GADApplicationIdentifier</key>
 <string>YOUR_ADMOB_APP_ID</string>
 ````
+## Initialize the SDK
 
+Once you have added all the files, it's time to initialize the SDK. 
 
+**Important**: you have to initialize the SDK at the begining of the execution of your app. Make sure you **initiliase it only once**.
 
-If you are in Objetive-C import the mediation reference to the SDK.
+### Init the SDK
 
-```objectivec
- #import <LabCaveMediation/LabCaveMediation.h> 
-```
+The SDK Initialisation can be done in two ways:
 
-Launch the SDK with the following action setting **YOUR_APP_HASH** as parameter and **uIViewController** as delegate. Your manager will give you your **YOUR_APP_HASH**.
+1. Initialize each Ad Format separately at different points of the game. ***Recommended*** to minimise the number of ads preloaded without showing an impression.
 
-```objectivec
-// Objective-C
-[LabCaveMediation initWithAppHash:@"YOUR_APP_HASH" delegate:self viewController:self];
+    You can bundle them in the same method
 
-//Swift
-LabCaveMediation.initWithAppHash("YOUR_APP_HASH", delegate: self, viewController: self)
-```
-
-Below are the following methods of how to request different ad formats, the parameters are the “delegate” and the “zone” refers to where the advertising format can be kept track of. Is not a good practice call any show method immediately after the init call. When a format ad is loaded you will be warned in the "advertLoaded" delegate method, that's a good time to call any show method if you want.
-
-```objectivec
-// Objective-C
-[LabCaveMediation showBannerAdWithDelegate:self zone:@"home" viewController:self];
-[LabCaveMediation showBannerAdWitZone:@"demo" bannerSettings:LMLBannerSettings_BANNER_TOP viewController:self];
-[LabCaveMediation showInterstitialAdWithDelegate:self zone:@"home" viewController:self];
-[LabCaveMediation showRewardedVideoAdWithDelegate:self zone:@"home" viewController:self];
+```swift
+//Objective-C
+[LabCaveMediation initWithAppHash:@"YOUR_APP_HASH" delegate:self viewController:self adFormats:@[LML_INTERSTITIAL, LML_REWARDED_VIDEO]];
 
 //Swift
-LabCaveMediation.showBannerAd(with: self, zone: "home", viewController: self)
-LabCaveMediation.showBannerAd(with: self, zone: "home", bannerSettings: LMLBannerSettings_BANNER_TOP, viewController: self)
-LabCaveMediation.showInterstitialAd(with: self, zone: "home", viewController: self)
-LabCaveMediation.showRewardedVideoAd(with: self, zone: "home", viewController: self)
+LabCaveMediation.initWithAppHash("", delegate: self, viewController: self, adFormats: [LML_INTERSTITIAL, LML_REWARDED_VIDEO])
 ```
-For banner yo can set the position and size of it by the param "bannerSettings", there are two values for position (BOTTOM and TOP) for position. For size there are SMART (SCREEN_WIDTHx50) and BANNER (320x50)
-### Advance integration
 
-The sdk offers a delegate where you can receive the events of the ads.
+Or each of them separately
+
+```swift
+//Objective-C
+
+[LabCaveMediation initWithAppHash:@"YOUR_APP_HASH" delegate:self viewController:self adFormats:@[LML_BANNER]];
+
+[LabCaveMediation initWithAppHash:@"YOUR_APP_HASH" delegate:self viewController:self adFormats:@[LML_INTERSTITIAL]];
+
+[LabCaveMediation initWithAppHash:@"YOUR_APP_HASH" delegate:self viewController:self adFormats:@[LML_REWARDED_VIDEO]];
+
+//Swift
+
+LabCaveMediation.initWithAppHash("YOUR_APP_HASH", delegate: self, viewController: self, adFormats:[LML_BANNER])
+
+LabCaveMediation.initWithAppHash("YOUR_APP_HASH", delegate: self, viewController: self, adFormats:[LML_INTERSTITIAL])
+
+LabCaveMediation.initWithAppHash("YOUR_APP_HASH", delegate: self, viewController: self, adFormats:[LML_REWARDED_VIDEO])
+```  
+
+2. Alternatively, you can initiliase ALL of them at the same time with this method
+```swift
+    //Objective-C
+    [LabCaveMediation initWithAppHash:@"YOUR_APP_HASH" delegate:self viewController:self];
+
+    //Swift
+    LabCaveMediation.initWithAppHash(YOUR_APP_HASH", delegate: self, viewController: self)
+ ```
+
+The appHash is the hash ID of your app, you can get it in https://mediation.labcavegames.com/panel/apps, "viewController" is your viewController.
+
+## Set Delegate
 
 
-```objectivec
+The SDK offers a listener where you can receive the events of the ads. 
+
+```swift
 // When the sdk is already initialized, if everything is ok, state will be true.
 - (void)labCaveMediationInitialized:(BOOL)state
 {
@@ -115,51 +139,42 @@ The sdk offers a delegate where you can receive the events of the ads.
 // When an ad is clicked
 - (void)advertDidInteract:(NSString *)provider type:(LMLType)type zone:(NSString *)zone;
 {
-      NSLog("INTERACT CONTROLLER LabCave");
 }
-// When an ad is showed 
+// When an ad is showed
 - (void)advertDidPresentScreen:(NSString *)provider type:(LMLType)type zone:(NSString *)zone
 {
-    NSLog(@"DID PRESENT CONTROLLER LabCave ");
 }
 // When an ad is closed
 -(void)advertDidClose:(NSString *)provider type:(LMLType)type zone:(NSString *)zoneId
 {
-    NSLog(@"CLOSE CONTROLLER LabCave ");
 }
 // When we received an error loading or showing an ad
 -(void)advertsRequestFail:(NSString *)provider type:(LMLType)type zone:(NSString *)zoneId
 {
-    NSLog(@"FAIL CONTROLLER LabCave ");
 }
 // When you must give a reward after a rewarded-video
 -(void)rewardUser:(NSString *)provider type:(LMLType)type zone:(NSString *)zoneId
 {
-    NSLog(@"REWARD CONTROLLER LabCave ");
 }
-
-
 
 // Swift
  // When the sdk is already initialized, if everything is ok, state will be true.
-  func labCaveMediationInitialized(_ state: Bool) {
+ func labCaveMediationInitialized(_ state: Bool) {
 
     }
  // Will be called when any ad is loaded, it will tell you the type LMLType.LMLBannerFormat, LMLType.LMLInterstitialFormat and LMLType.LMLRewardedVideoFormat
  func  advertLoaded(_ provider: String!, view advert: LMLBannerView!, type: LMLType, zone zoneId: String!) {
-      switch type {
+        switch type {
             case .bannerFormat:
-                  print("banner")
-            
+                print("banner")
             case .interstitialFormat:
-                  print("interstitial")
-            
+                print("interstitial")            
             case .rewardedVideoFormat:
-                  print("rewarded")
-                  
+                print("rewarded")
             case .videoFormat:
-                  print("video")
-             }
+                print("video")
+            case .unknownFormat:
+                print("unknown")
         }
     }
 
@@ -185,9 +200,217 @@ The sdk offers a delegate where you can receive the events of the ads.
     }
 ```
 
-You can enable loggin to check what is happening
+## Showing Ads
 
-```objectivec
+Once you have correctly initialized the SDK and set the listeners, then you can show ads.
+
+>**The mediation SDK auto fetch all ads for you**, when you call the init method also will fecth the first ads, so you only need to call the show methods for the selected ad format.
+
+You have to pass the viewController of your activity and the ad placement where the ad will be shown "double-coins", "main-menu", "options", etc. It can also be an empty string but we recommend you to always define an ad placement.
+
+**The ad placements are automatically created on the dashboard and will appear after the first call of that specific ad placement is done.**
+
+Make sure you check that the ad has been correctly loaded by calling the following methods:
+
+## Interstitial
+
+```swift
+ //Objective-C
+if ([LabCaveMediation isInterstitialReady]){
+    [LabCaveMediation showInterstitialAdWithDelegate:self adLocation:@"adLocation" viewController:self];
+}
+
+//Swift
+if(LabCaveMediation.isInterstitialReady()){
+    LabCaveMediation.showInterstitialAd(withAdLocation: "adLocation", viewController: self)
+}
+```
+
+## Rewarded Video
+
+```swift
+    //Objective-C
+if ([LabCaveMediation isRewardedVideoReady]){
+        [LabCaveMediation showRewardedVideoAdWithDelegate:self adLocation:@"adLocation" viewController:self];
+}
+
+//Swift
+if(LabCaveMediation.isRewardedVideoReady()){
+    LabCaveMediation.showRewardedVideoAd(withAdLocation: "adLocation", viewController: self)
+}
+```
+
+## Banner
+
+The position **TOP** or **BOTTOM** and the size SMART(SCREEN_SIZEx50) or BANNER (320x50) can be set at the beggining of the execution or when you call "showBanner":
+
+```swift
+//Objective-C
+if ([LabCaveMediation isBannerReady]){
+    ...
+}
+
+//Swift
+if (LabCaveMediation.isBannerReady()){
+    ...
+}
+
+//Objective-C
+[LabCaveMediation showBannerAdWitAdLocation:@"demo" bannerSettings:LMLBannerSettings_SMART_TOP viewController:self];
+[LabCaveMediation showBannerAdWitAdLocation:@"demo" bannerSettings:LMLBannerSettings_SMART_BOTTOM viewController:self];
+[LabCaveMediation showBannerAdWitAdLocation:@"demo" bannerSettings:LMLBannerSettings_BANNER_TOP viewController:self];
+[LabCaveMediation showBannerAdWitAdLocation:@"demo" bannerSettings:LMLBannerSettings_BANNER_BOTTOM viewController:self];
+
+
+LabCaveMediation.showBannerAdWitAdLocation("menu", bannerSettings: LMLBannerSettings.init(size: "SMART_TOP"), viewController: self)
+LabCaveMediation.showBannerAdWitAdLocation("menu", bannerSettings: LMLBannerSettings.init(size: "SMART_BOTTOM"), viewController: self)
+LabCaveMediation.showBannerAdWitAdLocation("menu", bannerSettings: LMLBannerSettings.init(size: "BANNER_TOP"), viewController: self)
+LabCaveMediation.showBannerAdWitAdLocation("menu", bannerSettings: LMLBannerSettings.init(size: "BANNER_BOTTOM"), viewController: self)
+```
+### Verify the integration
+
+In order to check if the SDK is correct, open the test module, you have to call the "Init" method first and wait till the "onInit" listener method is called:
+
+```swift
+//Objective-C
+[LabCaveMediation testMediationAds:self appHash:@"YOUR_APP_HASH"];
+
+// Swift
+LabCaveMediation.testMediationAds(self, appHash:"YOUR_APP_HASH")
+```
+
+>**Make sure you remove this test module on your release build.**
+
+## Sample Activity
+
+You can find here an example of an activity integrating Lab Cave Mediation.
+
+```swift
+#import "ViewController.h"
+#import <LabCaveMediation/LabCaveMediation.h>
+
+@interface ViewController () <LMLDelegate>
+@property(strong, nonatomic) IBOutlet UIButton *buttonBanner;
+@property(strong, nonatomic) IBOutlet UIButton *buttonInterstitial;
+@property(strong, nonatomic) IBOutlet UIButton *buttonVideo;
+@property(strong, nonatomic) IBOutlet UIButton *buttonRewardedVideo;
+@property(nonatomic, strong) LMLBannerView *banner;
+
+@end
+
+@implementation ViewController
+
+- (void)viewDidLoad
+{
+    [super viewDidLoad];
+    [LabCaveMediation setLogEnabled:true];
+    [LabCaveMediation initWithAppHash:@"YOUR_APP_HASH" delegate:self viewController:self];
+    
+}
+- (void)didReceiveMemoryWarning
+{
+    [super didReceiveMemoryWarning];
+}
+- (void)advertLoaded:(NSString *)provider view:(LMLBannerView *)advert type:(LMLType)type zone:(NSString *)zoneId
+{
+    switch (type)
+    {
+        case LMLBannerFormat:
+            if([LabCaveMediation isBannerReady])
+            {
+                self.banner = advert;
+                [self.buttonBanner setHidden:NO];
+            }
+            break;
+        case LMLInterstitialFormat:
+
+            if([LabCaveMediation isInterstitialReady])
+            {
+                [self.buttonInterstitial setHidden:NO];
+            }
+            break;
+        case LMLVideoFormat:
+            [self.buttonVideo setHidden:NO];
+            break;
+        case LMLRewardedVideoFormat:
+            if([LabCaveMediation isRewardedVideoReady])
+            {
+                [self.buttonRewardedVideo setHidden:NO];
+            }
+            break;
+        default:
+            break;
+    }
+}
+- (void)labCaveMediationInitialized:(BOOL)state
+{
+}
+- (void)advertDidInteract:(NSString *)provider type:(LMLType)type zone:(NSString *)zone
+{
+}
+
+- (void)advertWillPresentScreen:(NSString *)provider type:(LMLType)type zone:(NSString *)zone
+{
+}
+
+- (void)advertDidPresentScreen:(NSString *)provider type:(LMLType)type zone:(NSString *)zone
+{
+}
+
+- (void)advertWillDismissScreen:(NSString *)provider type:(LMLType)type zone:(NSString *)zone
+{
+}
+
+- (void)advertDidDismissScreen:(NSString *)provider type:(LMLType)type zone:(NSString *)zone
+{
+}
+
+- (void)advertDidClose:(NSString *)provider type:(LMLType)type zone:(NSString *)zoneId
+{
+}
+
+- (void)advertsRequestFail:(NSString *)provider type:(LMLType)type zone:(NSString *)zoneId
+{
+}
+- (void)rewardUser:(NSString *)provider type:(LMLType)type zone:(NSString *)zoneId
+{
+}
+- (IBAction)showAd:(UIButton *)sender
+{
+    switch (sender.tag)
+    {
+        case 0:
+            [LabCaveMediation showBannerAdWitAdLocation:@"demo" bannerSettings:LMLBannerSettings_BANNER_BOTTOM viewController:self];
+            break;
+        case 1:
+            [LabCaveMediation showInterstitialAdWithDelegate:self adLocation:@"score-menu" viewController:self];
+            break;
+        case 2:
+            break;
+        case 3:
+            [LabCaveMediation showRewardedVideoAdWithDelegate:self adLocation:@"free-cash" viewController:self];
+            break;
+        default:
+            break;
+    }
+}
+
+- (IBAction)showTest:(UIButton *)sender
+{
+    [LabCaveMediation testMediationAds:self appHash:@""];
+}
+
+@end
+
+```
+
+## Advance integration
+
+### Debugging
+
+You can enable logging to get additional information by using the following method:
+
+```swift
 // Objective-C
 [LabCaveMediation setLogEnabled:true];
 
@@ -195,15 +418,15 @@ You can enable loggin to check what is happening
 LabCaveMediation.setLogEnabled(true)
 ```
 
-To check if the integration of each thirparty is correct open the test module, make sure you call the "initWithAppHash" method first and wait till the "labCaveMediationInitialized" delegate method is called for the first time:
+### GDPR
+>Make sure you set the GDPR user consent before initiliazing the Mediation.
 
-*Make sure you remove this test module on your release build.
+You can set the user consent to the sdk if you manage it. If you don't, the mediation will ask the user for the consent. 
 
+You can use the following methods:
 
-```objectivec
-// Objective-C
-[LabCaveMediation testMediationAds:self appHash:@"YOUR_APP_HASH"];
+```swift
+[LabCaveMediation setUserConsent:true];
 
-// Swift
-LabCaveMediation.testMediationAds(self, appHash:"YOUR_APP_HASH")
+[LabCaveMediation getUserConsent];
 ```

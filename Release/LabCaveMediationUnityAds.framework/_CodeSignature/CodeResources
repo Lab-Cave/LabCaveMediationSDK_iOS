@@ -8,6 +8,10 @@
 		<data>
 		Qkw+1GVVCrOyiWDpBreoroeEdQw=
 		</data>
+		<key>Headers/NSString+UnityAdsError.h</key>
+		<data>
+		uJHXqov7+Q6+INzJGoqp0EGyZhE=
+		</data>
 		<key>Headers/UADSBanner.h</key>
 		<data>
 		rwaSwTXRcgORVVN5A9k+YFPkiNM=
@@ -102,9 +106,21 @@
 		</data>
 		<key>Headers/UnityAds.h</key>
 		<data>
-		rThG6P1tkzxQ7u0y/b9juUVMUO8=
+		kOmGhwmvT2dLjwKb+kxX/L9c654=
+		</data>
+		<key>Headers/UnityAdsDelegate.h</key>
+		<data>
+		nQmANY8mHVVHN9kZEWeGdRYkokM=
+		</data>
+		<key>Headers/UnityAdsError.h</key>
+		<data>
+		g2eR8kJ7pR2O4yds1q35rzhEBgQ=
 		</data>
 		<key>Headers/UnityAdsExtended.h</key>
+		<data>
+		W6L2GiEzGLDdb34+XebRlP+KZlo=
+		</data>
+		<key>Headers/UnityAdsExtendedDelegate.h</key>
 		<data>
 		AlK1PZmetrt1lC/LRqnZVSR6lKU=
 		</data>
@@ -112,9 +128,13 @@
 		<data>
 		E4r5QngahmfQuDhxiSI52KsdOvo=
 		</data>
+		<key>Headers/UnityAdsPlacementState.h</key>
+		<data>
+		BNDwGQ1r0d74gf7dLmlt8BC1MmE=
+		</data>
 		<key>Headers/UnityAnalytics.h</key>
 		<data>
-		WW7nFpKwQKeLd4xomXfHifYuucU=
+		BFChj0ihhE512WcMADN4N1+t07Q=
 		</data>
 		<key>Headers/UnityAnalyticsAcquisitionType.h</key>
 		<data>
@@ -134,7 +154,7 @@
 		</data>
 		<key>Headers/UnityServices.h</key>
 		<data>
-		Xr7CLX2ieoCM+mf/WWA7m3w5IAk=
+		xVDVLiRxmWzQEkNM2wccpQvMmtc=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -156,6 +176,17 @@
 			<key>hash2</key>
 			<data>
 			LpJR7ZjcGI8fnlGlRtjXcOVSMZu3EnGykAhLNRv6kN0=
+			</data>
+		</dict>
+		<key>Headers/NSString+UnityAdsError.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uJHXqov7+Q6+INzJGoqp0EGyZhE=
+			</data>
+			<key>hash2</key>
+			<data>
+			34PLDtOBESrEvBROCtlzmW7W/uaVBOI0Gz3NuTVeYWY=
 			</data>
 		</dict>
 		<key>Headers/UADSBanner.h</key>
@@ -415,14 +446,47 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rThG6P1tkzxQ7u0y/b9juUVMUO8=
+			kOmGhwmvT2dLjwKb+kxX/L9c654=
 			</data>
 			<key>hash2</key>
 			<data>
-			bL6Z24o/1pGNcIIrjeenUXA8HVTe3SR61ALuJraPQlc=
+			40IAQsMn887V08GCYKqNwPIlVcOSZmq5nIiiwln4lfE=
+			</data>
+		</dict>
+		<key>Headers/UnityAdsDelegate.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nQmANY8mHVVHN9kZEWeGdRYkokM=
+			</data>
+			<key>hash2</key>
+			<data>
+			TkIKlLAi9u5uX19OFjesBDH96PofIFPbpKhMGbTsp8I=
+			</data>
+		</dict>
+		<key>Headers/UnityAdsError.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			g2eR8kJ7pR2O4yds1q35rzhEBgQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			rcV9JYnhZOWiVnimv9pwLPTVFEoXGbK0ECUvR5yFOec=
 			</data>
 		</dict>
 		<key>Headers/UnityAdsExtended.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W6L2GiEzGLDdb34+XebRlP+KZlo=
+			</data>
+			<key>hash2</key>
+			<data>
+			/zT6Todtyfp/FdkZZ1+CMDZsLgtVOXqdguslLnl3vYk=
+			</data>
+		</dict>
+		<key>Headers/UnityAdsExtendedDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -444,15 +508,26 @@
 			hLCnjPZXJhE+ftvQnSTT5XK8wtcHvX7tXzA5Iwh20wg=
 			</data>
 		</dict>
+		<key>Headers/UnityAdsPlacementState.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BNDwGQ1r0d74gf7dLmlt8BC1MmE=
+			</data>
+			<key>hash2</key>
+			<data>
+			49ymRoFdUuxJ9Py8xwGpjXvpn+OQpx45ljgNaKZw1fk=
+			</data>
+		</dict>
 		<key>Headers/UnityAnalytics.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WW7nFpKwQKeLd4xomXfHifYuucU=
+			BFChj0ihhE512WcMADN4N1+t07Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			U2dtpZkTg28SEEwQh+MtM7u0EZ2cZtWU30BoHL6Dw/U=
+			TeX0nMFMyI70xNnhW+PBAtD/FsP1o58BMSh28erODTs=
 			</data>
 		</dict>
 		<key>Headers/UnityAnalyticsAcquisitionType.h</key>
@@ -503,11 +578,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Xr7CLX2ieoCM+mf/WWA7m3w5IAk=
+			xVDVLiRxmWzQEkNM2wccpQvMmtc=
 			</data>
 			<key>hash2</key>
 			<data>
-			057vfYEB1ZR0QsC3k4BvTACRSsBVQmKrnrRE5WwdB8s=
+			1jxsxedqRtwYBgZ9ucWe/lpA1cQz5MUsok4jxV1kCp8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
