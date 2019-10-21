@@ -29,6 +29,7 @@ QuartzCore.framework
 StoreKit.framework
 SystemConfiguration.framework
 UIKit.framework
+VideoToolbox.framework
 WebKit.framework
 WatchConnectivity.framework
 ```
