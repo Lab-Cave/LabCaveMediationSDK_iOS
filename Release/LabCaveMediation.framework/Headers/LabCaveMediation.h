@@ -5,7 +5,7 @@
 //  Created by LabCaveGames on 21/2/17.
 //  Copyright © 2017 Lab Cave Apps S.L. All rights reserved.
 //
-// LabCaveGames SDK 2.9.1
+// LabCaveGames SDK 2.9.3
 
 #import <Foundation/Foundation.h>
 #import <CoreLocation/CoreLocation.h>

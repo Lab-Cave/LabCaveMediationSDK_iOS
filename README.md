@@ -1,6 +1,9 @@
 # LabCave Mediation iOS SDK
 
-The current version (2.9.1) is tested with Xcode8 or above and is compatible with iOS 8 and above.
+The current version (2.9.3) is tested with Xcode10 or above and is compatible with iOS 8 and above.
+
+>Note that if you are planning to integrate Fyber SDK, you need to use Xcode 10.2.1.
+
 
 ## Adding Lab Cave Mediation SDK to your Project
 
