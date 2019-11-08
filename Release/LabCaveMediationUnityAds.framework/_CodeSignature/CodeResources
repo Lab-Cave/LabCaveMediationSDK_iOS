@@ -14,7 +14,19 @@
 		</data>
 		<key>Headers/UADSBanner.h</key>
 		<data>
-		rwaSwTXRcgORVVN5A9k+YFPkiNM=
+		Av+UoAv/PDeicjX8YiOpAq1Mgg4=
+		</data>
+		<key>Headers/UADSBannerError.h</key>
+		<data>
+		4rcBOs5Igs/vv/5dXoV+dTNONNw=
+		</data>
+		<key>Headers/UADSBannerView.h</key>
+		<data>
+		9+hTaXGhUjSSSN0nBgx/N+xDnbQ=
+		</data>
+		<key>Headers/UADSBannerViewDelegate.h</key>
+		<data>
+		eiLylS548pgS2GWTEbWtSs0xuSI=
 		</data>
 		<key>Headers/UADSInAppPurchaseMetaData.h</key>
 		<data>
@@ -106,7 +118,11 @@
 		</data>
 		<key>Headers/UnityAds.h</key>
 		<data>
-		kOmGhwmvT2dLjwKb+kxX/L9c654=
+		+5IfsauZ86+ABxnuoDXVrqY9YIE=
+		</data>
+		<key>Headers/UnityAdsBannerDelegate.h</key>
+		<data>
+		mQtcSarg3U0ZE0APugRxDQihaL4=
 		</data>
 		<key>Headers/UnityAdsDelegate.h</key>
 		<data>
@@ -154,7 +170,7 @@
 		</data>
 		<key>Headers/UnityServices.h</key>
 		<data>
-		xVDVLiRxmWzQEkNM2wccpQvMmtc=
+		MqDz38s7ijBk0hrx9ndC85gKlN4=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -193,11 +209,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rwaSwTXRcgORVVN5A9k+YFPkiNM=
+			Av+UoAv/PDeicjX8YiOpAq1Mgg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			FJW3uoegkyIwA5yVYmQHMFq0qxBK1RBD3XQ6lY4HsMg=
+			3OQOJkna8p5ulr4vVCbFLYdZULZWjdunLJcLKstggXw=
+			</data>
+		</dict>
+		<key>Headers/UADSBannerError.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4rcBOs5Igs/vv/5dXoV+dTNONNw=
+			</data>
+			<key>hash2</key>
+			<data>
+			34LDNxlb+NNbWfEn7FIhEy0cP+cZuE31dAzT3mzKqUc=
+			</data>
+		</dict>
+		<key>Headers/UADSBannerView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9+hTaXGhUjSSSN0nBgx/N+xDnbQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			fESOytZHBCEqmLER3al5FykkcZgtTkQMNsZHYkwUCSw=
+			</data>
+		</dict>
+		<key>Headers/UADSBannerViewDelegate.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eiLylS548pgS2GWTEbWtSs0xuSI=
+			</data>
+			<key>hash2</key>
+			<data>
+			C79+H9M0Fh5uMVxqpT2R2Q82diJ1ysnEVlCsUJQegZ4=
 			</data>
 		</dict>
 		<key>Headers/UADSInAppPurchaseMetaData.h</key>
@@ -446,11 +495,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kOmGhwmvT2dLjwKb+kxX/L9c654=
+			+5IfsauZ86+ABxnuoDXVrqY9YIE=
 			</data>
 			<key>hash2</key>
 			<data>
-			40IAQsMn887V08GCYKqNwPIlVcOSZmq5nIiiwln4lfE=
+			4iJkygUI/Wab+gYWrEizCeWq2DUqJIrq0ivaXJmm3e0=
+			</data>
+		</dict>
+		<key>Headers/UnityAdsBannerDelegate.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mQtcSarg3U0ZE0APugRxDQihaL4=
+			</data>
+			<key>hash2</key>
+			<data>
+			gVAxYOm88+oiP70GfVpRSDmVcH7iVFruLBbyxp7bVR0=
 			</data>
 		</dict>
 		<key>Headers/UnityAdsDelegate.h</key>
@@ -578,11 +638,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xVDVLiRxmWzQEkNM2wccpQvMmtc=
+			MqDz38s7ijBk0hrx9ndC85gKlN4=
 			</data>
 			<key>hash2</key>
 			<data>
-			1jxsxedqRtwYBgZ9ucWe/lpA1cQz5MUsok4jxV1kCp8=
+			+gE0nC+uohy8u5R7DYkdiJp1HJFJYuj0uKHkrK2rXKo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

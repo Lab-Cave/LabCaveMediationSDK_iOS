@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/ALAd.h</key>
 		<data>
-		rkPqIXZJ1C4Xhd1AUZq8HXHKLo4=
+		sZPkJkwI7mJ5cILeimjkrPMmMUo=
 		</data>
 		<key>Headers/ALAdDisplayDelegate.h</key>
 		<data>
@@ -22,15 +22,15 @@
 		</data>
 		<key>Headers/ALAdService.h</key>
 		<data>
-		ZND5DSFcOrbYVgzlAiYZNBvLTZw=
+		ZP6RYc7+ZAuoxT1G9TX6XMMp6WE=
 		</data>
 		<key>Headers/ALAdSize.h</key>
 		<data>
-		TYSORhTA5Do2unTP5YxItn84zCM=
+		UB2fvoSj2NgPPyVu+pq9SZPrgIY=
 		</data>
 		<key>Headers/ALAdType.h</key>
 		<data>
-		ABGPvv7x9xP/UKvfSn8LzawyTEs=
+		npthyI9FaJHaM1WhGbEBxvEV+jU=
 		</data>
 		<key>Headers/ALAdUpdateDelegate.h</key>
 		<data>
@@ -42,11 +42,35 @@
 		</data>
 		<key>Headers/ALAdView.h</key>
 		<data>
-		80KSygZXfIlDpAB2ij2GMoNv6i4=
+		dM+SbRsp2o5KbeJQpWD6roUitbM=
 		</data>
 		<key>Headers/ALAdViewEventDelegate.h</key>
 		<data>
 		kyC3Ew4IbSOOfK61wpiv1NUMPtk=
+		</data>
+		<key>Headers/ALCCommunicator.h</key>
+		<data>
+		VROMY91fg+iqOvOdTAVblfiYoH4=
+		</data>
+		<key>Headers/ALCEntity.h</key>
+		<data>
+		5zxkVEhdlbcioBvLI9JiZCZKewk=
+		</data>
+		<key>Headers/ALCMessage.h</key>
+		<data>
+		tPSqxaTYKv4icGj8Xt5MStdUkAI=
+		</data>
+		<key>Headers/ALCMessagingService.h</key>
+		<data>
+		H+EGh/PYJFOztEtgJPdXJT0dCN0=
+		</data>
+		<key>Headers/ALCPublisher.h</key>
+		<data>
+		EbmB+hpsruPPOp0qVKYU8ndN42Y=
+		</data>
+		<key>Headers/ALCSubscriber.h</key>
+		<data>
+		1ABVVNc+m5pZmRN3cpurKYxBhRA=
 		</data>
 		<key>Headers/ALErrorCodes.h</key>
 		<data>
@@ -70,7 +94,7 @@
 		</data>
 		<key>Headers/ALMediationProvider.h</key>
 		<data>
-		YRMJoZ9Pq2CLkQCUVFkrBthj+/Y=
+		b700AssTILu7NMwOWLjaql1gTWA=
 		</data>
 		<key>Headers/ALNativeAd.h</key>
 		<data>
@@ -102,7 +126,7 @@
 		</data>
 		<key>Headers/ALSdk.h</key>
 		<data>
-		lyz/43Kml36TxH1CNd4ABkpqkC8=
+		1OadL0H2Vk1EMfUBFJ7RrGxkpac=
 		</data>
 		<key>Headers/ALSdkConfiguration.h</key>
 		<data>
@@ -122,7 +146,7 @@
 		</data>
 		<key>Headers/AppLovinSDK.h</key>
 		<data>
-		sOdsdKQgjPiJcqlHj85wrun5cAA=
+		pn3uu2I3WTZB1X0qdHe8EMy2seQ=
 		</data>
 		<key>Headers/LabCaveMediationAppLovin.h</key>
 		<data>
@@ -183,11 +207,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rkPqIXZJ1C4Xhd1AUZq8HXHKLo4=
+			sZPkJkwI7mJ5cILeimjkrPMmMUo=
 			</data>
 			<key>hash2</key>
 			<data>
-			1TxHkxkOIggB9XF9fAsmDCJ47mZQ+Gdrb8uHFsbIzDo=
+			mZXZ3hzwHyMPPxOTlG6/ORDiTGJp3ZVWiQ3IxshkhHo=
 			</data>
 		</dict>
 		<key>Headers/ALAdDisplayDelegate.h</key>
@@ -227,33 +251,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZND5DSFcOrbYVgzlAiYZNBvLTZw=
+			ZP6RYc7+ZAuoxT1G9TX6XMMp6WE=
 			</data>
 			<key>hash2</key>
 			<data>
-			v3+FwX5pLtoZzsTtRMja/LCIb9pM2eJGX8n1w08SMTU=
+			gsD8UmXm9CtQsPPKFdk7AWqRismyiY8c85Ht3xUONrg=
 			</data>
 		</dict>
 		<key>Headers/ALAdSize.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TYSORhTA5Do2unTP5YxItn84zCM=
+			UB2fvoSj2NgPPyVu+pq9SZPrgIY=
 			</data>
 			<key>hash2</key>
 			<data>
-			SH+UQz+Xh5bOHP51pPDpWBbJKbHACIXiXMwCmZjDkkk=
+			niAlsZAhIlCIFzq8pvTVQMYBULpI8zPk/UprwnAKVK8=
 			</data>
 		</dict>
 		<key>Headers/ALAdType.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ABGPvv7x9xP/UKvfSn8LzawyTEs=
+			npthyI9FaJHaM1WhGbEBxvEV+jU=
 			</data>
 			<key>hash2</key>
 			<data>
-			SmxhDDlNNcGRJQfBGR+/c/FkRXnE5EC80ps8EzLsJQU=
+			NbY76hVZBxWEnwdgEJsgbjtaS6JpQivxF7dA2THr/Is=
 			</data>
 		</dict>
 		<key>Headers/ALAdUpdateDelegate.h</key>
@@ -282,11 +306,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			80KSygZXfIlDpAB2ij2GMoNv6i4=
+			dM+SbRsp2o5KbeJQpWD6roUitbM=
 			</data>
 			<key>hash2</key>
 			<data>
-			AOwMGq7b1hNtVr2Gv//CzpRJ1rKsGjhKmnRMNS+5Exc=
+			gUculA4CVnZ0z68TJHysxgIcLusruoYU8Kgf338YJ04=
 			</data>
 		</dict>
 		<key>Headers/ALAdViewEventDelegate.h</key>
@@ -298,6 +322,72 @@
 			<key>hash2</key>
 			<data>
 			3TQS1fhD5JUopuTPes2xg1QmVb90S9bmJGy7dmOoGqA=
+			</data>
+		</dict>
+		<key>Headers/ALCCommunicator.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VROMY91fg+iqOvOdTAVblfiYoH4=
+			</data>
+			<key>hash2</key>
+			<data>
+			SRVK3ub30fq3h/gHP7w7FPr217a98cg349PQ2M0Xhdk=
+			</data>
+		</dict>
+		<key>Headers/ALCEntity.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5zxkVEhdlbcioBvLI9JiZCZKewk=
+			</data>
+			<key>hash2</key>
+			<data>
+			D+CvoYUfpKTiPC59B6bqtzC7Efh7yLZNOCi0KWqvx5s=
+			</data>
+		</dict>
+		<key>Headers/ALCMessage.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tPSqxaTYKv4icGj8Xt5MStdUkAI=
+			</data>
+			<key>hash2</key>
+			<data>
+			8waPJA6MZEp3th4Z2IueYRUgwdhQP3/IsKOd4BG/tgU=
+			</data>
+		</dict>
+		<key>Headers/ALCMessagingService.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			H+EGh/PYJFOztEtgJPdXJT0dCN0=
+			</data>
+			<key>hash2</key>
+			<data>
+			+WjX8Gj7YnE8npmNS8pmpFIKH/FDrbKsXG6DfNcON/E=
+			</data>
+		</dict>
+		<key>Headers/ALCPublisher.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EbmB+hpsruPPOp0qVKYU8ndN42Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			w99UOjlb2enydWwrfhPotCrwR1aakrY2VaAfiDDppx4=
+			</data>
+		</dict>
+		<key>Headers/ALCSubscriber.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1ABVVNc+m5pZmRN3cpurKYxBhRA=
+			</data>
+			<key>hash2</key>
+			<data>
+			Em1tr5Eqc7yEoyhoQHVCmJhi6TFT1FR0r7vBADAg3EQ=
 			</data>
 		</dict>
 		<key>Headers/ALErrorCodes.h</key>
@@ -359,11 +449,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YRMJoZ9Pq2CLkQCUVFkrBthj+/Y=
+			b700AssTILu7NMwOWLjaql1gTWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jj/4H3ndq0d/9nyiorvJsIRSf5K59bkyUZwjV8xE1HA=
+			38viaxoCiXy2lmyO75nlW5IXbTVQjUGgjEUFUZwd64k=
 			</data>
 		</dict>
 		<key>Headers/ALNativeAd.h</key>
@@ -447,11 +537,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lyz/43Kml36TxH1CNd4ABkpqkC8=
+			1OadL0H2Vk1EMfUBFJ7RrGxkpac=
 			</data>
 			<key>hash2</key>
 			<data>
-			TLOAgyryvOE0N4vrkEitNkR9wzGfJZ2dwSt7sCEGkSY=
+			YtrcQXM4j0/mFBfnBgR8yWL+MsvPq18OXTTnBKS84SA=
 			</data>
 		</dict>
 		<key>Headers/ALSdkConfiguration.h</key>
@@ -502,11 +592,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sOdsdKQgjPiJcqlHj85wrun5cAA=
+			pn3uu2I3WTZB1X0qdHe8EMy2seQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			IeeBrsJTsCpsda3zxWPfysZXNUpWLXXjqPE7AS9RPGY=
+			AsAt6+bZWu07uEkI0FUXZDklRzO6lPPizbrn879dol8=
 			</data>
 		</dict>
 		<key>Headers/LabCaveMediationAppLovin.h</key>

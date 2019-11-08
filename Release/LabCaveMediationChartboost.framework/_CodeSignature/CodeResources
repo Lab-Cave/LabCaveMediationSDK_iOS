@@ -10,15 +10,27 @@
 		</data>
 		<key>Headers/CBInPlay.h</key>
 		<data>
-		h3XtShSgsBJ0SeOx0kg+BMGZGtI=
+		r9UXtCYmP3kwussJqkoiRlc80Ls=
+		</data>
+		<key>Headers/CHBAd.h</key>
+		<data>
+		MfUXr7LR0reElVk0ZKkbJC5sUsA=
+		</data>
+		<key>Headers/CHBAdDelegate.h</key>
+		<data>
+		YA2PLmB3Mn7i9dBAbPV2P1SAVIA=
+		</data>
+		<key>Headers/CHBBanner.h</key>
+		<data>
+		spRIUTfTJkUE44mcTfwRbUvGna8=
 		</data>
 		<key>Headers/Chartboost.h</key>
 		<data>
-		WXlUoh+2yf7+akKQae6ZuNKPTbs=
+		vWX1tKvktjBj0bLS+R/P39kpkQM=
 		</data>
 		<key>Headers/ChartboostDelegate.h</key>
 		<data>
-		AmJl2wBmbOSQlZHLnAPVJsNFmKM=
+		caUKv7McDgSiE3P3TVA7FPUKnkE=
 		</data>
 		<key>Headers/LabCaveMediationChartboost.h</key>
 		<data>
@@ -50,33 +62,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			h3XtShSgsBJ0SeOx0kg+BMGZGtI=
+			r9UXtCYmP3kwussJqkoiRlc80Ls=
 			</data>
 			<key>hash2</key>
 			<data>
-			LTz0f9WD0L4gYcBb5AgYuB/Y7Pe2tMLiUmGsZ/HjHtw=
+			a7AnZqv27dy640olgmJHTcEHED4vO1Vr7h70dFMjNQM=
+			</data>
+		</dict>
+		<key>Headers/CHBAd.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MfUXr7LR0reElVk0ZKkbJC5sUsA=
+			</data>
+			<key>hash2</key>
+			<data>
+			gJagqV1putEeDrd9kWMnS2QdCSS54hWRnMA0k91Ug30=
+			</data>
+		</dict>
+		<key>Headers/CHBAdDelegate.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YA2PLmB3Mn7i9dBAbPV2P1SAVIA=
+			</data>
+			<key>hash2</key>
+			<data>
+			u0+faRZUOBazA5U5Kw2VAkUMwIUwjWzBAV9cHJ7jPOc=
+			</data>
+		</dict>
+		<key>Headers/CHBBanner.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			spRIUTfTJkUE44mcTfwRbUvGna8=
+			</data>
+			<key>hash2</key>
+			<data>
+			5U3ire++5YSurNIOZxDOH1hytHxa79BoTR27l+yF8lw=
 			</data>
 		</dict>
 		<key>Headers/Chartboost.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WXlUoh+2yf7+akKQae6ZuNKPTbs=
+			vWX1tKvktjBj0bLS+R/P39kpkQM=
 			</data>
 			<key>hash2</key>
 			<data>
-			nz/A5Rk6c/1w2hcnVaZ6azJK7c/M2A6QpnkZvO7in6A=
+			naoBc+zHofX6Fr3mxD5o2YKTim3fY1sf7cxqrTpMgfI=
 			</data>
 		</dict>
 		<key>Headers/ChartboostDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AmJl2wBmbOSQlZHLnAPVJsNFmKM=
+			caUKv7McDgSiE3P3TVA7FPUKnkE=
 			</data>
 			<key>hash2</key>
 			<data>
-			vP6jKVxbkSTGY8Ef7br0ugs42qHcmGGU2ZqKC+In4R0=
+			0aXPfq8+NRodWvz76v4dIsFNb7jKyUC+NVy3cLTQeHA=
 			</data>
 		</dict>
 		<key>Headers/LabCaveMediationChartboost.h</key>
