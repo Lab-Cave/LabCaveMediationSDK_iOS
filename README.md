@@ -2,7 +2,7 @@
 
 The current version (2.9.4) is tested with Xcode11 or above and is compatible with iOS 9 and above.
 
->Is mandatory Xcode11 for archiving
+>Xcode11 is mandatory for building the project
 
 
 ## Adding Lab Cave Mediation SDK to your Project
