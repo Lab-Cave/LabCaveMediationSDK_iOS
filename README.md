@@ -1,6 +1,6 @@
 # LabCave Mediation iOS SDK
 
-The current version (2.9.6) is tested with Xcode11 or above and is compatible with iOS 9 and above.
+The current version (2.9.7) is tested with Xcode11 or above and is compatible with iOS 9 and above.
 
 >Xcode11 is mandatory for building the project
 
