@@ -7,7 +7,7 @@ The current version (2.9.7) is tested with Xcode11 or above and is compatible wi
 
 ## Adding Lab Cave Mediation SDK to your Project
 
-1. Download our sdk, unzip the file and the LabCaveMediation.framework to your project in General tab Linked Frameworks and Libraries.
+1. Download our sdk from the release section or clone it, note that you have to install "git lfs" to clone it correctly. Then add LabCaveMediation.framework to your project in General tab Linked Frameworks and Libraries.
 
 2. Add the following frameworks and libs to your project in General tab Linked Frameworks and Libraries. Ensure that the frameworks are linked correctly.
 
