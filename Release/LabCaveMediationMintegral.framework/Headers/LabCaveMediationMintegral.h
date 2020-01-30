@@ -2,7 +2,7 @@
 //  LabCaveMediationMintegral.h
 //  LabCaveMediationMintegral
 //
-//  Created by Jaime López on 09/09/2019.
+//  Created by Lab Cave Apps S.L. on 09/09/2019.
 //  Copyright © 2019 Lab Cave Apps S.L. All rights reserved.
 //
 

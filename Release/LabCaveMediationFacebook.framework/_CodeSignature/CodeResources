@@ -4,6 +4,14 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/FBAdBridgeCommon.h</key>
+		<data>
+		2cP/I6kUgmgyKdrpXtJnZBhRfO0=
+		</data>
+		<key>Headers/FBAdBridgeContainer.h</key>
+		<data>
+		fDGy88uv8TcShZYNzMhMHrZHUSU=
+		</data>
 		<key>Headers/FBAdChoicesView.h</key>
 		<data>
 		E1UEM3t7VUb65roMm5Hfa04pqFY=
@@ -14,7 +22,7 @@
 		</data>
 		<key>Headers/FBAdExtraHint.h</key>
 		<data>
-		qR7O2IHWmRkQg43q3Lwctm6T3Nk=
+		GsP+SYV/etU/OqBl9oKysA+3r7A=
 		</data>
 		<key>Headers/FBAdIconView.h</key>
 		<data>
@@ -30,19 +38,31 @@
 		</data>
 		<key>Headers/FBAdSettings.h</key>
 		<data>
-		zk/0Q1hd1K7GdeS4ft9NLq5u/Nw=
+		7+fg6nRVMW7V3Gykhbf5oUJnobQ=
+		</data>
+		<key>Headers/FBAdSettingsBridge.h</key>
+		<data>
+		v8IQGfOlDqnuRHvfE+CejOBarXU=
 		</data>
 		<key>Headers/FBAdSize.h</key>
 		<data>
 		ypMh0a3QDQuDJuFJ/ZMXbQA/Ghs=
 		</data>
+		<key>Headers/FBAdUtilityBridge.h</key>
+		<data>
+		P5ban+8wxTOP5RKKbQTxsbtv5Ig=
+		</data>
 		<key>Headers/FBAdView.h</key>
 		<data>
 		5TRjZejO7TZoID7XB2R3U2kVl9I=
 		</data>
+		<key>Headers/FBAdViewBridge.h</key>
+		<data>
+		5XZnNNZQGZQcOplmCmvK9MBzkr4=
+		</data>
 		<key>Headers/FBAudienceNetwork.h</key>
 		<data>
-		N2sqs5wmqRtYHNLQYkHZQFqpvNk=
+		X5OSmxnvXota03x3Axz6w+bQasQ=
 		</data>
 		<key>Headers/FBAudienceNetworkAds.h</key>
 		<data>
@@ -55,6 +75,10 @@
 		<key>Headers/FBInterstitialAd.h</key>
 		<data>
 		yAch0CMcN3IumgrkrlTlCxvQTno=
+		</data>
+		<key>Headers/FBInterstitialAdBridge.h</key>
+		<data>
+		UBAazxCrIpcwexs3kWmoen7SDEA=
 		</data>
 		<key>Headers/FBMediaView.h</key>
 		<data>
@@ -120,6 +144,10 @@
 		<data>
 		GYtyHeqg59Enb/U3RdEFBZHwiaQ=
 		</data>
+		<key>Headers/FBRewardedVideoAdBridge.h</key>
+		<data>
+		g1UPpY4zWIQEOFFj0JqwTwPqPWs=
+		</data>
 		<key>Headers/LabCaveMediationFacebook.h</key>
 		<data>
 		gFTUb/4N1V7aBcJTFwrXtlcFKfo=
@@ -130,7 +158,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ov4cNgTACitwCQrEByTK5IUDx7s=
+		uN/j31MOZWUiEhZhayAyRqtgCUE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -139,6 +167,28 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/FBAdBridgeCommon.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2cP/I6kUgmgyKdrpXtJnZBhRfO0=
+			</data>
+			<key>hash2</key>
+			<data>
+			WLVoEO2dU3+nNu6bL1CNxQcFd6HSmNFTzEder2R1EQY=
+			</data>
+		</dict>
+		<key>Headers/FBAdBridgeContainer.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fDGy88uv8TcShZYNzMhMHrZHUSU=
+			</data>
+			<key>hash2</key>
+			<data>
+			6wRkpCEWefeFJR4VQHr/26FLpvSydlCSTkJNP2QRKQI=
+			</data>
+		</dict>
 		<key>Headers/FBAdChoicesView.h</key>
 		<dict>
 			<key>hash</key>
@@ -165,11 +215,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qR7O2IHWmRkQg43q3Lwctm6T3Nk=
+			GsP+SYV/etU/OqBl9oKysA+3r7A=
 			</data>
 			<key>hash2</key>
 			<data>
-			hkGWj3+9V4VrjcAErNyS8Moq7dnzkq4JIyl6koUO2xk=
+			L0vo5dpmgDw94/V2+SD8nOyUyky6ITISWEBl62/W6v0=
 			</data>
 		</dict>
 		<key>Headers/FBAdIconView.h</key>
@@ -209,11 +259,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zk/0Q1hd1K7GdeS4ft9NLq5u/Nw=
+			7+fg6nRVMW7V3Gykhbf5oUJnobQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZHQjPhpjujL7mGTOgWJb12eMZhTvQSMOUKz9hi0ynnk=
+			+0OX1qWvl9RivNCVvsgUICl9i1Iex4sDCQQ1URCpq6Y=
+			</data>
+		</dict>
+		<key>Headers/FBAdSettingsBridge.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			v8IQGfOlDqnuRHvfE+CejOBarXU=
+			</data>
+			<key>hash2</key>
+			<data>
+			wVoJvtvxHOF/EwGpJUpkY+L9RQBuLL0UDB3kwtpxfNc=
 			</data>
 		</dict>
 		<key>Headers/FBAdSize.h</key>
@@ -227,6 +288,17 @@
 			doQngPH05dtCDCAsUh3NVEPRR4huaaStHxFDr+1XgkE=
 			</data>
 		</dict>
+		<key>Headers/FBAdUtilityBridge.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			P5ban+8wxTOP5RKKbQTxsbtv5Ig=
+			</data>
+			<key>hash2</key>
+			<data>
+			78ZpbjAklOBswP5fIq6Kx4Zk0sed7e/1KSg60Jmr54M=
+			</data>
+		</dict>
 		<key>Headers/FBAdView.h</key>
 		<dict>
 			<key>hash</key>
@@ -238,15 +310,26 @@
 			6uH2bhalAZk4b9qBvdUv9pkeidmHKDGjuU9+kgHxFTg=
 			</data>
 		</dict>
+		<key>Headers/FBAdViewBridge.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5XZnNNZQGZQcOplmCmvK9MBzkr4=
+			</data>
+			<key>hash2</key>
+			<data>
+			pExD9scfn+9S3fJSxvs2etDx8E4/RjpEehpjC4z4N+4=
+			</data>
+		</dict>
 		<key>Headers/FBAudienceNetwork.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N2sqs5wmqRtYHNLQYkHZQFqpvNk=
+			X5OSmxnvXota03x3Axz6w+bQasQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			veiQFzmwAkjCUgv5egBS+k4NJkHPvUkKhGMPJEYxxOk=
+			zKHmuxxXMFJ1rPa14vPdberZmXWBc9f9E3Z9foKmMHk=
 			</data>
 		</dict>
 		<key>Headers/FBAudienceNetworkAds.h</key>
@@ -280,6 +363,17 @@
 			<key>hash2</key>
 			<data>
 			OFLrrO3nTvaw811Whh7BroFTwD+AL6TI44g55kpVzPQ=
+			</data>
+		</dict>
+		<key>Headers/FBInterstitialAdBridge.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UBAazxCrIpcwexs3kWmoen7SDEA=
+			</data>
+			<key>hash2</key>
+			<data>
+			adLisibPaP8UFmzNurb237LvdZnjHv3bQJDZfngFxfU=
 			</data>
 		</dict>
 		<key>Headers/FBMediaView.h</key>
@@ -456,6 +550,17 @@
 			<key>hash2</key>
 			<data>
 			h3Ppqtp5VmYi18tkj7IUU6Pl3mVQw6G67YYaHT7JRV8=
+			</data>
+		</dict>
+		<key>Headers/FBRewardedVideoAdBridge.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			g1UPpY4zWIQEOFFj0JqwTwPqPWs=
+			</data>
+			<key>hash2</key>
+			<data>
+			0z24UqaqkJUFWwa6kjmug080UWMgUW/WAwllJzTHYIw=
 			</data>
 		</dict>
 		<key>Headers/LabCaveMediationFacebook.h</key>

@@ -15,8 +15,9 @@
 #import "IAInterfaceBuilder.h"
 #import "IAInterfaceSingleton.h"
 
+#import "IAGlobalAdDelegate.h"
+
 #import "IAInterfaceUnitController.h"
-#import "IAInterfaceNativeRenderer.h"
 
 #import "IAAdSpot.h"
 #import "IAAdRequest.h"
@@ -28,8 +29,8 @@
 #import "IAUnitDelegate.h"
 #import "IAViewUnitController.h"
 #import "IAFullscreenUnitController.h"
-#import "IANativeUnitController.h"
 #import "IAContentController.h"
+#import "IABaseView.h"
 #import "IAAdView.h"
 #import "IAMRAIDAdView.h"
 
@@ -38,11 +39,18 @@
 #import "IAMediationAdMob.h"
 #import "IAMediationDFP.h"
 #import "IAMediationFyber.h"
+#import "IAMediationMax.h"
+#import "IAMediationIronSource.h"
 #import "IAGDPRConsent.h"
 
 @interface IASDKCore : NSObject <IAInterfaceSingleton>
 
 @property (atomic, strong, nullable, readonly) NSString *appID;
+
+/**
+ *  @brief Use this delegate in order to get an info about every shown ad.
+ */
+@property (atomic, weak, nullable) id<IAGlobalAdDelegate> globalAdDelegate;
 
 /**
  *  @brief The GDPR consent status.
@@ -81,6 +89,13 @@
 @property (atomic, nullable) NSString *GDPRConsentString;
 
 /**
+ *  @brief Use this property in order to provide the CCPA string. Once it's set, it is saved on a device.
+ *
+ *  @discussion It will be passed as is, without any validation/modification. In order to clean this data permanently from a device, pass a nil or empty string.
+ */
+@property (atomic, nullable) NSString *CCPAString;
+
+/**
  *  @brief Singleton method, use for any instance call.
  */
 + (instancetype _Null_unspecified)sharedInstance;
@@ -97,7 +112,7 @@
 /**
  *  @brief Get the IASDK current version as the NSString instance.
  *
- *  @discussion The format is `X.X.X`.
+ *  @discussion The format is `x.y.z`.
  */
 - (NSString * _Null_unspecified)version;
 

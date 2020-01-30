@@ -29,7 +29,9 @@
 @property (nonatomic, copy, nonnull) NSString *spotID;
 
 /**
- *  @brief Timeout in seconds before 'ready on client' will be received.
+ *  @brief The request timeout in seconds before the 'ready on client' will be received.
+ *
+ *  @discussion The min value is 1, the max value is 180, the default is 10. In case the input param is out of bounds, the default one will be set.
  */
 @property (nonatomic) NSTimeInterval timeout;
 
@@ -42,26 +44,13 @@
 
 /**
  *  @brief Current location. Use for better ad targeting.
- *  @discussion The CLLocation object should be passed. If there is no location management in the application,
- * Inneractive supplies it's own location manager. Use 'shouldAutomaticallyGetLocationData' to enable location management
- * on behalf of InneractiveAdSDK.
- *
- * If 'autoLocationUpdateEnabled' is enabled, do not use current property, it will be updated automatically by the SDK.
  */
 @property (nonatomic, copy, nullable) CLLocation *location;
-
-/**
- *  @brief Use to enable IA automatic location update.
- *  @discussion If enabled, IA location manager will be initiated.
- * and the 'location' propery will be updated automatically.
- */
-@property (nonatomic) BOOL autoLocationUpdateEnabled;
 
 @property (nonatomic, copy, nullable) IADebugger *debugger;
 
 /**
  *  @brief Subtype expected configuration. In case a certain type of ad has extra configuration, assign it here.
- *  @discussion E.g. use for native ad extra configuration.
  */
 @property (nonatomic, copy, nullable) id<IAInterfaceAdDescription> subtypeDescription;
 

@@ -35,8 +35,8 @@ NS_ASSUME_NONNULL_BEGIN
 #define IS_OFFERWALL @"offerwall"
 #define IS_BANNER @"banner"
 
-static NSString * const MEDIATION_SDK_VERSION     = @"6.8.7";
-static NSString * GitHash = @"c6d8805f0";
+static NSString * const MEDIATION_SDK_VERSION     = @"6.13.0.1";
+static NSString * GitHash = @"baea5f2ae";
 
 @interface IronSource : NSObject
 
@@ -134,6 +134,17 @@ static NSString * GitHash = @"c6d8805f0";
  @param delegate The 'ISSegmentDelegate' for IronSource to send callbacks to.
  */
 + (void)setSegmentDelegate:(id<ISSegmentDelegate>)delegate;
+
+
+/**
+@abstact Sets the meta data with a key and value.
+@discussion This value will be passed to the supporting ad networks.
+
+@param key The meta data key.
+@param value The meta data value
+
+*/
++ (void)setMetaDataWithKey:(NSString *)key value:(NSString *)value;
 
 #pragma mark - SDK Initialization
 

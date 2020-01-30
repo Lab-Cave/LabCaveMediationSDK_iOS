@@ -1,14 +1,14 @@
 # LabCave Mediation iOS SDK
 
-The current version (2.9.7) is tested with Xcode11 or above and is compatible with iOS 9 and above.
+The current version (2.10.0) is tested with Xcode11 or above and is compatible with iOS 9 and above.
 
 >Xcode11 is mandatory for building the project
 
 
 ## Adding Lab Cave Mediation SDK to your Project
 
-1. Download our sdk from the release section or clone it, note that you have to install "git lfs" to clone it correctly. Then add LabCaveMediation.framework to your project in General tab Linked Frameworks and Libraries.
-
+1. Download our SDK from the release section or clone it. 
+>If you decide to clone it, you have to install [git LFS](https://git-lfs.github.com/) to clone it correctly, otherwise some ad networks will not be correctly integrated. 
 2. Add the following frameworks and libs to your project in General tab Linked Frameworks and Libraries. Ensure that the frameworks are linked correctly.
 
 ```
@@ -18,14 +18,20 @@ AVFoundation.framework
 CFNetwork.framework
 CoreGraphics.framework
 CoreMedia.framework
+CoreTelephony.framework
 EventKit.framework
 EventKitUI.framework
 Foundation.framework
-libz.dylib or libz.tbd
+JavaScriptCore.framework
 libc++.tbd
+libsqlite3.tbd
 libxml2.2.tbd
+libz.1.2.5.tbd
 MediaPlayer.framework
+MobileCoreServices.framework
 QuartzCore.framework
+SafariServices.framework
+Social.framework
 StoreKit.framework
 SystemConfiguration.framework
 UIKit.framework
@@ -258,19 +264,29 @@ if ([LabCaveMediation isBannerReady]){
 if (LabCaveMediation.isBannerReady()){
     ...
 }
+```
 
+```swift
 //Objective-C
 [LabCaveMediation showBannerAdWitAdLocation:@"demo" bannerSettings:LMLBannerSettings_SMART_TOP viewController:self];
 [LabCaveMediation showBannerAdWitAdLocation:@"demo" bannerSettings:LMLBannerSettings_SMART_BOTTOM viewController:self];
 [LabCaveMediation showBannerAdWitAdLocation:@"demo" bannerSettings:LMLBannerSettings_BANNER_TOP viewController:self];
 [LabCaveMediation showBannerAdWitAdLocation:@"demo" bannerSettings:LMLBannerSettings_BANNER_BOTTOM viewController:self];
-
-
+//Swift
 LabCaveMediation.showBannerAdWitAdLocation("menu", bannerSettings: LMLBannerSettings.init(size: "SMART_TOP"), viewController: self)
 LabCaveMediation.showBannerAdWitAdLocation("menu", bannerSettings: LMLBannerSettings.init(size: "SMART_BOTTOM"), viewController: self)
 LabCaveMediation.showBannerAdWitAdLocation("menu", bannerSettings: LMLBannerSettings.init(size: "BANNER_TOP"), viewController: self)
 LabCaveMediation.showBannerAdWitAdLocation("menu", bannerSettings: LMLBannerSettings.init(size: "BANNER_BOTTOM"), viewController: self)
 ```
+
+Starting from SDK 2.10, you can also set capping for your ad locations in order to tweak your monetization. You can check if an ad location has reached its capping using this method:
+```swift
+//Objective-C
+[LabCaveMediation isAdLocationCapped:@"save-me" format:LMLType.LMLRewardedVideoFormat]
+
+//Swift
+LabCaveMediation.isAdLocationCapped("save-me", format:LMLType.LMLRewardedVideoFormat )
+````
 ### Verify the integration
 
 In order to check if the SDK is correct, open the test module, you have to call the "Init" method first and wait till the "onInit" listener method is called:

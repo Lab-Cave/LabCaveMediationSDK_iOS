@@ -118,7 +118,7 @@
 		</data>
 		<key>Headers/UnityAds.h</key>
 		<data>
-		+5IfsauZ86+ABxnuoDXVrqY9YIE=
+		YkG4yvWZ1a+mw6pvaSxGR78zaqI=
 		</data>
 		<key>Headers/UnityAdsBannerDelegate.h</key>
 		<data>
@@ -158,7 +158,7 @@
 		</data>
 		<key>Headers/UnityMonetization.h</key>
 		<data>
-		JasZJVNXFVxtAQcnclvdbUpVgGA=
+		SY7d7Mu4WtGcnTm2xwGCCnLR4E8=
 		</data>
 		<key>Headers/UnityMonetizationDelegate.h</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		a0wuiP7iRsT7tDUvk+ArTbponwY=
+		Com/5aS85cNFN4ub+SRXyKMiwWo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -495,11 +495,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+5IfsauZ86+ABxnuoDXVrqY9YIE=
+			YkG4yvWZ1a+mw6pvaSxGR78zaqI=
 			</data>
 			<key>hash2</key>
 			<data>
-			4iJkygUI/Wab+gYWrEizCeWq2DUqJIrq0ivaXJmm3e0=
+			qLRsq0AsvxWcw/ImVzgokHQF4gVNRo/PJefL5FcPF+0=
 			</data>
 		</dict>
 		<key>Headers/UnityAdsBannerDelegate.h</key>
@@ -605,11 +605,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JasZJVNXFVxtAQcnclvdbUpVgGA=
+			SY7d7Mu4WtGcnTm2xwGCCnLR4E8=
 			</data>
 			<key>hash2</key>
 			<data>
-			0Jq/jek/xuGyMHjpvBxmw3tI91LaRhO4ITIZysKIrLo=
+			i4jkgNVtCeFBUadZ4sFA3VYpa+2Wb/00MSxdlHQYNDc=
 			</data>
 		</dict>
 		<key>Headers/UnityMonetizationDelegate.h</key>
