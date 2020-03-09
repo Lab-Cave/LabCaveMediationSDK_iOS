@@ -8,8 +8,7 @@
 
 #import "LMLBannerView.h"
 #import "LMLBannerSettings.h"
-#define DEPRECATED_ATTRIBUTE        __attribute__((deprecated))
-#define DEPRECATED_MSG(msg) __attribute((deprecated((msg))))
+
 #define LML_REWARDED_VIDEO @"rewardedvideo"
 #define LML_INTERSTITIAL @"interstitial"
 #define LML_BANNER @"banner"
@@ -57,11 +56,14 @@ typedef NS_ENUM(NSUInteger, LMLType) {
  */
 - (void)advertLoaded:(NSString *)provider view:(LMLBannerView *)advert type:(LMLType)type zone:(NSString *)zoneId;
 
+- (void)advertLoaded:(NSString *)provider view:(LMLBannerView *)advert type:(LMLType)type adLocation:(NSString *)adLocation;
 /**
  *  Advert Did Present Screen
  *
  */
 - (void)advertDidPresentScreen:(NSString *)provider type:(LMLType)type zone:(NSString *)zone;
+
+- (void)advertDidPresentScreen:(NSString *)provider type:(LMLType)type adLocation:(NSString *)adLocation;
 
 /**
  *  Advert Did Interact
@@ -69,18 +71,25 @@ typedef NS_ENUM(NSUInteger, LMLType) {
  */
 - (void)advertDidInteract:(NSString *)provider type:(LMLType)type zone:(NSString *)zone;
 
+- (void)advertDidInteract:(NSString *)provider type:(LMLType)type adLocation:(NSString *)adLocation;
+
 /**
  * Advert Web View Did Close
  */
 - (void)advertDidClose:(NSString *)provider type:(LMLType)type zone:(NSString *)zoneId;
+
+- (void)advertDidClose:(NSString *)provider type:(LMLType)type adLocation:(NSString *)adLocation;
 
 /**
  * Advert Request Fail
  */
 - (void)advertsRequestFail:(NSString *)provider type:(LMLType)type zone:(NSString *)zoneId;
 
+- (void)advertsRequestFail:(NSString *)provider type:(LMLType)type adLocation:(NSString *)adLocation;
+
 /**
  * Reward user
  */
 - (void)rewardUser:(NSString *)provider type:(LMLType)type zone:(NSString *)zoneId;
+- (void)rewardUser:(NSString *)provider type:(LMLType)type adLocation:(NSString *)adLocation;
 @end

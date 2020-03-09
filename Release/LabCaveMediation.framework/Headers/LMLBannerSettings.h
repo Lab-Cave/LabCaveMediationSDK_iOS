@@ -29,7 +29,7 @@ typedef NS_ENUM(NSUInteger, LMLSize) {
  */
 typedef NS_ENUM(NSUInteger, LMLPosition) {
     /**
-     *  Bottom screen position∫
+     *  Bottom screen position
      */
     LMLBottom,
     /**
