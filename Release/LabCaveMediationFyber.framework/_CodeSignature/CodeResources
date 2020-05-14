@@ -6,15 +6,15 @@
 	<dict>
 		<key>Headers/IAAdModel.h</key>
 		<data>
-		NOPzWX29mdVMdPgGSrYgBGRkiAk=
+		E03dh89DiksWI5wO62NUg7rhADM=
 		</data>
 		<key>Headers/IAAdRequest.h</key>
 		<data>
-		hs1hKrYupYtMEFtyRj8LXMnkZ+Y=
+		+lKRxUznZDEfawKp9eWWYWv7Llk=
 		</data>
 		<key>Headers/IAAdSpot.h</key>
 		<data>
-		tcEZx/W8EybUw//yz/sOZd7uvik=
+		TdAnMyhNowHlCa/wNZx1Su2gPxk=
 		</data>
 		<key>Headers/IAAdView.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/IAFullscreenUnitController.h</key>
 		<data>
-		e1tnboAc/2L3G1umH3uzv9PjHcc=
+		SQiDZcQLf10UcwwqJoSE2Vy1CHM=
 		</data>
 		<key>Headers/IAGDPRConsent.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/IAInterfaceContentModel.h</key>
 		<data>
-		nlmK6pLFUWp8yfBhI40hJS4C0nI=
+		y9QTnWNcZYn5T6P3Y3noqmIjmFk=
 		</data>
 		<key>Headers/IAInterfaceSingleton.h</key>
 		<data>
@@ -71,6 +71,10 @@
 		<key>Headers/IAInterfaceUnitController.h</key>
 		<data>
 		fiXyI3J0++9OIDmSIdv9mUUuEng=
+		</data>
+		<key>Headers/IAInterfaceViewProvider.h</key>
+		<data>
+		oIbwpF3ml3mpsRVtIDJS3q3hxpA=
 		</data>
 		<key>Headers/IALogger.h</key>
 		<data>
@@ -122,7 +126,7 @@
 		</data>
 		<key>Headers/IAUnitDelegate.h</key>
 		<data>
-		/sKjIfpdtz6B1dPUN+Ev8Xv4sEs=
+		lafhG8CzA6b/M4mgNYSvSqwbwlg=
 		</data>
 		<key>Headers/IAUserData.h</key>
 		<data>
@@ -138,7 +142,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		NzCB5n+Q6+BjvKr76cG+HmvL4Mk=
+		6olW6sQRj4iuOuZ5Aa+sGoZcA5I=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -147,33 +151,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NOPzWX29mdVMdPgGSrYgBGRkiAk=
+			E03dh89DiksWI5wO62NUg7rhADM=
 			</data>
 			<key>hash2</key>
 			<data>
-			8odbRz9jBxvoygI1K52B2Km1oWNTDLTzzQz3ggo42Ys=
+			zAulY0thdTcKQ9l3kXJzqk6jWdHOSBl2sgRE9fyFm2A=
 			</data>
 		</dict>
 		<key>Headers/IAAdRequest.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hs1hKrYupYtMEFtyRj8LXMnkZ+Y=
+			+lKRxUznZDEfawKp9eWWYWv7Llk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Adl2wTn7g6/nbXXoslENhf9LCNYiobm7Jl+h1zhevco=
+			hKs5Uiguletk1KKuSQexTSXKHV4UBvWXlCNrQ/tJlCs=
 			</data>
 		</dict>
 		<key>Headers/IAAdSpot.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tcEZx/W8EybUw//yz/sOZd7uvik=
+			TdAnMyhNowHlCa/wNZx1Su2gPxk=
 			</data>
 			<key>hash2</key>
 			<data>
-			zRut5xKgV15G3ZvZfHWnICLLba/uoBxWSXWOIogbKaU=
+			eHz3K7w7IBQwg+qLaklxJhQtABXfukSiAShMOJglFvY=
 			</data>
 		</dict>
 		<key>Headers/IAAdView.h</key>
@@ -224,11 +228,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			e1tnboAc/2L3G1umH3uzv9PjHcc=
+			SQiDZcQLf10UcwwqJoSE2Vy1CHM=
 			</data>
 			<key>hash2</key>
 			<data>
-			bRAkllPuO5bAXiq7FNw8eiKvPIpvkHuXssEe0Q/RvzM=
+			MpDuvD6bdJZWJIOae9fGjepzFrzQ1rfne4+vXFN7APw=
 			</data>
 		</dict>
 		<key>Headers/IAGDPRConsent.h</key>
@@ -301,11 +305,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nlmK6pLFUWp8yfBhI40hJS4C0nI=
+			y9QTnWNcZYn5T6P3Y3noqmIjmFk=
 			</data>
 			<key>hash2</key>
 			<data>
-			1Y+Z0rkyXyyyCPUMzb0PQAUFrZiq8CY9BX1atoQa4lk=
+			QBKjw6KUUJRJu6R77opetfbEhDbVIn01rkOs1cnoOt0=
 			</data>
 		</dict>
 		<key>Headers/IAInterfaceSingleton.h</key>
@@ -328,6 +332,17 @@
 			<key>hash2</key>
 			<data>
 			P9oie9lOVEEUhPi0YzvoeHE/psc4s/z62r4Y/xjLHZI=
+			</data>
+		</dict>
+		<key>Headers/IAInterfaceViewProvider.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oIbwpF3ml3mpsRVtIDJS3q3hxpA=
+			</data>
+			<key>hash2</key>
+			<data>
+			FE3htBwRGnhC8ouT+cAMiQ2gq6Ss9lCJIME11F4m4A8=
 			</data>
 		</dict>
 		<key>Headers/IALogger.h</key>
@@ -466,11 +481,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/sKjIfpdtz6B1dPUN+Ev8Xv4sEs=
+			lafhG8CzA6b/M4mgNYSvSqwbwlg=
 			</data>
 			<key>hash2</key>
 			<data>
-			OsY+aUNiZBuE1nnaZ3R6PGj/T3+He8TTHbc4Z6iY+a0=
+			ILQaPURNvtvw5HQoXpKPePlzgPlRUyKjRxlQjuk7kEg=
 			</data>
 		</dict>
 		<key>Headers/IAUserData.h</key>

@@ -14,11 +14,11 @@
 		</data>
 		<key>Headers/BUAdSDKError.h</key>
 		<data>
-		iqXwEBU9nW17G9CWliiUoqudg2k=
+		reixZ9UJhbgoVJm0W09I7yU6U84=
 		</data>
 		<key>Headers/BUAdSDKManager.h</key>
 		<data>
-		LZLwmVrnd6kK4USL4uvULDxKHSY=
+		PsPUOEjL3dmPHBA2Yu3Ykgw499Y=
 		</data>
 		<key>Headers/BUAdSDKPlayableToolManager.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/BUFullscreenVideoAd.h</key>
 		<data>
-		LfJ7dgVIdBIhEsqEpu/XiTYTG/k=
+		Z+WyeILBKEKEHVcXZK29qEoD/HY=
 		</data>
 		<key>Headers/BUImage.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/BUMaterialMeta.h</key>
 		<data>
-		Nm+QrfldnaXRnC4r30iUf8wBcMU=
+		jXyA1poihYD6RMz5vNriwcOAs60=
 		</data>
 		<key>Headers/BUNativeAd.h</key>
 		<data>
@@ -70,31 +70,31 @@
 		</data>
 		<key>Headers/BUNativeExpressAdManager.h</key>
 		<data>
-		mtwWZf+P9OLp0qfPp3sRnT5n1n0=
+		R52uIEVTwr7PMAn/aRzHm25osnw=
 		</data>
 		<key>Headers/BUNativeExpressAdView.h</key>
 		<data>
-		MQ556x1PTMk0FHR+Ipim9EJhJ1c=
+		ozauTpH3XCxZcgkrQzL0JsysQVs=
 		</data>
 		<key>Headers/BUNativeExpressBannerView.h</key>
 		<data>
-		Gc+458cKykPfnMuKspoIi1DD0D8=
+		GHHuh99ieUPTypJ85XHRpqnnGEo=
 		</data>
 		<key>Headers/BUNativeExpressFullscreenVideoAd.h</key>
 		<data>
-		qbG1FOgrqvkIe1DE5OedJRGG+sg=
+		Q1dL9p/ZZjSAxazEZzbidcMtVlg=
 		</data>
 		<key>Headers/BUNativeExpressInterstitialAd.h</key>
 		<data>
-		UxWfSVGMc4Gc8Qm4OlMkfhUquUY=
+		REZC4y5Y8XAmjQkfUB1GRWMNby4=
 		</data>
 		<key>Headers/BUNativeExpressRewardedVideoAd.h</key>
 		<data>
-		1fn+tnPGQ5iaGHiFMKhwkvL+1Xc=
+		ONddPiOg7NCVAUzc65fEaU9Wh7w=
 		</data>
 		<key>Headers/BUNativeExpressSplashView.h</key>
 		<data>
-		3jT2JrRVBn2lcw+R2XHSDs+HAWs=
+		+0nix9JuAUbIZXW8CP1idhk/ygQ=
 		</data>
 		<key>Headers/BUPlayerPublicDefine.h</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Headers/BURewardedVideoAd.h</key>
 		<data>
-		DcyIYQf9rtmDjRGItI+0f0P9+4I=
+		fxh1ZNqRrY6P6GoJNtrRLKGexb8=
 		</data>
 		<key>Headers/BURewardedVideoModel.h</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Headers/BUSplashAdView.h</key>
 		<data>
-		1KtWHrZEwfN52p+svH0dXs9ZHjA=
+		1N1q6l7dcK4h64M9xUqJVnKuv+Q=
 		</data>
 		<key>Headers/BUVideoAdView.h</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0eI2DpID4TB44vbrxs+k5uf5p5g=
+		Qdv0Xdad+vz8SqXRrslYkgL3rqk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -153,22 +153,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iqXwEBU9nW17G9CWliiUoqudg2k=
+			reixZ9UJhbgoVJm0W09I7yU6U84=
 			</data>
 			<key>hash2</key>
 			<data>
-			e9yFLhUWtljzvT0bbY/JgkYwjCrc/CNpDVsFKvI0NKU=
+			+mEONo4ZYWVMHpuB/PphwIWqi7ufcjLJwPCS+ga/ePU=
 			</data>
 		</dict>
 		<key>Headers/BUAdSDKManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LZLwmVrnd6kK4USL4uvULDxKHSY=
+			PsPUOEjL3dmPHBA2Yu3Ykgw499Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q8sRb/nIglGh8v4JUD0J6wOrzFBLglY0vMhz2ixMt84=
+			SvDVbxMNjzVrY7KGBe8iEFz399Wzyfoeq1oikvk8tAM=
 			</data>
 		</dict>
 		<key>Headers/BUAdSDKPlayableToolManager.h</key>
@@ -230,11 +230,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LfJ7dgVIdBIhEsqEpu/XiTYTG/k=
+			Z+WyeILBKEKEHVcXZK29qEoD/HY=
 			</data>
 			<key>hash2</key>
 			<data>
-			veOZ3EWQ/4vos7BCaVtYqhgamOp0X9Q/XhuoKKTJA+0=
+			IQktH2HIXPp2X97Lgakv1ajF6ZZ2JCPVNpiqR3I4ODQ=
 			</data>
 		</dict>
 		<key>Headers/BUImage.h</key>
@@ -263,11 +263,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Nm+QrfldnaXRnC4r30iUf8wBcMU=
+			jXyA1poihYD6RMz5vNriwcOAs60=
 			</data>
 			<key>hash2</key>
 			<data>
-			ohOEh0suZqod0WQqAvEusnMQWiqYRQaZ0a0szKXVQT8=
+			AhA516c9RKKZm3xrKKOJYdp+MsdTy7Qz+YegF6SK9sM=
 			</data>
 		</dict>
 		<key>Headers/BUNativeAd.h</key>
@@ -307,77 +307,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mtwWZf+P9OLp0qfPp3sRnT5n1n0=
+			R52uIEVTwr7PMAn/aRzHm25osnw=
 			</data>
 			<key>hash2</key>
 			<data>
-			wTRaBV3WWfNIsF9ezoCx93VfAZuqZAMEOWBDyyGzRIU=
+			JWfrjG01w6atSbL/wbexiqe/P/81+Mni5sopL9FC3No=
 			</data>
 		</dict>
 		<key>Headers/BUNativeExpressAdView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MQ556x1PTMk0FHR+Ipim9EJhJ1c=
+			ozauTpH3XCxZcgkrQzL0JsysQVs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gf0I1A2zEKX6VokVasoR7t2XlCvS5TV3G9LYQkqnn1M=
+			zjiMUjcgCVIeGpa1zCySqF/juZXrap1TEmvAw34qD28=
 			</data>
 		</dict>
 		<key>Headers/BUNativeExpressBannerView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Gc+458cKykPfnMuKspoIi1DD0D8=
+			GHHuh99ieUPTypJ85XHRpqnnGEo=
 			</data>
 			<key>hash2</key>
 			<data>
-			BeKhsJINqa4TL4Eznr9rCFuqckutu23c41cIc34kShY=
+			7QxSYva7r1D7gILvKg41qUi+RpBjh2TzBEQ+82Jsvoo=
 			</data>
 		</dict>
 		<key>Headers/BUNativeExpressFullscreenVideoAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qbG1FOgrqvkIe1DE5OedJRGG+sg=
+			Q1dL9p/ZZjSAxazEZzbidcMtVlg=
 			</data>
 			<key>hash2</key>
 			<data>
-			yeGY3y3LvaEJCtVi4D3YwtT32gox5ok1PFGOsWtwSWo=
+			i9UHt/mWNrelQ7VY02VXY2epifNQrm3sCqDlr5v+YIo=
 			</data>
 		</dict>
 		<key>Headers/BUNativeExpressInterstitialAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UxWfSVGMc4Gc8Qm4OlMkfhUquUY=
+			REZC4y5Y8XAmjQkfUB1GRWMNby4=
 			</data>
 			<key>hash2</key>
 			<data>
-			yiZwpjYNZl1XIZegd4c4D9V5lFRszn+K23cw0oHGJ5g=
+			wV0F0iYdPXWBcL3HOdyMaSuPrKsZL6ZGZTB/qIouNXw=
 			</data>
 		</dict>
 		<key>Headers/BUNativeExpressRewardedVideoAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1fn+tnPGQ5iaGHiFMKhwkvL+1Xc=
+			ONddPiOg7NCVAUzc65fEaU9Wh7w=
 			</data>
 			<key>hash2</key>
 			<data>
-			9eNVWcBkHQL1+VM6lI5dGEDF1jb6TfBErywwhW38ikk=
+			RwpCr2YX2zSh9cGQzIeRYjwRTqsM2CGK5ArWRwJtj2w=
 			</data>
 		</dict>
 		<key>Headers/BUNativeExpressSplashView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3jT2JrRVBn2lcw+R2XHSDs+HAWs=
+			+0nix9JuAUbIZXW8CP1idhk/ygQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			i7l9yVVBkRs8Wa9wW0s5AP7cKozw+/Peti2UQQbKHZI=
+			fKW2pfeO4wF2v0QZuHo1eznPfgJ+f0xFkydiinWHW8Y=
 			</data>
 		</dict>
 		<key>Headers/BUPlayerPublicDefine.h</key>
@@ -395,11 +395,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DcyIYQf9rtmDjRGItI+0f0P9+4I=
+			fxh1ZNqRrY6P6GoJNtrRLKGexb8=
 			</data>
 			<key>hash2</key>
 			<data>
-			5QnL2mcp+UVMvQToW2Az0DWdPbBDOHN4KgNmRQQ2MGU=
+			welyADPI+/gWO4+c5W41owvFD7lHs4Iy3dQOti2VbDY=
 			</data>
 		</dict>
 		<key>Headers/BURewardedVideoModel.h</key>
@@ -428,11 +428,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1KtWHrZEwfN52p+svH0dXs9ZHjA=
+			1N1q6l7dcK4h64M9xUqJVnKuv+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			eJ1Kj6+ku/wRUGwCNIdHmEMHeEHXbaSvZAQIzk843Pw=
+			0NavCQVBupiql83JW3uvdvjzAr/X8GajIVp0BgBPTV4=
 			</data>
 		</dict>
 		<key>Headers/BUVideoAdView.h</key>

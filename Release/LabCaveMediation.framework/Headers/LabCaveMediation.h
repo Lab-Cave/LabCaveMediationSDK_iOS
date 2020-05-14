@@ -5,7 +5,7 @@
 //  Created by LabCaveGames on 21/2/17.
 //  Copyright © 2017 Lab Cave Apps S.L. All rights reserved.
 //
-// LabCaveGames SDK 2.11.2
+// LabCaveGames SDK 2.12.0
 
 #import <Foundation/Foundation.h>
 #import <CoreLocation/CoreLocation.h>
@@ -180,4 +180,13 @@
  * @return The banner position
  */
 + (LMLBannerSettings*)getBannerSettings;
+/**
+*  Send IAPs event
+*
+*
+*/
++ (void)purchaseEvent:(float)revenue currency:(NSString*)currency productId:(NSString*)productId orderId:(NSString*)orderId;
+
++ (void)purchaseEvent:(float)revenue currency:(NSString*)currency productId:(NSString*)productId quantity:(int)quantity orderId:(NSString*)orderId;
+
 @end

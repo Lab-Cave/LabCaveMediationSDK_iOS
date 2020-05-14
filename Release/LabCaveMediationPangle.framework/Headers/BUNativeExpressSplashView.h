@@ -6,6 +6,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "BUMaterialMeta.h"
+
 @class BUNativeExpressSplashView;
 
 NS_ASSUME_NONNULL_BEGIN
@@ -46,6 +48,10 @@ NS_ASSUME_NONNULL_BEGIN
  This method is called when nativeExpressSplashAdView's skip button is clicked.
  */
 - (void)nativeExpressSplashViewDidClickSkip:(BUNativeExpressSplashView *)splashAdView;
+/**
+ This method is called when nativeExpressSplashAdView countdown equals to zero
+ */
+- (void)nativeExpressSplashViewCountdownToZero:(BUNativeExpressSplashView *)splashAdView;
 
 /**
  This method is called when nativeExpressSplashAdView closed.
@@ -56,6 +62,12 @@ NS_ASSUME_NONNULL_BEGIN
  This method is called when when video ad play completed or an error occurred.
  */
 - (void)nativeExpressSplashViewFinishPlayDidPlayFinish:(BUNativeExpressSplashView *)splashView didFailWithError:(NSError *)error;
+
+/**
+ This method is called when another controller has been closed.
+ @param interactionType : open appstore in app or open the webpage or view video ad details page.
+ */
+- (void)nativeExpressSplashViewDidCloseOtherController:(BUNativeExpressSplashView *)splashView interactionType:(BUInteractionType)interactionType;
 
 @end
 

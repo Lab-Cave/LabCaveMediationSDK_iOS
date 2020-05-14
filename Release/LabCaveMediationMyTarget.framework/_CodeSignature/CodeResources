@@ -4,89 +4,85 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/MTRGAdChoicesPlacement.h</key>
+		<data>
+		x1hc7qZNjRLBPEXHQ1OPjpZT9yQ=
+		</data>
 		<key>Headers/MTRGAdView.h</key>
 		<data>
-		OKVc+RPMWZ9XrwPXTpU89dK07nA=
+		uw+TLQ0wAX+Vr8TbrpbA91gotzg=
 		</data>
 		<key>Headers/MTRGAppwallAdView.h</key>
 		<data>
-		7FvNKNk/oifrWZ6rs5IT5ayNNks=
+		l+4rcNq15t+TWj3rI84aqJ+86KY=
 		</data>
 		<key>Headers/MTRGAppwallBannerAdView.h</key>
 		<data>
-		zAFfFJLCWtmL0FT/JIjR1DkJ9gw=
+		iES6jGdgLol49llUMkZVcR9ySTQ=
 		</data>
 		<key>Headers/MTRGAudioData.h</key>
 		<data>
-		JsHM9uTbtOwwnukC6Lg0eJhiAB0=
+		HPF98pqzgbLc7uhvfLZu2qYnucs=
 		</data>
 		<key>Headers/MTRGBaseAd.h</key>
 		<data>
-		ZTC+P69ZAF9DlFVxYEo6jB+ggYc=
+		GPDvvBOyUi9TwaexDUzefTZ6xWM=
 		</data>
-		<key>Headers/MTRGChatListAdView.h</key>
+		<key>Headers/MTRGCachePolicy.h</key>
 		<data>
-		7koRSyLZ1gw8dvp8/KieGtI+Zgg=
-		</data>
-		<key>Headers/MTRGContentStreamAdView.h</key>
-		<data>
-		94r5xuMkCpctGsUs+3A4rK8RP2g=
-		</data>
-		<key>Headers/MTRGContentStreamCardAdView.h</key>
-		<data>
-		Dc3lWMKrAlcoOkLwSreKU8HASEY=
-		</data>
-		<key>Headers/MTRGContentWallAdView.h</key>
-		<data>
-		o/WRJ/t1qAXyoLlNI75JmaZgJ3c=
+		f9KMoEECRQRudRvqtkMRC5mzMLM=
 		</data>
 		<key>Headers/MTRGCustomParams.h</key>
 		<data>
-		XugI8t5T5TyC71ado5pan00pNnY=
+		urJhCOP1j2cW8IBnjFQUrUpy6fY=
+		</data>
+		<key>Headers/MTRGIconAdView.h</key>
+		<data>
+		NeqlOT5SNkm6+hsBYgM62kbP6tA=
 		</data>
 		<key>Headers/MTRGImageData.h</key>
 		<data>
-		IS7PwGiHvDWDvGq1nVPI2G1Dia0=
+		aSYXBcL3oKokUarkRJMzU/0L+JY=
 		</data>
 		<key>Headers/MTRGInstreamAd.h</key>
 		<data>
-		KKTdQiFBoZyO74A/cZWDZ8v4gk4=
+		H15HroVyADYtZj9z1L30Q1v56RU=
 		</data>
 		<key>Headers/MTRGInstreamAdPlayer.h</key>
 		<data>
-		WurQwORwtoAQuvlKJP3y6oHvz4I=
+		+vH9IMsTX111/JV1ICQZht6Zj98=
 		</data>
 		<key>Headers/MTRGInstreamAudioAd.h</key>
 		<data>
-		B23TsS02AGbcbb/UPKhp3HCOHxQ=
+		gG/qMOOlyeE+/HoiBqYZhcvaeQ0=
 		</data>
 		<key>Headers/MTRGInstreamAudioAdPlayer.h</key>
 		<data>
-		gDI32t2LEEH1gcNTUW6uSKt8tu8=
+		kWLiqpl5/OTIH9aFwhTdFJdaqhg=
 		</data>
 		<key>Headers/MTRGInstreamResearch.h</key>
 		<data>
-		AoXJ2FT9RsvwFR6HufzomTDqKJI=
+		2H3z92XFDfK6coLcO3rJT+a4L6U=
 		</data>
 		<key>Headers/MTRGInterstitialAd.h</key>
 		<data>
-		zvRCPFYhtfGXZOihkdp1GOdqlKA=
+		UGHi9MpuvzTuNYyP9/UKWmyOndA=
 		</data>
 		<key>Headers/MTRGInterstitialSliderAd.h</key>
 		<data>
-		VoEjgSZ8JKkLpi9m4OXjCbHM4Ao=
+		IHAxkFl0onM/vPDpC86z3CoVcrs=
 		</data>
 		<key>Headers/MTRGManager.h</key>
 		<data>
-		UUf0CdCDduojx15dGK5xiz88iCY=
+		gaFyCxuSwLr51MxZ89oIYrKbEE8=
 		</data>
 		<key>Headers/MTRGMediaAdView.h</key>
 		<data>
-		DKNqM0jDsgP6QUzyFpV1jluwm1w=
+		pLSGt+pDGsF21QZtl6v3Po2E4FY=
 		</data>
 		<key>Headers/MTRGMediaData.h</key>
 		<data>
-		V6kEQve2G749tWfD4+nW069n9FI=
+		yTb0qQAK8M8PcD8zW9/1Z73cPqw=
 		</data>
 		<key>Headers/MTRGMediationAdConfig.h</key>
 		<data>
@@ -106,11 +102,11 @@
 		</data>
 		<key>Headers/MTRGMediationNativeAdBanner.h</key>
 		<data>
-		l3MHlaadW2/JD5JzK4mq8ElnAhE=
+		cT/26NgkC2fBF9TN/vT3F6Kl0fE=
 		</data>
 		<key>Headers/MTRGMediationNativeAdConfig.h</key>
 		<data>
-		uV1MnkxnqbMJEUxhHW9McxpC6Kc=
+		VmkNm1Xy7paNuWIr1/qQtLxDscM=
 		</data>
 		<key>Headers/MTRGMediationStandardAdAdapter.h</key>
 		<data>
@@ -118,320 +114,333 @@
 		</data>
 		<key>Headers/MTRGNativeAd.h</key>
 		<data>
-		OR/LenEjMCtNhlagsHi/MJN8B6o=
+		ASlFCzmy2UpN4m9hcRzIVQA+7mU=
 		</data>
 		<key>Headers/MTRGNativeAdContainer.h</key>
 		<data>
-		Qvg4a61ygZ3U4QzDksQUFS0q1lI=
+		wwp3M21AJk0MizfMAPKuYy+rTPA=
 		</data>
 		<key>Headers/MTRGNativeAdLoader.h</key>
 		<data>
-		P8N1b+Z4hlw33qw37hALUv7WugY=
+		Jn4QVfv+AamOrnZHa5OIBTo7ciI=
+		</data>
+		<key>Headers/MTRGNativeAdProtocol.h</key>
+		<data>
+		WdTIIQJF3RrnX3n2vaR3+U1pqEM=
+		</data>
+		<key>Headers/MTRGNativeAdView.h</key>
+		<data>
+		zAlJLOLeLLJ4X6wo57pmiGEHJeo=
 		</data>
 		<key>Headers/MTRGNativeAppwallAd.h</key>
 		<data>
-		jeUpB8fScd5GJyAFj9gvpoUrQko=
+		yppfgLlLxHgdcItD8RWpmk8TNfM=
 		</data>
 		<key>Headers/MTRGNativeAppwallBanner.h</key>
 		<data>
-		lPlf0LzfqMfgbr/fROegAsmokNI=
+		asVoSVE9FVjj2RsmmDtRaBff+uk=
 		</data>
 		<key>Headers/MTRGNativeAppwallViewsFactory.h</key>
 		<data>
-		pJYDqYzH3wpUcnyigeuFKGnMuJA=
+		5rWiyKNfbE8Q+6FR0XxeU+6C/AI=
+		</data>
+		<key>Headers/MTRGNativeBanner.h</key>
+		<data>
+		evf+tNqycbQk5chmPqDPD70Ynoo=
+		</data>
+		<key>Headers/MTRGNativeBannerAd.h</key>
+		<data>
+		/Arv+y+1HcABq6huWQA+aZha5LI=
+		</data>
+		<key>Headers/MTRGNativeBannerAdLoader.h</key>
+		<data>
+		Csdn53EvEREhn2jq/0OVtc2ehwg=
+		</data>
+		<key>Headers/MTRGNativeBannerAdView.h</key>
+		<data>
+		EmhCEEAtCh/MYCSr8WiBYiRksIE=
+		</data>
+		<key>Headers/MTRGNativeCardAdView.h</key>
+		<data>
+		BWFamILsqkI1OiCNfeuMNddnRzU=
 		</data>
 		<key>Headers/MTRGNativePromoBanner.h</key>
 		<data>
-		pLv+j+BEKJCTnQHOG4Qx2e7o85w=
+		QfsuaUFrz7MUIEvyWO6u5rZPslA=
 		</data>
 		<key>Headers/MTRGNativePromoCard.h</key>
 		<data>
-		jYk13O3CuiO9m2I3Cs0JqNCXzlI=
+		izoi6x9P/D7zD952F7o5dyE5gI0=
 		</data>
 		<key>Headers/MTRGNativeViewsFactory.h</key>
 		<data>
-		HP5q7qlbbmL+f64Z3UjYAPhbIMU=
+		+XnNa4TjdOuEiYhuEeFRkD/51z8=
 		</data>
 		<key>Headers/MTRGNavigationType.h</key>
 		<data>
-		ANdOtexylN0J4xNP8LLIJtqFRzE=
-		</data>
-		<key>Headers/MTRGNewsFeedAdView.h</key>
-		<data>
-		NO/HZfbcZn9QYC3ZXAIcmtfNrco=
+		obQjB7QcixfV3BKLysfm4CnRb/g=
 		</data>
 		<key>Headers/MTRGPrivacy.h</key>
 		<data>
-		ejc/TmetHK3wGrvyzsgerrz0n4c=
+		W374yLOK0WqsUj43+7aQn/TtkXM=
 		</data>
 		<key>Headers/MTRGPromoCardCollectionView.h</key>
 		<data>
-		sV86aN4am9MY3ppsZO+b0DNctQk=
+		hOiIsv7ep1aWFZv5A2q5yU/CNyc=
 		</data>
 		<key>Headers/MTRGPromoCardSliderProtocol.h</key>
 		<data>
-		xgM6KyOYsb9pPzlST07ll7Wd3/4=
+		hUvD9Y3MCLj/ES9daHc7OrLy6sw=
 		</data>
 		<key>Headers/MTRGPromoCardViewProtocol.h</key>
 		<data>
-		IrVKxthZvh/aA6QnN1aaemEkaA8=
+		4pNziJa32HMShBbLUUAaOvpJaH8=
 		</data>
 		<key>Headers/MTRGShareButtonData.h</key>
 		<data>
-		6+HfzoKnpGuph8TlbcaWN6f5fIc=
+		EVNZiAcJ2RTmgtseRYFcuRBW7uk=
 		</data>
 		<key>Headers/MTRGStarsRatingLabel.h</key>
 		<data>
-		WqmjvDkRC0HLwokVabUOr92mjkI=
+		EH9M1hpixP4iSPCNR/fTR/PDPx4=
 		</data>
 		<key>Headers/MTRGVersion.h</key>
 		<data>
-		vTRDQe2rttK/fG2XFRZE6LDaN8E=
+		KagbSt1pNgweIXVmSSrzmQHgqsc=
 		</data>
 		<key>Headers/MTRGVideoData.h</key>
 		<data>
-		T/3HR+y7jEo699EYqxB+xoirwiE=
+		RCsRW4jZTuRfwIV9zsMICaCYWb0=
 		</data>
 		<key>Headers/MyTargetSDK.h</key>
 		<data>
-		MjAN3mHMO+btF1hbjhijMt8Qd30=
+		ZCyVKQ7R8otRE6v6L4hQDeb7ppU=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GIQdkvqfyWNnkB9/anTUk8RKN2s=
+		NZtYoOwtebxorqHVbJN4Xc1h3uc=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/MTRGAdChoicesPlacement.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x1hc7qZNjRLBPEXHQ1OPjpZT9yQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			ig8TfVc/u8Fww0lLmPB/1yrhQxe6dQPH49817TnFXPU=
+			</data>
+		</dict>
 		<key>Headers/MTRGAdView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OKVc+RPMWZ9XrwPXTpU89dK07nA=
+			uw+TLQ0wAX+Vr8TbrpbA91gotzg=
 			</data>
 			<key>hash2</key>
 			<data>
-			U0aJwOj3uK93mdYHJM6Z897ovuU9hg7AXBG+M2tsE/0=
+			BNI0rfofB4DTh4f+mbvKeMVVz5jNwKmVL0A5ZVQpJOw=
 			</data>
 		</dict>
 		<key>Headers/MTRGAppwallAdView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7FvNKNk/oifrWZ6rs5IT5ayNNks=
+			l+4rcNq15t+TWj3rI84aqJ+86KY=
 			</data>
 			<key>hash2</key>
 			<data>
-			TTTlsvje+YBup6HQjhb29bhCTv6GY+S9iPZg57pp8vk=
+			0hxKI1rHiX4amivtZIG5NyDaUozfE+594RqcHjlRzbw=
 			</data>
 		</dict>
 		<key>Headers/MTRGAppwallBannerAdView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zAFfFJLCWtmL0FT/JIjR1DkJ9gw=
+			iES6jGdgLol49llUMkZVcR9ySTQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			1sd3GC3DExajxiEzfdvGM/c5s4r/V4E2dbuRbPja/Tk=
+			ovigUVvnHkOwEaBjGgcU9rQUiVlTM1YZVZG75B2rgWc=
 			</data>
 		</dict>
 		<key>Headers/MTRGAudioData.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JsHM9uTbtOwwnukC6Lg0eJhiAB0=
+			HPF98pqzgbLc7uhvfLZu2qYnucs=
 			</data>
 			<key>hash2</key>
 			<data>
-			zMWYyRZtCIfmSbvhAFUmY+jUJRyMHPjHMa61EUG1p04=
+			eZZ/j5Ms853oKuai8J7gNGzMgSCGSOloZ3S9NpTa0vg=
 			</data>
 		</dict>
 		<key>Headers/MTRGBaseAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZTC+P69ZAF9DlFVxYEo6jB+ggYc=
+			GPDvvBOyUi9TwaexDUzefTZ6xWM=
 			</data>
 			<key>hash2</key>
 			<data>
-			7XctXeeZS8AwUrpYoKPQ3fHyPoLIW6itI6Bb40oIwr0=
+			6wFr6ReD2CoOyQwCkN3YnPcnQmpzLeyW2BNMhoRh6RU=
 			</data>
 		</dict>
-		<key>Headers/MTRGChatListAdView.h</key>
+		<key>Headers/MTRGCachePolicy.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7koRSyLZ1gw8dvp8/KieGtI+Zgg=
+			f9KMoEECRQRudRvqtkMRC5mzMLM=
 			</data>
 			<key>hash2</key>
 			<data>
-			u/dv8ZKPUcYGxcwogVvesC837DnhhVVQImATAbMkfLk=
-			</data>
-		</dict>
-		<key>Headers/MTRGContentStreamAdView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			94r5xuMkCpctGsUs+3A4rK8RP2g=
-			</data>
-			<key>hash2</key>
-			<data>
-			KFndcJxx66kcHz47+gcZQk63FmXsb9htkqQBCIvD064=
-			</data>
-		</dict>
-		<key>Headers/MTRGContentStreamCardAdView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Dc3lWMKrAlcoOkLwSreKU8HASEY=
-			</data>
-			<key>hash2</key>
-			<data>
-			T8XZVjHZOlCcBwaZ4NOaF9tnug60ZILZlTqADApnVC4=
-			</data>
-		</dict>
-		<key>Headers/MTRGContentWallAdView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			o/WRJ/t1qAXyoLlNI75JmaZgJ3c=
-			</data>
-			<key>hash2</key>
-			<data>
-			JTnmGSgWISSIkK64cAvP2z43YPJ0udDP6Q46asD8ga0=
+			wc561XE5PHCCeNs931xfNg8O91Vq2MEW8bHKXEXkjAc=
 			</data>
 		</dict>
 		<key>Headers/MTRGCustomParams.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XugI8t5T5TyC71ado5pan00pNnY=
+			urJhCOP1j2cW8IBnjFQUrUpy6fY=
 			</data>
 			<key>hash2</key>
 			<data>
-			F/g5RrsVsp/8k/LO4jnPxc0v7DCsYVgpke+E5j1dYUc=
+			n7kYaLj5hzj+LX5NNkjMQzxL24qRYK57IWurANxJkfg=
+			</data>
+		</dict>
+		<key>Headers/MTRGIconAdView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NeqlOT5SNkm6+hsBYgM62kbP6tA=
+			</data>
+			<key>hash2</key>
+			<data>
+			ON9iSw8LhHd1UO1A/eR8Xd9NRyIgAKMUoNuV1HWWHh8=
 			</data>
 		</dict>
 		<key>Headers/MTRGImageData.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IS7PwGiHvDWDvGq1nVPI2G1Dia0=
+			aSYXBcL3oKokUarkRJMzU/0L+JY=
 			</data>
 			<key>hash2</key>
 			<data>
-			iXqXJsGPqhqMYeF0j95DkmDdhGjuSQiVY9pjWmLRHKA=
+			SPYFA2iMkpUQcWWzMcMoysQ+v0B276EL1Ghsec7kcMI=
 			</data>
 		</dict>
 		<key>Headers/MTRGInstreamAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KKTdQiFBoZyO74A/cZWDZ8v4gk4=
+			H15HroVyADYtZj9z1L30Q1v56RU=
 			</data>
 			<key>hash2</key>
 			<data>
-			CWrviV2vkccjjJv+MbgHTrraNq71DDTZUnuDJ2epDUM=
+			1K7yux7wxQUFnpJC35CDp99lvtY0tK3FCuyPrfxqIPs=
 			</data>
 		</dict>
 		<key>Headers/MTRGInstreamAdPlayer.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WurQwORwtoAQuvlKJP3y6oHvz4I=
+			+vH9IMsTX111/JV1ICQZht6Zj98=
 			</data>
 			<key>hash2</key>
 			<data>
-			GhIxY+bZsEG66ioCpxsokpzd2cKk32bybYHdKDU7GHY=
+			7EumPr7j44Bt9jmaWZiPK3xbgVYdKt/TgW4Uqc/ZTTk=
 			</data>
 		</dict>
 		<key>Headers/MTRGInstreamAudioAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B23TsS02AGbcbb/UPKhp3HCOHxQ=
+			gG/qMOOlyeE+/HoiBqYZhcvaeQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			GQ5hgm4D6vLmZWghCfr3zDwaQsKSdsb2GlxNnE5eafk=
+			ug1XVUoagS4a/63q1AeXoaIfxvx1Ku+rPJuH+5aGdUM=
 			</data>
 		</dict>
 		<key>Headers/MTRGInstreamAudioAdPlayer.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gDI32t2LEEH1gcNTUW6uSKt8tu8=
+			kWLiqpl5/OTIH9aFwhTdFJdaqhg=
 			</data>
 			<key>hash2</key>
 			<data>
-			HpAfeXph0S2EVL9vtONSCau1Z7PrlV+BFCgp9ddjCoo=
+			TARkGiw88wKL1ysVnPuhHe3+4UwHTKEVTrJ7ta5winQ=
 			</data>
 		</dict>
 		<key>Headers/MTRGInstreamResearch.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AoXJ2FT9RsvwFR6HufzomTDqKJI=
+			2H3z92XFDfK6coLcO3rJT+a4L6U=
 			</data>
 			<key>hash2</key>
 			<data>
-			uTQMYpSCnySGSIvqOdgG0Z2VUojDD74YFtKxf2XZjrA=
+			yh5D90LoK0gWbcqCRGgQSheCZLuJL38B9wRdlPxbZjg=
 			</data>
 		</dict>
 		<key>Headers/MTRGInterstitialAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zvRCPFYhtfGXZOihkdp1GOdqlKA=
+			UGHi9MpuvzTuNYyP9/UKWmyOndA=
 			</data>
 			<key>hash2</key>
 			<data>
-			VRGkvkxG1HmW1fmeWF9TP0nrnH4OCsR/pdYJ6IerTk4=
+			661RA1Mbvcq5DXNuxbgS3kBwJazhhBXNsLoywjpHd+Q=
 			</data>
 		</dict>
 		<key>Headers/MTRGInterstitialSliderAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VoEjgSZ8JKkLpi9m4OXjCbHM4Ao=
+			IHAxkFl0onM/vPDpC86z3CoVcrs=
 			</data>
 			<key>hash2</key>
 			<data>
-			UgLk0hOQlWLpphxVbcjw+tb0GNUoCAgRjsahdDUU4/c=
+			TShpfxv0x1T7nkUyzGgDKxHiF3pDyvZnJe64CROTBk8=
 			</data>
 		</dict>
 		<key>Headers/MTRGManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UUf0CdCDduojx15dGK5xiz88iCY=
+			gaFyCxuSwLr51MxZ89oIYrKbEE8=
 			</data>
 			<key>hash2</key>
 			<data>
-			qhu1rPPcNSepPhwnCLEo09ZmHUHnNuLOmgLaxGEUHqo=
+			KDUCjZz4KjNvVW4FAjhDSS1WKl/rYXWZVfkGR8gTEdA=
 			</data>
 		</dict>
 		<key>Headers/MTRGMediaAdView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DKNqM0jDsgP6QUzyFpV1jluwm1w=
+			pLSGt+pDGsF21QZtl6v3Po2E4FY=
 			</data>
 			<key>hash2</key>
 			<data>
-			GnzO9bXBS3GQLuxQx7glZRz8OqaN5z+zEfMUwVjIYbk=
+			FKVWx/+43/SjmqkEPdsnRPtfZAt0G2DMw5No6DBkrcw=
 			</data>
 		</dict>
 		<key>Headers/MTRGMediaData.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V6kEQve2G749tWfD4+nW069n9FI=
+			yTb0qQAK8M8PcD8zW9/1Z73cPqw=
 			</data>
 			<key>hash2</key>
 			<data>
-			b+QRAQguDkDud+sXYZAgB4k8InGBC52Tld/n7tYiWdY=
+			GFr6WlLnzGcmMsNRN5FZWPWDJmQkt4QmG14gSzcoapM=
 			</data>
 		</dict>
 		<key>Headers/MTRGMediationAdConfig.h</key>
@@ -482,22 +491,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			l3MHlaadW2/JD5JzK4mq8ElnAhE=
+			cT/26NgkC2fBF9TN/vT3F6Kl0fE=
 			</data>
 			<key>hash2</key>
 			<data>
-			zBQ/Jaei4LgzuiBFennwH8gOTvzH0A2efFxE/SdpgdI=
+			fOgdnlB+BW6/6PzewYNQCuh30MkAb+ObxXvOdHw0iRI=
 			</data>
 		</dict>
 		<key>Headers/MTRGMediationNativeAdConfig.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uV1MnkxnqbMJEUxhHW9McxpC6Kc=
+			VmkNm1Xy7paNuWIr1/qQtLxDscM=
 			</data>
 			<key>hash2</key>
 			<data>
-			TDv7TqIXzb0GiAvvP8FYzkMU2ih/JvpfLngyWQslCg0=
+			pQ2JFF1HexnHR+g1ypJdp0yV2OONJ+ZVMDzTK708xOk=
 			</data>
 		</dict>
 		<key>Headers/MTRGMediationStandardAdAdapter.h</key>
@@ -515,220 +524,286 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OR/LenEjMCtNhlagsHi/MJN8B6o=
+			ASlFCzmy2UpN4m9hcRzIVQA+7mU=
 			</data>
 			<key>hash2</key>
 			<data>
-			NDoLZeTiUtWcZYYzUPAAbk3Z+TeAPzCWPwGBRzLVupA=
+			4zvrSvEj9FNHcBJR0uCOvZAgnCDAyWg9ICUrhMvxJBw=
 			</data>
 		</dict>
 		<key>Headers/MTRGNativeAdContainer.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Qvg4a61ygZ3U4QzDksQUFS0q1lI=
+			wwp3M21AJk0MizfMAPKuYy+rTPA=
 			</data>
 			<key>hash2</key>
 			<data>
-			d8xiLF3tWJzlDb8cKdyNcmHGNZ6jzuogDkB+wb+bWzs=
+			4/uw8nW9CbhPR95sTPWSXlHEpZJaMUHGvZ/5zt7ijAk=
 			</data>
 		</dict>
 		<key>Headers/MTRGNativeAdLoader.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P8N1b+Z4hlw33qw37hALUv7WugY=
+			Jn4QVfv+AamOrnZHa5OIBTo7ciI=
 			</data>
 			<key>hash2</key>
 			<data>
-			AvCldkvBXeeTHp4NxXDKettsIDjrw0Axj6D0yGYf4b0=
+			iF40uSDiV8TJcZTxPHAIcCytWMUI5ncfd2MGE/KMAns=
+			</data>
+		</dict>
+		<key>Headers/MTRGNativeAdProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WdTIIQJF3RrnX3n2vaR3+U1pqEM=
+			</data>
+			<key>hash2</key>
+			<data>
+			GQu0A9hAtjPmcy4wRKdVPdpfW0lTy3LYSi3H9rdfaAA=
+			</data>
+		</dict>
+		<key>Headers/MTRGNativeAdView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zAlJLOLeLLJ4X6wo57pmiGEHJeo=
+			</data>
+			<key>hash2</key>
+			<data>
+			08HmB7ZndowxhMXwpfffhXBf3UqCxlKERAF6+otP5hA=
 			</data>
 		</dict>
 		<key>Headers/MTRGNativeAppwallAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jeUpB8fScd5GJyAFj9gvpoUrQko=
+			yppfgLlLxHgdcItD8RWpmk8TNfM=
 			</data>
 			<key>hash2</key>
 			<data>
-			aPTSAONfGfkQY6W9QBguZ5uW20PrQap/Dqi+MEy8gXc=
+			FIB8bSXmN1xMM7Bu5JHNKDILe5dw8ED/A5gPC5soyhk=
 			</data>
 		</dict>
 		<key>Headers/MTRGNativeAppwallBanner.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lPlf0LzfqMfgbr/fROegAsmokNI=
+			asVoSVE9FVjj2RsmmDtRaBff+uk=
 			</data>
 			<key>hash2</key>
 			<data>
-			10SJlgDC11BsWDiRSsMD7F7+yT6fNAwgH/3g+xaJ9Ik=
+			MZdULnU2qJOg49ZdDyKj9oWteSmr2NVYF5Mr0LRgDrs=
 			</data>
 		</dict>
 		<key>Headers/MTRGNativeAppwallViewsFactory.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pJYDqYzH3wpUcnyigeuFKGnMuJA=
+			5rWiyKNfbE8Q+6FR0XxeU+6C/AI=
 			</data>
 			<key>hash2</key>
 			<data>
-			bVpv0J8r3xct89sc0nBTlWsuhryq0NOh19SCN4SZP7o=
+			KC79F4dodKlC2Zne0/6vAb2lDE63vlvTDMHnz9pF28A=
+			</data>
+		</dict>
+		<key>Headers/MTRGNativeBanner.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			evf+tNqycbQk5chmPqDPD70Ynoo=
+			</data>
+			<key>hash2</key>
+			<data>
+			uRzXKNW5qb2VXSbOxo2np7+YbMpJvk77MmzyrrnozRk=
+			</data>
+		</dict>
+		<key>Headers/MTRGNativeBannerAd.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/Arv+y+1HcABq6huWQA+aZha5LI=
+			</data>
+			<key>hash2</key>
+			<data>
+			6v73GHh8ApaWdR/4Z+4Hv+QKyH4teHT5oRWqI7VgOzc=
+			</data>
+		</dict>
+		<key>Headers/MTRGNativeBannerAdLoader.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Csdn53EvEREhn2jq/0OVtc2ehwg=
+			</data>
+			<key>hash2</key>
+			<data>
+			fbyQs+MyQ24oI655xBoVctULI2xJHgm//oe6LueH+YM=
+			</data>
+		</dict>
+		<key>Headers/MTRGNativeBannerAdView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EmhCEEAtCh/MYCSr8WiBYiRksIE=
+			</data>
+			<key>hash2</key>
+			<data>
+			yZeOuWpad/qw4E4OCljAwFxMsWvk1yEbxKtpeX43byU=
+			</data>
+		</dict>
+		<key>Headers/MTRGNativeCardAdView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BWFamILsqkI1OiCNfeuMNddnRzU=
+			</data>
+			<key>hash2</key>
+			<data>
+			hacN1hV4ZBcO+ih8mlgS02RWdEzlaav7odGmERYK+ug=
 			</data>
 		</dict>
 		<key>Headers/MTRGNativePromoBanner.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pLv+j+BEKJCTnQHOG4Qx2e7o85w=
+			QfsuaUFrz7MUIEvyWO6u5rZPslA=
 			</data>
 			<key>hash2</key>
 			<data>
-			vWbDggKJXsVDlVOZgPrzzOzAR6QUtV2e5yXiJgfeFw8=
+			Pm6pHk6VZfQTyoB0M67B3VSsodU/KUnbpMrTN1KoBEE=
 			</data>
 		</dict>
 		<key>Headers/MTRGNativePromoCard.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jYk13O3CuiO9m2I3Cs0JqNCXzlI=
+			izoi6x9P/D7zD952F7o5dyE5gI0=
 			</data>
 			<key>hash2</key>
 			<data>
-			aU1tWL8SV3FhU8P8bUNuMeqGzylkEVT9wHnx7tZDwzc=
+			j4gE/NjAQQh87e31MtGjvuz6rc0okJPxMXfXcv5M46s=
 			</data>
 		</dict>
 		<key>Headers/MTRGNativeViewsFactory.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HP5q7qlbbmL+f64Z3UjYAPhbIMU=
+			+XnNa4TjdOuEiYhuEeFRkD/51z8=
 			</data>
 			<key>hash2</key>
 			<data>
-			BqvhLQHEEMMoFGfmz8bUPYR452zUelgvqxuJSzwlM5k=
+			7l/U9YN2QBlZjHhWPSn+rJz969TBdojcTuLGK1iP6Ac=
 			</data>
 		</dict>
 		<key>Headers/MTRGNavigationType.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ANdOtexylN0J4xNP8LLIJtqFRzE=
+			obQjB7QcixfV3BKLysfm4CnRb/g=
 			</data>
 			<key>hash2</key>
 			<data>
-			/EvaY6g+sSsCogc6PATG61hYn4MRSSH71Fm9AcLMFjA=
-			</data>
-		</dict>
-		<key>Headers/MTRGNewsFeedAdView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NO/HZfbcZn9QYC3ZXAIcmtfNrco=
-			</data>
-			<key>hash2</key>
-			<data>
-			gQlHIi5yJmS8CMF5HL/7Rs5ICtOKmvYXGI6sPYcBJLw=
+			2GBz6vxcgrZmsfL8Ru4xXx2C6BjHGnlnBfF3vuuWCDA=
 			</data>
 		</dict>
 		<key>Headers/MTRGPrivacy.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ejc/TmetHK3wGrvyzsgerrz0n4c=
+			W374yLOK0WqsUj43+7aQn/TtkXM=
 			</data>
 			<key>hash2</key>
 			<data>
-			H3xTni6/Ola4lQqRwaFk6F2hOkm7BCoXCuVe+ovObdE=
+			r7Rd7QZQQRn95Z4on7O2sjW5HHwZUKHnobtbgPOs5LU=
 			</data>
 		</dict>
 		<key>Headers/MTRGPromoCardCollectionView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sV86aN4am9MY3ppsZO+b0DNctQk=
+			hOiIsv7ep1aWFZv5A2q5yU/CNyc=
 			</data>
 			<key>hash2</key>
 			<data>
-			1D40nYAedWsTtJ/kGwnbyoyZAfY696skYeZR0uE4EXU=
+			c7LDeO1fP/5bxgOKXK54IZ2EQm+56Mvs4O12O21N3jQ=
 			</data>
 		</dict>
 		<key>Headers/MTRGPromoCardSliderProtocol.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xgM6KyOYsb9pPzlST07ll7Wd3/4=
+			hUvD9Y3MCLj/ES9daHc7OrLy6sw=
 			</data>
 			<key>hash2</key>
 			<data>
-			HVHA3Rztqt7KgRMoHrfZhoGHGHZx6M3JbUa1+UETEl8=
+			b+mKf037kSxblWT/VqmZg3LKqkLYcJY+0IaY9F1NkW4=
 			</data>
 		</dict>
 		<key>Headers/MTRGPromoCardViewProtocol.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IrVKxthZvh/aA6QnN1aaemEkaA8=
+			4pNziJa32HMShBbLUUAaOvpJaH8=
 			</data>
 			<key>hash2</key>
 			<data>
-			qTh59mf/ffxpS19PbBH6ekOMI1xFNOOTUWrFSyCI6Aw=
+			pn5ko+m+3Mp54vwlgc3c9fWxHmYuxv+sgjek6w3GxiA=
 			</data>
 		</dict>
 		<key>Headers/MTRGShareButtonData.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6+HfzoKnpGuph8TlbcaWN6f5fIc=
+			EVNZiAcJ2RTmgtseRYFcuRBW7uk=
 			</data>
 			<key>hash2</key>
 			<data>
-			s+jZdG2gGNIc0J9HXSxaTT9gK26xf4rdN1NqvRNkU1s=
+			Cw/tqyepIVd99FZbjtItW1nOUTPWAvqjNxFPEIC81kg=
 			</data>
 		</dict>
 		<key>Headers/MTRGStarsRatingLabel.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WqmjvDkRC0HLwokVabUOr92mjkI=
+			EH9M1hpixP4iSPCNR/fTR/PDPx4=
 			</data>
 			<key>hash2</key>
 			<data>
-			yp20Nq0NXRXQ/nKRcYtUM4CDld+1sW3+gtfN/FDxsEo=
+			EIzNc7cbhlaiPItCn8ewr0z/6MIpjJkJoA1nK/rJspw=
 			</data>
 		</dict>
 		<key>Headers/MTRGVersion.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vTRDQe2rttK/fG2XFRZE6LDaN8E=
+			KagbSt1pNgweIXVmSSrzmQHgqsc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pig0Tapf4DVZ71qOfDDSEY+JZG9dd7B2DpubY+xtX9M=
+			vTQ/Ff5sCfpHI2pwbW9AnfJpxz2aQc+mpnpj3X5Ol+E=
 			</data>
 		</dict>
 		<key>Headers/MTRGVideoData.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T/3HR+y7jEo699EYqxB+xoirwiE=
+			RCsRW4jZTuRfwIV9zsMICaCYWb0=
 			</data>
 			<key>hash2</key>
 			<data>
-			sCXax7dNBr/4v00yDu7JWiOuMAs28/dBvwnTiWWTcZE=
+			uypHnpksGgQ8Lav2Zrcg/nItnPqujF6kSzL+8QfTLD0=
 			</data>
 		</dict>
 		<key>Headers/MyTargetSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MjAN3mHMO+btF1hbjhijMt8Qd30=
+			ZCyVKQ7R8otRE6v6L4hQDeb7ppU=
 			</data>
 			<key>hash2</key>
 			<data>
-			mXcjDmuFhDq4ZF88ddul0oTgrMs0wmOZhQuOSqGcIpQ=
+			eoEK2BHd2K9R33WUH63IAubAcf9NsZBGlbI1nrnp0LE=
 			</data>
 		</dict>
 	</dict>

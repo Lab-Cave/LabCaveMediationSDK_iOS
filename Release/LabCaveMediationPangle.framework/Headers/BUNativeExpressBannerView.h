@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "BUMaterialMeta.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -55,6 +56,12 @@ NS_ASSUME_NONNULL_BEGIN
  @param filterwords : the array of reasons for dislike.
  */
 - (void)nativeExpressBannerAdView:(BUNativeExpressBannerView *)bannerAdView dislikeWithReason:(NSArray<BUDislikeWords *> *_Nullable)filterwords;
+
+/**
+ This method is called when another controller has been closed.
+ @param interactionType : open appstore in app or open the webpage or view video ad details page.
+ */
+- (void)nativeExpressBannerAdViewDidCloseOtherController:(BUNativeExpressBannerView *)bannerAdView interactionType:(BUInteractionType)interactionType;
 
 @end
 

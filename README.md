@@ -1,6 +1,6 @@
 # LabCave Mediation iOS SDK
 
-The current version (2.11.2) is tested with Xcode11 or above and is compatible with iOS 9 and above.
+The current version (2.12.0) is tested with Xcode11 or above and is compatible with iOS 9 and above.
 
 >Xcode11 is mandatory for building the project
 
@@ -66,6 +66,12 @@ Realize you need to also ad the GoogleAppMeasurement.framework, GoogleUtilities.
 <key>GADApplicationIdentifier</key>
 <string>YOUR_ADMOB_APP_ID</string>
 ````
+>**IMPORTANT IF YOU ARE USING TAPJOY**
+>
+>You need to add the file named "Tapjoy.embeddedframework" to your XCode project, in XCode Files/Add files to ...
+
+>If you are using pangle, applovin or fyber, these networks include bundle files (.bundle). Please add these files to your XCode project by Files/Add files to ...
+
 ## Initialize the SDK
 
 Once you have added all the files, it's time to initialize the SDK. 
@@ -450,3 +456,16 @@ You can use the following methods:
 
 [LabCaveMediation getUserConsent];
 ```
+### IAPs Event (SDK 2.12 and above)
+>We offer the following optional methods to record purchase events (and associate revenue to them) and calculate your LTV (Ads + IAPs). This feature is completely independent of the ads integration.
+```java
+ [LabCaveMediation purchaseEvent:floatValue currency:NSString productId:NSString quantity:int orderId:NSString];
+   
+LabCaveMediation.purchaseEvent(revenue(float),currency: currency(String), productId: productId(String), quantity:quantity(int), orderId:orderId(string))
+```
+You should send us the parameters following this format:
+Revenue: The total revenue from that in-app purchase. The revenue value should not contain comma separators, currency sign, or text. A revenue event should be similar to 1234.56, for example.
+currency: You should send the currency using the [3 character ISO 4217 code](https://en.wikipedia.org/wiki/ISO_4217#Active_codes). For example: USD or EUR
+productId: You can use here the bundle id of the product. For example: "com.game.bagofcoins"
+Quantity: The number of items bought. It defaults to 1
+orderId: The confirmation ID from store in order to avoid event duplications.

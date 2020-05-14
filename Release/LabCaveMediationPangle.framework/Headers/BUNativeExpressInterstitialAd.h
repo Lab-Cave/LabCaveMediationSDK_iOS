@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "BUMaterialMeta.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -57,6 +58,12 @@ NS_ASSUME_NONNULL_BEGIN
  This method is called when interstitial ad is closed.
  */
 - (void)nativeExpresInterstitialAdDidClose:(BUNativeExpressInterstitialAd *)interstitialAd;
+
+/**
+ This method is called when another controller has been closed.
+ @param interactionType : open appstore in app or open the webpage or view video ad details page.
+ */
+- (void)nativeExpresInterstitialAdDidCloseOtherController:(BUNativeExpressInterstitialAd *)interstitialAd interactionType:(BUInteractionType)interactionType;
 
 @end
 

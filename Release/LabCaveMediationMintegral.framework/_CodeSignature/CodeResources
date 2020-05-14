@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/MTGBool.h</key>
 		<data>
-		t+6JAHUoyrbRNuBtlm6xqXYHrzI=
+		XveE9Wpub49j2GYEAkKPjra6dGs=
 		</data>
 		<key>Headers/MTGCampaign.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/MTGNativeAd.h</key>
 		<data>
-		5As7ZtdKl+fd6ipX0QOpFR19UbM=
+		Q7SzWilT4JT0xmw52oT4ilxSknY=
 		</data>
 		<key>Headers/MTGNativeAdManager.h</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/MTGSDK.h</key>
 		<data>
-		QtZGK5C4w630HBB+uguf/gcvOL0=
+		f/AfcWwWpmOG2YQw5Gxuuf4qZOw=
 		</data>
 		<key>Headers/MTGTemplate.h</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KklobX9UsOhOyxBaYodTZwLk7TQ=
+		QkjRE5/TgOH4ZKT8IgageL7pxaI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -127,11 +127,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t+6JAHUoyrbRNuBtlm6xqXYHrzI=
+			XveE9Wpub49j2GYEAkKPjra6dGs=
 			</data>
 			<key>hash2</key>
 			<data>
-			6criBlzeerZejz+53uYYDvuUIlPEkBCw6fWYTDXlTZk=
+			RA1VU6JAmgJxzpVqU5goJCrDS7YoQwSBrPJU8YJ1lGs=
 			</data>
 		</dict>
 		<key>Headers/MTGCampaign.h</key>
@@ -182,11 +182,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5As7ZtdKl+fd6ipX0QOpFR19UbM=
+			Q7SzWilT4JT0xmw52oT4ilxSknY=
 			</data>
 			<key>hash2</key>
 			<data>
-			8RMyGCZbNeCN7gSLx2CHKlVtyj5FMmCIq9YZM0431/A=
+			V0mblTXRo05B4hqXFfQs6u/+PWoiH7H8TpxtOGhfyOI=
 			</data>
 		</dict>
 		<key>Headers/MTGNativeAdManager.h</key>
@@ -226,11 +226,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QtZGK5C4w630HBB+uguf/gcvOL0=
+			f/AfcWwWpmOG2YQw5Gxuuf4qZOw=
 			</data>
 			<key>hash2</key>
 			<data>
-			JJXXnQKTDballIWetfha/TucCiojtUIr4gkzwMK+52Y=
+			z9UKRVGKuoYMSmcUG3BhiHTt2IZcjnVHI5i55ZjwfSE=
 			</data>
 		</dict>
 		<key>Headers/MTGTemplate.h</key>
