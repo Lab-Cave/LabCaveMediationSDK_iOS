@@ -14,11 +14,11 @@
 		</data>
 		<key>Headers/MTGAdSize.h</key>
 		<data>
-		rqm4/Ycpyny8A6zXSMQJAcRGkks=
+		/I2Pri9ues2Nl2abyhhiq/C3VzU=
 		</data>
 		<key>Headers/MTGBidNativeAdManager.h</key>
 		<data>
-		wv8uOTHYOzraW0n44pHPXbEU3T8=
+		Q9hNR2j8wP2m0QGNEPq/swVvc/c=
 		</data>
 		<key>Headers/MTGBool.h</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Headers/MTGNativeAd.h</key>
 		<data>
-		Q7SzWilT4JT0xmw52oT4ilxSknY=
+		OiGiXLg41SOENgpQQY9JYZ/LxY4=
 		</data>
 		<key>Headers/MTGNativeAdManager.h</key>
 		<data>
-		cs9URsgGmdAAqYrI9ujxDJ71da4=
+		urs+EPz0Umx0hcy4801MzkjUTjA=
 		</data>
 		<key>Headers/MTGNativeScrollView.h</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/MTGSDK.h</key>
 		<data>
-		f/AfcWwWpmOG2YQw5Gxuuf4qZOw=
+		aAcA3W3A0UHjDPYf0be5ClvkRuE=
 		</data>
 		<key>Headers/MTGTemplate.h</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		QkjRE5/TgOH4ZKT8IgageL7pxaI=
+		KklobX9UsOhOyxBaYodTZwLk7TQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -105,22 +105,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rqm4/Ycpyny8A6zXSMQJAcRGkks=
+			/I2Pri9ues2Nl2abyhhiq/C3VzU=
 			</data>
 			<key>hash2</key>
 			<data>
-			bQXyr49COxit4CgPe+icoFv4xR1imuRGSoXj5mM6bjw=
+			P3jPkz0Z2U7+AiWt8K9ISndtuiU/Bs85nSLsaTZ3vL0=
 			</data>
 		</dict>
 		<key>Headers/MTGBidNativeAdManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wv8uOTHYOzraW0n44pHPXbEU3T8=
+			Q9hNR2j8wP2m0QGNEPq/swVvc/c=
 			</data>
 			<key>hash2</key>
 			<data>
-			luVw7LWnsxqx7KsKnodQgvvKBINlVqbA2vr2jlHeiQQ=
+			fwHA7ydKnEGd+3kWIsTOU6vML2gBynHNJ+JWRkc709Q=
 			</data>
 		</dict>
 		<key>Headers/MTGBool.h</key>
@@ -182,22 +182,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q7SzWilT4JT0xmw52oT4ilxSknY=
+			OiGiXLg41SOENgpQQY9JYZ/LxY4=
 			</data>
 			<key>hash2</key>
 			<data>
-			V0mblTXRo05B4hqXFfQs6u/+PWoiH7H8TpxtOGhfyOI=
+			Lbzv9ZkkSaJ+vLn+MDtRLnmlzrgKIfC0pJXRu2zsA5w=
 			</data>
 		</dict>
 		<key>Headers/MTGNativeAdManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cs9URsgGmdAAqYrI9ujxDJ71da4=
+			urs+EPz0Umx0hcy4801MzkjUTjA=
 			</data>
 			<key>hash2</key>
 			<data>
-			h03zsnqn4fGm/1xd91KPRcAmde4bfNJ+tlHWtJ5XT/U=
+			cbUxSPK42rAJWm0Eo7x7riV/Pfozgoq5+jw0HXoYeaE=
 			</data>
 		</dict>
 		<key>Headers/MTGNativeScrollView.h</key>
@@ -226,11 +226,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			f/AfcWwWpmOG2YQw5Gxuuf4qZOw=
+			aAcA3W3A0UHjDPYf0be5ClvkRuE=
 			</data>
 			<key>hash2</key>
 			<data>
-			z9UKRVGKuoYMSmcUG3BhiHTt2IZcjnVHI5i55ZjwfSE=
+			XTId+Piyg4MYtzi0hd9GuE7yzq+ObNrPTh58IBvSOsY=
 			</data>
 		</dict>
 		<key>Headers/MTGTemplate.h</key>

@@ -35,8 +35,8 @@ NS_ASSUME_NONNULL_BEGIN
 #define IS_OFFERWALL @"offerwall"
 #define IS_BANNER @"banner"
 
-static NSString * const MEDIATION_SDK_VERSION     = @"6.13.0.1";
-static NSString * GitHash = @"baea5f2ae";
+static NSString * const MEDIATION_SDK_VERSION     = @"6.16.1";
+static NSString * GitHash = @"25f0dae54";
 
 @interface IronSource : NSObject
 
@@ -146,6 +146,12 @@ static NSString * GitHash = @"baea5f2ae";
 */
 + (void)setMetaDataWithKey:(NSString *)key value:(NSString *)value;
 
+/**
+@abstact used for demand only API, return the bidding data token.
+*/
+ + (NSString *) getISDemandOnlyBiddingData;
+
+    
 #pragma mark - SDK Initialization
 
 /**
@@ -256,11 +262,18 @@ static NSString * GitHash = @"baea5f2ae";
 + (void)setISDemandOnlyRewardedVideoDelegate:(id<ISDemandOnlyRewardedVideoDelegate>)delegate;
 
 /**
- @abstract Loads a demand only rewarded video.
- @discussion This method will load a demand only rewarded video ad.
+ @abstract Loads a demand only rewarded video for a non bidder instance.
+ @discussion This method will load a demand only rewarded video ad for a non bidder instance.
  @param instanceId The demand only instance id to be used to display the rewarded video.
  */
 + (void)loadISDemandOnlyRewardedVideo:(NSString *)instanceId;
+
+/**
+ @abstract Loads a demand only rewarded video for a bidder instance.
+ @discussion This method will load a demand only rewarded video ad for a bidder instance.
+ @param instanceId The demand only instance id to be used to display the rewarded video.
+ */
++ (void)loadISDemandOnlyRewardedVideoWithAdm:(NSString *)instanceId adm:(NSString *)adm;
 
 /**
  @abstract Shows a demand only rewarded video using the default placement.
@@ -345,6 +358,14 @@ static NSString * GitHash = @"baea5f2ae";
  @param instanceId The demand only instance id to be used to display the interstitial.
  */
 + (void)loadISDemandOnlyInterstitial:(NSString *)instanceId;
+
+/**
+ @abstract Loads a demand only interstitial bidder instance.
+ @discussion This method will load a demand only interstitial ad bidder instance.
+ @param instanceId The demand only instance id to be used to display the interstitial.
+ */
++ (void)loadISDemandOnlyInterstitialWithAdm:(NSString *)instanceId adm:(NSString *)adm;
+
 
 /**
  @abstract Show a demand only interstitial using the default placement.
